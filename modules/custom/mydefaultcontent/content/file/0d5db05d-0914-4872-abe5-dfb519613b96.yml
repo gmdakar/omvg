@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 0d5db05d-0914-4872-abe5-dfb519613b96
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: avatar-1.jpg
+  uri:
+    -
+      value: 'public://testimonial/avatar-1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 11862
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482296166

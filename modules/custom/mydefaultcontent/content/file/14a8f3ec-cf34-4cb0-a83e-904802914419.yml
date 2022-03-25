@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 14a8f3ec-cf34-4cb0-a83e-904802914419
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: gallery-6.jpg
+  uri:
+    -
+      value: 'public://gallery/gallery-6.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 223618
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295081

@@ -1,0 +1,48 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f71251eb-d5fa-4805-8add-65d72b7b8f87
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Gallery
+  created:
+    -
+      value: 1631116335
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_layout:
+    -
+      value: fw
+  gva_node_class:
+    -
+      value: hidden-title
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"class_css":"el-94928947","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","padding_top":"25","padding_bottom":"40"},"columns":[{"settings":{"element":"gva_column","class_css":"el-8585443","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover"},"col_lg":12,"elements":[{"settings":{"class_css":"el-67781004","animate_delay":"0","style_space":"padding-small","image_1":"/sites/default/files/gallery/gallery-1.jpg","image_2":"/sites/default/files/gallery/gallery-2.jpg","image_3":"/sites/default/files/gallery/gallery-3.jpg","image_4":"/sites/default/files/gallery/gallery-4.jpg","image_5":"/sites/default/files/gallery/gallery-5.jpg","data_items":"3","image_6":"/sites/default/files/gallery/gallery-6.jpg","image_7":"/sites/default/files/gallery/gallery-7.jpg","image_8":"/sites/default/files/gallery/gallery-8.jpg","image_9":"/sites/default/files/gallery/gallery-9.jpg","style_layout":"grid-column-3"},"editing":false,"element_name":"gva_gallery"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"}]'
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /gallery
+      langcode: en
+      pathauto: 1

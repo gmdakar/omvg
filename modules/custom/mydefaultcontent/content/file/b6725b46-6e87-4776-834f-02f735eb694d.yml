@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b6725b46-6e87-4776-834f-02f735eb694d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: team-3.jpg
+  uri:
+    -
+      value: 'public://team/team-3.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 47248
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295476

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: a054f1cc-0695-4ce1-9db5-89b1eafa6427
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: image-1.jpg
+  uri:
+    -
+      value: 'public://testimonial/image-1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 164343
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1500350175

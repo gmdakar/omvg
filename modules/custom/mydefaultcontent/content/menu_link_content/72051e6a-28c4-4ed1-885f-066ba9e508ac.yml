@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 72051e6a-28c4-4ed1-885f-066ba9e508ac
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    d64be6ad-c680-4524-83ed-175655ce10b8: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: Gallery
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/gallery'
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: about
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -45
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:d64be6ad-c680-4524-83ed-175655ce10b8'
+  revision_translation_affected:
+    -
+      value: true

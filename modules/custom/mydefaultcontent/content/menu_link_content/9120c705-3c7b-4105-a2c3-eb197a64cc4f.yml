@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 9120c705-3c7b-4105-a2c3-eb197a64cc4f
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Health & Fitness'
+  menu_name:
+    -
+      value: footer
+  link:
+    -
+      uri: 'internal:#'
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: about
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 0
+  expanded:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true

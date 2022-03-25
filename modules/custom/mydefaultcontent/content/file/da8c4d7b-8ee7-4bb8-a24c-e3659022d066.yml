@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: da8c4d7b-8ee7-4bb8-a24c-e3659022d066
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: gallery-9.jpg
+  uri:
+    -
+      value: 'public://gallery/gallery-9.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 116199
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295106

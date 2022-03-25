@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 152e910d-b758-45ae-9f10-7363d90d31e7
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: team-8.jpg
+  uri:
+    -
+      value: 'public://team/team-8.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 25869
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295494

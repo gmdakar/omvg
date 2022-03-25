@@ -1,0 +1,93 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: f37b1122-a639-43ec-af75-fba388bb5fa1
+  bundle: team
+  default_langcode: en
+  depends:
+    caf992eb-7955-48e1-bcc0-a115ed7be012: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Ada Rose Edwards'
+  created:
+    -
+      value: 1482295400
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<p>Based in London, he is a business transformation expert and 25-year veteran at the firm, working with major corporate and private equity clients in Australia, Japan, China, Europe and North America. He is a leading contributor to Bain’s Results Delivery®, Organization, Consumer Products, Retail and Air Transportation &amp; Services practices.</p>\r\n\r\n<p>He joined Financial Solutions in London at graduate entry level in 1987. Prior to moving to Australia in 1991 with Bain, he spent two years in the UK in a senior sales and marketing role.</p>\r\n\r\n<p>Peter was the managing partner of Bain’s Australian business between 1998 and 2005 followed by a two-year posting to Japan where he served as managing partner of Bain’s Tokyo office. From 2008 to 2013, he was in the role of regional managing director for Asia Pacific based out of Hong Kong.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_team_contact:
+    -
+      value: 'Phone : 61 3 8376 6284'
+    -
+      value: 'Email : sanbro@gmail.com'
+  field_team_description:
+    -
+      value: "<p>Peter Stumbles is a partner at Financial solutions based in the Sydney office. He is the head of the Asia-Pacific Financial Services practice and is also a leader in the Global Performance Improvement practice.</p>\r\n"
+      format: full_html
+  field_team_education:
+    -
+      value: 'BS, engineering, Technical University of Denmark'
+    -
+      value: 'MBA, Rotterdam School of Management, Erasmus University'
+    -
+      value: 'BS, engineering, Technical University of Denmark'
+  field_team_email:
+    -
+      value: your_email@gmail.com
+  field_team_facebook:
+    -
+      value: '#'
+  field_team_google:
+    -
+      value: '#'
+  field_team_image:
+    -
+      entity: caf992eb-7955-48e1-bcc0-a115ed7be012
+      alt: ''
+      title: ''
+      width: 550
+      height: 550
+  field_team_linkedin:
+    -
+      value: '#'
+  field_team_name:
+    -
+      value: 'Ada Rose Edwards'
+  field_team_pinterest:
+    -
+      value: '#'
+  field_team_position:
+    -
+      value: Supervisor
+  field_team_quote:
+    -
+      value: 'Infuse your life with action. Don''t wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.'
+  field_team_twitter:
+    -
+      value: '#'

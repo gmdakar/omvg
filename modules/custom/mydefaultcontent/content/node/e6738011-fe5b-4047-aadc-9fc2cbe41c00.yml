@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: e6738011-fe5b-4047-aadc-9fc2cbe41c00
+  bundle: banner
+  default_langcode: en
+  depends:
+    210f046f-ee7b-4b7a-8e76-146a3e99df3d: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'banner 8'
+  created:
+    -
+      value: 1482294943
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
+  field_image:
+    -
+      entity: 210f046f-ee7b-4b7a-8e76-146a3e99df3d
+      alt: alt
+      title: ''
+      width: 126
+      height: 29

@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: eb7e16b0-1306-4415-b118-6671f7aa7a55
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: Careers
+  menu_name:
+    -
+      value: menu-second
+  link:
+    -
+      uri: 'internal:/node/73'
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: companypresentation
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -49
+  expanded:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true

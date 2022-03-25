@@ -1,0 +1,46 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: ed9bd649-e042-4c61-941e-262203eb47a6
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    80d63001-2341-4d2f-b35f-d6afaeb5afde: menu_link_content
+    1c89ac73-49af-487c-b45e-bd59847a6851: node
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Campaigns List'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      target_uuid: 1c89ac73-49af-487c-b45e-bd59847a6851
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: breadcrumbs
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: false
+  weight:
+    -
+      value: -49
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:80d63001-2341-4d2f-b35f-d6afaeb5afde'
+  revision_translation_affected:
+    -
+      value: true

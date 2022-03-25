@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 54c73758-476b-4fa2-aac3-698f4c4d3ecd
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: team-6.jpg
+  uri:
+    -
+      value: 'public://team/team-6.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 14923
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295488

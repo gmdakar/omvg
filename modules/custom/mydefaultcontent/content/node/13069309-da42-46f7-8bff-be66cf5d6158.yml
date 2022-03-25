@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 13069309-da42-46f7-8bff-be66cf5d6158
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Features - Heading Style'
+  created:
+    -
+      value: 1482314289
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_layout:
+    -
+      value: fw
+  gva_node_class:
+    -
+      value: hidden-title
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"class_css":"el-11684375","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"30","padding_bottom":"0","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-19196923"},"col_lg":12,"elements":[{"settings":{"class_css":"el-85299428","title":"Featured Projects","align":"align-center","style":"style-1","html_tags":"h2","button_style":"btn-theme","animate_delay":"0","sub_title":"Businesses You Can Back","dot_color":"theme-color-second"},"editing":false,"element_name":"gva_heading"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"},{"settings":{"class_css":"el-62062532","element":"gva_row","bg_image":"/sites/default/files/gbb-uploads/bg-1.jpeg","bg_position":"center center","bg_repeat":"no-repeat","bg_attachment":"bg-fixed","bg_size":"cover","style_space":"default","layout":"container","padding_top":"110","padding_bottom":"120","padding_top_lg":"60","padding_bottom_lg":"70"},"columns":[{"settings":{"element":"gva_column","class_css":"el-60694057"},"col_lg":12,"elements":[{"settings":{"class_css":"el-55776477","title":"Together We can Bring More Creativity into the World","align":"align-center","html_tags":"h2","button_style":"btn-theme-second","animate_delay":"0","sub_title":"World is Full with Creativity","button_link":"#","button_text":"Start a Project","title_color":"#fff","subtitle_color":"#29f0b4","max_width":"915px","title_font_size":"64","title_line_height":"84","dot_color":"theme-color-second","remove_padding":"padding-bottom-0","style":"style-large"},"editing":false,"element_name":"gva_heading"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"}]'
+  path:
+    -
+      alias: /features-heading-style
+      langcode: en
+      pathauto: 1

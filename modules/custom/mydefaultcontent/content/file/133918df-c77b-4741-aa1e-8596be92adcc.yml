@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 133918df-c77b-4741-aa1e-8596be92adcc
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: post-11.jpg
+  uri:
+    -
+      value: 'public://articles/post-11.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 222686
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482293526

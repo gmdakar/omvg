@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 7b7bea31-fb65-4051-8922-cb00924fd012
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: gallery-12.jpg
+  uri:
+    -
+      value: 'public://gallery/gallery-12.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 168562
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295140

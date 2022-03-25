@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 36f3e059-31f3-4d97-8214-b296adc16e7d
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: brand-dark-4.png
+  uri:
+    -
+      value: 'public://banner/brand-dark-4.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 2998
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482294898

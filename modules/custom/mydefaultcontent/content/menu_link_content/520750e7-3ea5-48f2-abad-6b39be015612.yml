@@ -1,0 +1,46 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 520750e7-3ea5-48f2-abad-6b39be015612
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    d64be6ad-c680-4524-83ed-175655ce10b8: menu_link_content
+    90ceddc7-0bfb-4b70-aa19-4299b398962f: node
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Company Overview'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      target_uuid: 90ceddc7-0bfb-4b70-aa19-4299b398962f
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: gavias_funzi_companypresentation
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: false
+  weight:
+    -
+      value: -48
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:d64be6ad-c680-4524-83ed-175655ce10b8'
+  revision_translation_affected:
+    -
+      value: true

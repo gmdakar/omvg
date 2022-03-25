@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b7a26a20-cad1-4789-abfe-f27004535464
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: gallery-8.jpg
+  uri:
+    -
+      value: 'public://gallery/gallery-8.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 217404
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295097

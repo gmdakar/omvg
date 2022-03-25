@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 9428f41f-74dc-41e7-b7ca-1de0597dfc72
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: brand-dark-2.png
+  uri:
+    -
+      value: 'public://banner/brand-dark-2.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 2542
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482294877

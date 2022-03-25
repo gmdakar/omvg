@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 76707931-2765-4aaa-abe8-03c8532f9743
+  bundle: banner
+  default_langcode: en
+  depends:
+    959a6835-272f-44ea-9fd1-9523ed15f607: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'banner 6'
+  created:
+    -
+      value: 1482294856
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 1
+  field_image:
+    -
+      entity: 959a6835-272f-44ea-9fd1-9523ed15f607
+      alt: alt
+      title: ''
+      width: 123
+      height: 29

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: df98f0c0-0fe5-4a99-b184-e9f11ce36695
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: event-3.jpg
+  uri:
+    -
+      value: 'public://events/event-3.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 83145
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1520998755

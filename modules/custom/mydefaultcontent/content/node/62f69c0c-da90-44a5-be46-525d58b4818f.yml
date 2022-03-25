@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 62f69c0c-da90-44a5-be46-525d58b4818f
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Features - Pricing'
+  created:
+    -
+      value: 1526376431
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_layout:
+    -
+      value: fw
+  gva_node_class:
+    -
+      value: hidden-title
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"element":"gva_row","bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","row_name":"Pricing","class_css":"el-4843460"},"columns":[{"settings":{"element":"gva_column","class_css":"el-69187098"},"col_lg":12,"elements":[{"settings":{"title":"Choose Your Plan","align":"align-center","style_text":"text-dark","desc":"<p>Proin aliquam ante quis sagittis blandit. In hac habitasse platea dictumst. In sit amet pharetra tellus. Morbi sed consequat augue. Quisque ultricies, ex et sagittis commodo.</p>","animate_delay":"0","class_css":"el-15974325","sub_title":"Pricing","html_tags":"h2","button_style":"btn-theme"},"editing":false,"element_name":"gva_heading"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-73802747"},"col_lg":3,"elements":[{"settings":{"title":"Basic","price":"15","currency":"$","period":"Month","content":"<ul>\r\n<li>Coffee &amp; water service</li>\r\n<li>High speed Internet</li>\r\n<li>Opening hours (9:00 &ndash; 19:00)</li>\r\n<li class=\"off\">Hot desk</li>\r\n<li class=\"off\">Limited printer &amp; scanner</li>\r\n<li class=\"off\">Limited meeting room access</li>\r\n<li class=\"off\">Event and showroom use</li>\r\n</ul>","link_title":"Read more","link":"#","featured":"off","animate":"fade-up","animate_delay":"300","class_css":"el-34244510"},"editing":false,"element_name":"gva_pricing_item"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-99886370"},"col_lg":3,"elements":[{"settings":{"title":"Personal","price":"25","currency":"$","period":"Month","content":"<ul>\r\n<li>Coffee &amp; water service</li>\r\n<li>High speed Internet</li>\r\n<li>Opening hours (9:00 &ndash; 19:00)</li>\r\n<li class=\"\">Hot desk</li>\r\n<li class=\"off\">Limited printer &amp; scanner</li>\r\n<li class=\"off\">Limited meeting room access</li>\r\n<li class=\"off\">Event and showroom use</li>\r\n</ul>","link_title":"Read more","link":"#","featured":"on","animate":"fade-up","animate_delay":"600","class_css":"el-47611103"},"editing":false,"element_name":"gva_pricing_item"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-51017129"},"col_lg":3,"elements":[{"settings":{"title":"Professional","price":"35","currency":"$","period":"Month","content":"<ul>\r\n<li>Coffee &amp; water service</li>\r\n<li>High speed Internet</li>\r\n<li>Opening hours (9:00 &ndash; 19:00)</li>\r\n<li class=\"\">Hot desk</li>\r\n<li class=\"\">Limited printer &amp; scanner</li>\r\n<li class=\"off\">Limited meeting room access</li>\r\n<li class=\"off\">Event and showroom use</li>\r\n</ul>","link_title":"Read more","link":"#","featured":"off","animate":"fade-up","animate_delay":"900","class_css":"el-8515023"},"editing":false,"element_name":"gva_pricing_item"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-13569983"},"col_lg":3,"elements":[{"settings":{"title":"Enterprise","price":"50","currency":"$","period":"Month","content":"<ul>\r\n<li>Coffee &amp; water service</li>\r\n<li>High speed Internet</li>\r\n<li>Opening hours (9:00 &ndash; 19:00)</li>\r\n<li class=\"\">Hot desk</li>\r\n<li class=\"\">Limited printer &amp; scanner</li>\r\n<li class=\"\">Limited meeting room access</li>\r\n<li class=\"\">Event and showroom use</li>\r\n</ul>","link_title":"Read more","link":"#","featured":"off","animate":"fade-up","animate_delay":"1200","class_css":"el-53721651"},"editing":false,"element_name":"gva_pricing_item"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","row_name":"Pricing"}]'
+  path:
+    -
+      alias: /features-pricing
+      langcode: en
+      pathauto: 1

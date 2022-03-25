@@ -1,0 +1,40 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 965dcc53-f329-413c-b54d-8a9085c7d4f3
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Company overview'
+  menu_name:
+    -
+      value: menu-second
+  link:
+    -
+      uri: 'internal:/node/71'
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: companypresentation
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -50
+  expanded:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true

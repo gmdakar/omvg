@@ -1,0 +1,42 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 0349a386-e739-440a-a825-e4694e4afff4
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    9766b8e0-930c-4917-b178-4c51fd8b7989: menu_link_content
+    ff94b2d6-dba4-47a6-ba23-20829467255f: node
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Element Button'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      target_uuid: ff94b2d6-dba4-47a6-ba23-20829467255f
+      title: ''
+      options: {  }
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: false
+  weight:
+    -
+      value: -42
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:9766b8e0-930c-4917-b178-4c51fd8b7989'
+  revision_translation_affected:
+    -
+      value: true

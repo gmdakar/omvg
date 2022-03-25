@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: ad98edd7-aa7a-401b-8189-a33e5684c5f5
+  bundle: gallery
+  default_langcode: en
+  depends:
+    7b7bea31-fb65-4051-8922-cb00924fd012: file
+    e488e86d-201b-4554-a1c2-5450666b5a46: file
+    e1766cc8-8f5a-4fb5-93d2-de9d4e319cb1: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'gallery 12'
+  created:
+    -
+      value: 1482295120
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_gallery_image:
+    -
+      entity: 7b7bea31-fb65-4051-8922-cb00924fd012
+      alt: 'Alternative text'
+      title: ''
+      width: 1170
+      height: 658
+    -
+      entity: e488e86d-201b-4554-a1c2-5450666b5a46
+      alt: 'Alternative text'
+      title: ''
+      width: 1170
+      height: 658
+    -
+      entity: e1766cc8-8f5a-4fb5-93d2-de9d4e319cb1
+      alt: 'Alternative text'
+      title: ''
+      width: 1170
+      height: 658
+    -
+      entity: 7b7bea31-fb65-4051-8922-cb00924fd012
+      alt: 'Alternative text'
+      title: ''
+      width: 1170
+      height: 658

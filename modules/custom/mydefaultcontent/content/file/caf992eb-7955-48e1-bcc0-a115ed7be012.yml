@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: caf992eb-7955-48e1-bcc0-a115ed7be012
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: team-7.jpg
+  uri:
+    -
+      value: 'public://team/team-7.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 20763
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295491

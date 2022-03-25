@@ -1,0 +1,42 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 974d6436-029f-4e2a-ada8-534858a51468
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Careers
+  created:
+    -
+      value: 1482306026
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_class:
+    -
+      value: hidden-title
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","class_css":"el-17694882","padding_top":"0","padding_bottom":"0"},"columns":[{"settings":{"element":"gva_column","class_css":"el-28146073"},"col_lg":6,"elements":[{"settings":{"title":"Digital Designer","logo":"/sites/default/files/gbb-uploads/job-1.png","job_type":"Full Time","address":"New South Wales, Australia","company":"Gaviasthemes","link":"#","target":"off","animate_delay":"0","class_css":"el-74536166"},"editing":false,"element_name":"gva_job_box"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-81827487"},"col_lg":6,"elements":[{"settings":{"title":"Digital Designer","logo":"/sites/default/files/gbb-uploads/job-2.png","job_type":"Full Time","address":"New South Wales, Australia","company":"Gaviasthemes","link":"#","target":"off","animate_delay":"0","class_css":"el-63013789"},"editing":false,"element_name":"gva_job_box"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","element":"gva_row","class_css":"el-31391336","padding_top":"0","padding_bottom":"0"},"columns":[{"settings":{"element":"gva_column","class_css":"el-62658707"},"col_lg":6,"elements":[{"settings":{"title":"Digital Designer","logo":"/sites/default/files/gbb-uploads/job-3.jpg","job_type":"Full Time","address":"New South Wales, Australia","company":"Gaviasthemes","link":"#","target":"off","animate_delay":"0","class_css":"el-59799735"},"editing":false,"element_name":"gva_job_box"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-16448355"},"col_lg":6,"elements":[{"settings":{"title":"Digital Designer","logo":"/sites/default/files/gbb-uploads/job-4.png","job_type":"Full Time","address":"New South Wales, Australia","company":"Gaviasthemes","link":"#","target":"off","animate_delay":"0","class_css":"el-94977441"},"editing":false,"element_name":"gva_job_box"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","element":"gva_row","class_css":"el-35898202","padding_top":"0","padding_bottom":"0"},"columns":[{"settings":{"element":"gva_column","class_css":"el-62089028"},"col_lg":6,"elements":[{"settings":{"title":"Digital Designer","logo":"/sites/default/files/gbb-uploads/job-1.png","job_type":"Full Time","address":"New South Wales, Australia","company":"Gaviasthemes","link":"#","target":"off","animate_delay":"0","class_css":"el-29823452"},"editing":false,"element_name":"gva_job_box"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-98345484"},"col_lg":6,"elements":[{"settings":{"title":"Digital Designer","logo":"/sites/default/files/gbb-uploads/job-2.png","job_type":"Full Time","address":"New South Wales, Australia","company":"Gaviasthemes","link":"#","target":"off","animate_delay":"0","class_css":"el-92600898"},"editing":false,"element_name":"gva_job_box"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"}]'
+  path:
+    -
+      alias: /careers
+      langcode: en
+      pathauto: 1

@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 90ceddc7-0bfb-4b70-aa19-4299b398962f
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Company Overview'
+  created:
+    -
+      value: 1482305798
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_layout:
+    -
+      value: container_sidebar
+  gva_node_class:
+    -
+      value: hidden-title
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"class_css":"el-50866250","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"0","padding_bottom":"0","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-57283738","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_top":"-10"},"col_lg":12,"elements":[{"settings":{"class_css":"el-7447135","title":"What we are offering to creative people.","desc":"<div>There are many variations of passages, but the majority have suffered alteration in some form, by injected humour, or randomised words which don''t look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn''t anything embarrassing hidden in the middle of text.</div>","align":"align-left","dot_color":"theme-color-second","html_tags":"h2","button_style":"btn-theme","animate_delay":"0"},"editing":false,"element_name":"gva_heading"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"class_css":"el-34399695","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"0","padding_bottom":"0","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-4417068"},"col_lg":6,"elements":[{"settings":{"title":"The creator dashboard","content":"<div>There are many new variations of pasages of available text.</div>","icon":"fi flaticon-scrum","icon_position":"left v3","target":"off","icon_color_available":"color-white","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-medium","animate_delay":"0s","class_css":"el-71947242","icon_bg_available":"bg-theme","icon_radius":"radius-5x","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-37272739"},"col_lg":6,"elements":[{"settings":{"title":"The backer report","content":"<div>There are many new variations of pasages of available text.</div>","icon":"fi flaticon-translation","icon_position":"left v3","target":"off","icon_color_available":"color-white","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-medium","animate_delay":"0s","class_css":"el-92954633","icon_bg_available":"bg-theme","icon_radius":"radius-5x","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"class_css":"el-34605372","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"0","padding_bottom":"0","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-87425257"},"col_lg":6,"elements":[{"settings":{"title":"Google Analytics","content":"<div>There are many new variations of pasages of available text.</div>","icon":"fi flaticon-thumbs-up","icon_position":"left v3","target":"off","icon_color_available":"color-white","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-medium","animate_delay":"0s","class_css":"el-28526272","icon_bg_available":"bg-theme","icon_radius":"radius-5x","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-39301318"},"col_lg":6,"elements":[{"settings":{"title":"Set a deadline project","content":"<div>There are many new variations of pasages of available text.</div>","icon":"fi flaticon-computer","icon_position":"left v3","target":"off","icon_color_available":"color-white","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-medium","animate_delay":"0s","class_css":"el-24934383","icon_bg_available":"bg-theme","icon_radius":"radius-5x","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"}]'
+  path:
+    -
+      alias: /company-overview
+      langcode: en
+      pathauto: 1

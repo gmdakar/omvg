@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 382395c4-b1b1-40ee-ae66-afd65ea18af0
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Features - Quote'
+  created:
+    -
+      value: 1482313946
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_layout:
+    -
+      value: fw
+  gva_node_class:
+    -
+      value: hidden-title
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"class_css":"el-56332755"},"columns":[{"settings":{"element":"gva_column","class_css":"el-36206384"},"col_lg":12,"elements":[{"settings":{"content":"<p>I have found that, in the composition of the human body as compared with the bodies of animals, the organs of sense are duller and coarser. Thus, it is composed of less ingenious instruments, and of spaces less capacious for receiving the faculties of sense.</p>","width":"80%","border":"has-border","animate":"fade-up","animate_delay":"0","class_css":"el-4232380"},"editing":false,"element_name":"gva_quote_text"},{"settings":{"content":"<p>I have found that, in the composition of the human body as compared with the bodies of animals, the organs of sense are duller and coarser. Thus, it is composed of less ingenious instruments, and of spaces less capacious for receiving the faculties of sense.</p>","width":"80%","border":"has-border","animate":"fade-up","animate_delay":"300","background":"#FEB800","color":"#fff","class_css":"el-68782387"},"editing":false,"element_name":"gva_quote_text"},{"settings":{"content":"<p>I have found that, in the composition of the human body as compared with the bodies of animals, the organs of sense are duller and coarser. Thus, it is composed of less ingenious instruments, and of spaces less capacious for receiving the faculties of sense.</p>","width":"80%","border":"has-border","animate":"fade-up","animate_delay":"600","background":"#222","class_css":"el-43985292"},"editing":false,"element_name":"gva_quote_text"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"}]'
+  path:
+    -
+      alias: /features-quote
+      langcode: en
+      pathauto: 1

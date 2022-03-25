@@ -1,0 +1,46 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: f89d8b7a-4e33-4948-96df-4e8cfbcfb3fe
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    9766b8e0-930c-4917-b178-4c51fd8b7989: menu_link_content
+    f32b95ea-e64f-4530-a527-30e712c5bb17: node
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Piechart & Skillbar'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      target_uuid: f32b95ea-e64f-4530-a527-30e712c5bb17
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: about
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: false
+  weight:
+    -
+      value: -47
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:9766b8e0-930c-4917-b178-4c51fd8b7989'
+  revision_translation_affected:
+    -
+      value: true

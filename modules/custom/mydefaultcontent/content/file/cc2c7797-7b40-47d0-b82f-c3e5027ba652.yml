@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: cc2c7797-7b40-47d0-b82f-c3e5027ba652
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: event-4.jpg
+  uri:
+    -
+      value: 'public://events/event-4.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 93173
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1520998756

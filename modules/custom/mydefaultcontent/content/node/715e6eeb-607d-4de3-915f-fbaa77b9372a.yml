@@ -1,0 +1,62 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 715e6eeb-607d-4de3-915f-fbaa77b9372a
+  bundle: event
+  default_langcode: en
+  depends:
+    b5b5d455-df1c-41e3-92e1-d66b14b5debb: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: '4th Annual Schoolyard Dash 5K'
+  created:
+    -
+      value: 1520998467
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.</p>\r\n\r\n<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>\r\n"
+      format: full_html
+      summary: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.'
+  field_event_address:
+    -
+      value: '69 Warren Street, New York, USA'
+  field_event_image:
+    -
+      entity: b5b5d455-df1c-41e3-92e1-d66b14b5debb
+      alt: ''
+      title: ''
+      width: 1000
+      height: 668
+  field_event_map:
+    -
+      value: '21.0173222,105.78405279999993'
+  field_event_start:
+    -
+      value: '2019-09-12'
+  field_event_time:
+    -
+      value: '13:00 - 15:00'

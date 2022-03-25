@@ -1,0 +1,75 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fdea2f51-b1fd-4272-9aa2-8d7cb3cd0d02
+  bundle: article
+  default_langcode: en
+  depends:
+    3438560b-e056-4dfc-ab66-5828c6246672: file
+    d27ddad2-713a-4d97-82be-9dd500260828: taxonomy_term
+    bf7e9eee-223b-46d7-95cb-222f7087dd48: taxonomy_term
+    e2c1bf4c-05f4-44c4-8bc6-d6f9d1b7323d: taxonomy_term
+    7da55829-ef70-4b5d-8d59-1730049b90ac: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Solutions for all small and large business people'
+  created:
+    -
+      value: 1482293301
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /solutions-all-small-and-large-business-people
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac neque at mi elementum gravida et vitae elit. Etiam ullamcorper auctor orci, id luctus felis laoreet a. Nam nec nulla sit amet tellus pretium rhoncus. Integer interdum, nibh sed posuere aliquet, enim ante lacinia augue, ut ultricies augue erat vel lorem. Vestibulum bibendum dolor sit amet tincidunt lacinia. Nunc sapien libero, condimentum et turpis eget, eleifend hendrerit augue. Duis molestie volutpat feugiat.</p>\r\n\r\n<ul>\r\n\t<li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>\r\n\t<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>\r\n\t<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>\r\n</ul>\r\n\r\n<ol>\r\n\t<li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>\r\n\t<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>\r\n\t<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>\r\n</ol>\r\n\r\n<p>Donec vel libero ullamcorper, faucibus augue auctor, imperdiet diam. Duis quis nibh eget urna convallis blandit. Fusce iaculis purus vitae convallis aliquet. Ut auctor nunc sed odio bibendum fringilla. Quisque egestas non magna ac tincidunt. Aenean laoreet commodo nulla, sed ultrices odio vehicula sit amet. Suspendisse erat tellus, porta et facilisis sit amet, adipiscing sed diam. Nulla condimentum arcu a pellentesque pretium. Pellentesque pharetra odio eu auctor suscipit.</p>\r\n\r\n<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras congue, felis in congue iaculis, elit enim molestie urna, ut accumsan augue magna aliquet nisi. Nullam interdum bibendum magna, eu sagittis metus convallis quis. Pellentesque vehicula purus sit amet tellus pellentesque suscipit.&nbsp;</p>\r\n\r\n<p>Ut dolor elit, ullamcorper quis ornare vel, congue id orci. In et orci in dolor dapibus sodales ac nec diam. Etiam vulputate erat a quam ullamcorper volutpat. Vestibulum vel feugiat sem, non molestie purus. Duis sit amet faucibus ipsum, ac aliquet urna. In hendrerit sit amet dolor vitae semper.&nbsp;</p>\r\n"
+      format: full_html
+      summary: 'Pellentesque placerat eget euismod. Mauris tempor cursus dolor. Ut dolor elit, ullamcorper quis ornare congue.'
+  comment:
+    -
+      status: 2
+      cid: 2
+      last_comment_timestamp: 1632177553
+      last_comment_name: ''
+      last_comment_uid: 1
+      comment_count: 2
+  field_image:
+    -
+      entity: 3438560b-e056-4dfc-ab66-5828c6246672
+      alt: alt
+      title: ''
+      width: 800
+      height: 742
+  field_post_category:
+    -
+      entity: d27ddad2-713a-4d97-82be-9dd500260828
+  field_post_format:
+    -
+      value: standard
+  field_tags:
+    -
+      entity: bf7e9eee-223b-46d7-95cb-222f7087dd48
+    -
+      entity: e2c1bf4c-05f4-44c4-8bc6-d6f9d1b7323d
+    -
+      entity: 7da55829-ef70-4b5d-8d59-1730049b90ac

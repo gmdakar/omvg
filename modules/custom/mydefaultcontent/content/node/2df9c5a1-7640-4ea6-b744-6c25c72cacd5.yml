@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 2df9c5a1-7640-4ea6-b744-6c25c72cacd5
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Features - Testimonial'
+  created:
+    -
+      value: 1526376229
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_layout:
+    -
+      value: fw
+  gva_node_class:
+    -
+      value: hidden-title
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"class_css":"el-95708737","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"100","padding_bottom":"100","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-92050164"},"col_lg":12,"elements":[{"settings":{"class_css":"el-26367369","sub_title":"Our Testimonials","title":"What They Say","align":"align-center","style":"style-1","html_tags":"h2","button_style":"btn-theme","animate_delay":"0","dot_color":"theme-color-second"},"editing":false,"element_name":"gva_heading"},{"settings":{"class_css":"el-85836911","title_admin":"Testimonial || Testimonial image","view":"testimonial-----testimonial_v1","show_title":"hidden","style_text":"text-dark","align_title":"title-align-left","remove_margin":"off","animate_delay":"0"},"editing":false,"element_name":"gva_view"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"},{"settings":{"class_css":"el-53575989","element":"gva_row","bg_color":"#f7f7f9","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","width":"1800px","padding_top":"100","padding_bottom":"100"},"columns":[{"settings":{"element":"gva_column","class_css":"el-67880801"},"col_lg":12,"elements":[{"settings":{"class_css":"el-60405132","title_admin":"Testimonial || Testimonial","view":"testimonial-----testimonial_v2","show_title":"hidden","style_text":"text-dark","align_title":"title-align-left","remove_margin":"off","animate_delay":"0"},"editing":false,"element_name":"gva_view"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"}]'
+  path:
+    -
+      alias: /features-testimonial
+      langcode: en
+      pathauto: 1

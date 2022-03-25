@@ -33,11 +33,11 @@ drush -y en default_content || true
 echo "rm -rf modules/custom/mydefaultcontent/content && drush dcer node --folder=modules/custom/mydefaultcontent/content && drush dcer menu_link_content --folder=modules/custom/mydefaultcontent/content"
 rm -rf modules/custom/mydefaultcontent/content && drush dcer node --folder=modules/custom/mydefaultcontent/content && drush dcer menu_link_content --folder=modules/custom/mydefaultcontent/content
 
-echo "drush dcer taxonomy_term --folder=modules/custom/mydefaultcontent/content && drush dcer file --folder=modules/custom/mydefaultcontent/content"
-drush dcer taxonomy_term --folder=modules/custom/mydefaultcontent/content && drush dcer file --folder=modules/custom/mydefaultcontent/content
+echo "drush dcer taxonomy_term --folder=modules/custom/mydefaultcontent/content && drush dcer file --folder=modules/custom/mydefaultcontent/content || true"
+drush dcer taxonomy_term --folder=modules/custom/mydefaultcontent/content && drush dcer file --folder=modules/custom/mydefaultcontent/content || true
 
-echo "drush dcer media --folder=modules/custom/mydefaultcontent/content && drush dcer block_content --folder=modules/custom/mydefaultcontent/content"
-drush dcer media --folder=modules/custom/mydefaultcontent/content && drush dcer block_content --folder=modules/custom/mydefaultcontent/content
+echo "drush dcer media --folder=modules/custom/mydefaultcontent/content || true && drush dcer block_content --folder=modules/custom/mydefaultcontent/content"
+drush dcer media --folder=modules/custom/mydefaultcontent/content || true && drush dcer block_content --folder=modules/custom/mydefaultcontent/content
 
 echo "chmod -R 775 ../omvg/ || true && cd ../../htdocs && rm -rf omvg/* || true && cp -r devomvg/* omvg/ || true"
 chmod -R 775 ../omvg/ || true && cd ../../htdocs && rm -rf omvg/* || true && cp -r devomvg/* omvg/ || true 

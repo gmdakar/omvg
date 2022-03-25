@@ -1,0 +1,67 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: addc85b5-433f-45ec-9d5c-81b8c761f72a
+  bundle: testimonial
+  default_langcode: en
+  depends:
+    30853587-3dcf-414e-8314-d576b69e9686: file
+    a054f1cc-0695-4ce1-9db5-89b1eafa6427: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Testimonial 4'
+  created:
+    -
+      value: 1482296131
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  body:
+    -
+      value: 'There are many variations of available, but the majority have sufferd in some form by injected or randomised words which don''t look even believable. If you are to lorem ipsum is simply going to use a passage. '
+      format: restricted_html
+      summary: 'There are many variations of passages of lorem ipsum available but the majority have suffered alteration in some form.'
+  field_testimonial_avatar:
+    -
+      entity: 30853587-3dcf-414e-8314-d576b69e9686
+      alt: 'Cristiano Ronaldo'
+      title: ''
+      width: 200
+      height: 200
+  field_testimonial_image:
+    -
+      entity: a054f1cc-0695-4ce1-9db5-89b1eafa6427
+      alt: ''
+      title: ''
+      width: 700
+      height: 400
+  field_testimonial_job:
+    -
+      value: Customer
+  field_testimonial_name:
+    -
+      value: 'Cristiano Ronaldo'
+  field_testimonial_video:
+    -
+      value: 'https://www.youtube.com/watch?v=dnpZ9SDWJy0'

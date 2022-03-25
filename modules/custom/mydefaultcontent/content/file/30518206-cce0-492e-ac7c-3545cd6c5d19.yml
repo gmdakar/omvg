@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 30518206-cce0-492e-ac7c-3545cd6c5d19
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: portfolio-10.jpg
+  uri:
+    -
+      value: 'public://portfolio/portfolio-10.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 217232
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482294453

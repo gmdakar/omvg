@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: dabfd95e-43cd-4c19-ab64-ae1479e4112b
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: gallery-1.jpg
+  uri:
+    -
+      value: 'public://gallery/gallery-1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 132990
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482295040

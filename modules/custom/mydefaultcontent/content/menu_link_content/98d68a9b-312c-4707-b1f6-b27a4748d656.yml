@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 98d68a9b-312c-4707-b1f6-b27a4748d656
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    aa32335d-1f2d-409c-a675-d0dc030b1f04: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'List Layout'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/blogs-list'
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: gavias_sanbro_breadcrumbs
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: 0
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:aa32335d-1f2d-409c-a675-d0dc030b1f04'
+  revision_translation_affected:
+    -
+      value: true

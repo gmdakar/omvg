@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 6184cca8-858e-4ca2-a7ea-c8156a32aa95
+  bundle: article
+  default_langcode: en
+  depends:
+    3cd71d29-eba6-4b3c-889b-6fbaef23dada: file
+    3c1944ca-6cad-42a2-a68d-2ff836feaffd: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'What you do today can improve your tomorrows'
+  created:
+    -
+      value: 1482293302
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /what-you-do-today-can-improve-your-tomorrows
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac neque at mi elementum gravida et vitae elit. Etiam ullamcorper auctor orci, id luctus felis laoreet a. Nam nec nulla sit amet tellus pretium rhoncus. Integer interdum, nibh sed posuere aliquet, enim ante lacinia augue, ut ultricies augue erat vel lorem. Vestibulum bibendum dolor sit amet tincidunt lacinia. Nunc sapien libero, condimentum et turpis eget, eleifend hendrerit augue. Duis molestie volutpat feugiat.</p>\r\n\r\n<ul>\r\n\t<li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>\r\n\t<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>\r\n\t<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>\r\n</ul>\r\n\r\n<ol>\r\n\t<li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>\r\n\t<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>\r\n\t<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>\r\n</ol>\r\n\r\n<p>Donec vel libero ullamcorper, faucibus augue auctor, imperdiet diam. Duis quis nibh eget urna convallis blandit. Fusce iaculis purus vitae convallis aliquet. Ut auctor nunc sed odio bibendum fringilla. Quisque egestas non magna ac tincidunt. Aenean laoreet commodo nulla, sed ultrices odio vehicula sit amet. Suspendisse erat tellus, porta et facilisis sit amet, adipiscing sed diam. Nulla condimentum arcu a pellentesque pretium. Pellentesque pharetra odio eu auctor suscipit.</p>\r\n\r\n<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras congue, felis in congue iaculis, elit enim molestie urna, ut accumsan augue magna aliquet nisi. Nullam interdum bibendum magna, eu sagittis metus convallis quis. Pellentesque vehicula purus sit amet tellus pellentesque suscipit.&nbsp;</p>\r\n\r\n<p>Ut dolor elit, ullamcorper quis ornare vel, congue id orci. In et orci in dolor dapibus sodales ac nec diam. Etiam vulputate erat a quam ullamcorper volutpat. Vestibulum vel feugiat sem, non molestie purus. Duis sit amet faucibus ipsum, ac aliquet urna. In hendrerit sit amet dolor vitae semper.&nbsp;</p>\r\n"
+      format: full_html
+      summary: 'Pellentesque placerat eget euismod. Mauris tempor cursus dolor. Ut dolor elit, ullamcorper quis ornare congue.'
+  comment:
+    -
+      status: 2
+      cid: 0
+      last_comment_timestamp: 1482293398
+      last_comment_name: ''
+      last_comment_uid: 1
+      comment_count: 0
+  field_image:
+    -
+      entity: 3cd71d29-eba6-4b3c-889b-6fbaef23dada
+      alt: alt
+      title: ''
+      width: 800
+      height: 742
+  field_post_category:
+    -
+      entity: 3c1944ca-6cad-42a2-a68d-2ff836feaffd
+  field_post_format:
+    -
+      value: standard

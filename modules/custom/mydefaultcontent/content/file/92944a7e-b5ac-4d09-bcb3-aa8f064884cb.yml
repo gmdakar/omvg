@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 92944a7e-b5ac-4d09-bcb3-aa8f064884cb
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: post-1.jpg
+  uri:
+    -
+      value: 'public://articles/post-1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 201863
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482293253

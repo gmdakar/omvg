@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d936bf5a-de64-4a81-b5bf-c98ec761a394
+  bundle: gallery
+  default_langcode: en
+  depends:
+    2b034c1c-83de-46c4-ab94-fa2133a60327: file
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'gallery 11'
+  created:
+    -
+      value: 1482295118
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  field_gallery_image:
+    -
+      entity: 2b034c1c-83de-46c4-ab94-fa2133a60327
+      alt: ''
+      title: ''
+      width: 1170
+      height: 658

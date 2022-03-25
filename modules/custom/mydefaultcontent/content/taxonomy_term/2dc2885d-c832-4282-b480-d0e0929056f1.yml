@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: 2dc2885d-c832-4282-b480-d0e0929056f1
+  bundle: category
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Traveling
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0

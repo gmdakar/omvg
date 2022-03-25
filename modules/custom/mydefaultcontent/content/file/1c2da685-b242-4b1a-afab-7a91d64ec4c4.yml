@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 1c2da685-b242-4b1a-afab-7a91d64ec4c4
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: portfolio-6.jpg
+  uri:
+    -
+      value: 'public://portfolio/portfolio-6.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 202427
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482294403

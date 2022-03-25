@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: c584b076-8db8-4b47-8a61-86e88fae701a
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: avatar-3.jpg
+  uri:
+    -
+      value: 'public://testimonial/avatar-3.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 28678
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1482296225

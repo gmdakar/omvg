@@ -1,0 +1,42 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 4a659de3-39a7-4af3-a409-2e41478e2744
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Our Awards'
+  created:
+    -
+      value: 1482306118
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_class:
+    -
+      value: hidden-title
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","class_css":"el-32770613","padding_top":"0","padding_bottom":"0"},"columns":[{"settings":{"element":"gva_column","class_css":"el-11964965","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_bottom":"30"},"col_lg":6,"elements":[{"settings":{"title":"2018 The Cloud Awards","content":"<p>Colin wins most innovative use of data in the cloud</p>","image":"/sites/default/files/gbb-uploads/awards-1.jpg","icon_position":"top-center","icon_width":"width-full","margin":"box-margin-small","skin_text":"text-dark","target":"off","animate_delay":"0","el_class":"border-1","box_background":"#fff","class_css":"el-40639926"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-78449127","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_bottom":"30"},"col_lg":6,"elements":[{"settings":{"title":"2018 The IOT Awards","content":"<p>Colin wins most innovative use of data in the cloud</p>","image":"/sites/default/files/gbb-uploads/awards-2.jpg","icon_position":"top-center","icon_width":"width-full","margin":"box-margin-small","skin_text":"text-dark","target":"off","animate_delay":"0","el_class":"border-1","box_background":"#fff","class_css":"el-95042602"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"element":"gva_row","bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","class_css":"el-36511473","padding_top":"0","padding_bottom":"0"},"columns":[{"settings":{"element":"gva_column","class_css":"el-77019219","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_bottom":"30"},"col_lg":6,"elements":[{"settings":{"title":"V3 Technology Awards","content":"<p>Colin wins most innovative use of data in the cloud</p>","image":"/sites/default/files/gbb-uploads/awards-3.jpg","icon_position":"top-center","icon_width":"width-full","margin":"box-margin-small","skin_text":"text-dark","target":"off","animate_delay":"0","el_class":"border-1","box_background":"#fff","class_css":"el-35457131"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-44655346","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_bottom":"30"},"col_lg":6,"elements":[{"settings":{"title":"2018 Business Awards","content":"<p>Colin wins most innovative use of data in the cloud</p>","image":"/sites/default/files/gbb-uploads/awards-4.jpg","icon_position":"top-center","icon_width":"width-full","margin":"box-margin-small","skin_text":"text-dark","target":"off","animate_delay":"0","el_class":"border-1","box_background":"#fff","class_css":"el-47238496"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"element":"gva_row","bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","class_css":"el-24046447","padding_top":"0","padding_bottom":"45"},"columns":[{"settings":{"element":"gva_column","class_css":"el-41837086","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_bottom":"30"},"col_lg":6,"elements":[{"settings":{"title":"2018 The Big Data Awards","content":"<p>Colin wins most innovative use of data in the cloud</p>","image":"/sites/default/files/gbb-uploads/awards-5.jpg","icon_position":"top-center","icon_width":"width-full","margin":"box-margin-small","skin_text":"text-dark","target":"off","animate_delay":"0","el_class":"border-1","box_background":"#fff","class_css":"el-13507610"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-25493395","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_bottom":"30"},"col_lg":6,"elements":[{"settings":{"title":"2018 The Cloud Awards","content":"<p>Colin wins most innovative use of data in the cloud</p>","image":"/sites/default/files/gbb-uploads/awards-6.jpg","icon_position":"top-center","icon_width":"width-full","margin":"box-margin-small","skin_text":"text-dark","target":"off","animate_delay":"0","el_class":"border-1","box_background":"#fff","class_css":"el-97559888"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"}]'
+  path:
+    -
+      alias: /our-awards
+      langcode: en
+      pathauto: 1

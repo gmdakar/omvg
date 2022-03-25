@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: f11cacf8-2ff0-41ea-97b8-c151caa09fd2
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    80d63001-2341-4d2f-b35f-d6afaeb5afde: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'Campaigns Single'
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/product/4'
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: about
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -48
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:80d63001-2341-4d2f-b35f-d6afaeb5afde'
+  revision_translation_affected:
+    -
+      value: true

@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 001635db-1a5e-4009-93ce-126edee8c877
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: Partners
+  created:
+    -
+      value: 1482306221
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"class_css":"el-39100134","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"60","padding_bottom":"20","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-16025775","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_top":"-10"},"col_lg":12,"elements":[{"settings":{"title":"Envato Company","image":"/sites/default/files/gbb-uploads/partners-1.jpg","content":"<p>Envato is proudly based in Melbourne, Australia, but our people and community live and work from all over the world.</p>","address":"Victoria 8007 Australia","category":"Theme & Marketing Consulting","link":"#","target":"0","animate_delay":"0","class_css":"el-67017208"},"editing":false,"element_name":"gva_our_partners"},{"settings":{"title":"Envato Company","image":"/sites/default/files/gbb-uploads/partners-2.jpg","content":"<p>Envato is proudly based in Melbourne, Australia, but our people and community live and work from all over the world.</p>","address":"Victoria 8007 Australia","category":"Theme & Marketing Consulting","link":"#","target":"0","animate_delay":"0","class_css":"el-23044153"},"editing":false,"element_name":"gva_our_partners"},{"settings":{"title":"Envato Company","image":"/sites/default/files/gbb-uploads/partners-3.jpg","content":"<p>Envato is proudly based in Melbourne, Australia, but our people and community live and work from all over the world.</p>","address":"Victoria 8007 Australia","category":"Theme & Marketing Consulting","link":"#","target":"0","animate_delay":"0","class_css":"el-14236303"},"editing":false,"element_name":"gva_our_partners"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"}]'
+  path:
+    -
+      alias: /partners
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Kunco help clients worldwide stay ahead of the curve, solve business challenges and navigate a new era in the financial services landscape.</p>\r\n"
+      format: full_html
+      summary: ''

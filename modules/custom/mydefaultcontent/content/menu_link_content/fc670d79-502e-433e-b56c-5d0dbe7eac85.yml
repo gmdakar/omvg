@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: fc670d79-502e-433e-b56c-5d0dbe7eac85
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    9766b8e0-930c-4917-b178-4c51fd8b7989: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: Pricing
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:/node/100'
+      title: ''
+      options:
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: gavias_funzi_companypresentation
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -46
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:9766b8e0-930c-4917-b178-4c51fd8b7989'
+  revision_translation_affected:
+    -
+      value: true

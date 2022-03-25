@@ -1,0 +1,54 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 154166ac-7453-4003-af59-082a51eeff9b
+  bundle: portfolio
+  default_langcode: en
+  depends:
+    d36fee13-a769-4b84-973d-294a4c70421e: file
+    968d9c18-85c0-463d-b8fd-fbc8b3ecf6fc: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Business card'
+  created:
+    -
+      value: 1482294303
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: /business-card-0
+      langcode: en
+      pathauto: 1
+  body:
+    -
+      value: "<p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>\r\n\r\n<h3>Project Overview</h3>\r\n\r\n<p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet fermentum. Aenean sit amet massa eu velit commodo cursus fringilla a tellus. Morbi eros urna, mollis porta feugiat non, ornare eu augue. Sed rhoncus est sit amet diam tempus, et tristique est viverra. Etiam ex tellus, sectur at dapibus id, luctus at odio. Proin mattis congue tristique.</p>\r\n\r\n<h3>Proconstruction Services</h3>\r\n\r\n<p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>\r\n\r\n<ul>\r\n\t<li>Providing all materials, labor equipment.</li>\r\n\t<li>Eget Egestas. Aenean varius ex ut ex laoreet Aenean.</li>\r\n\t<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>\r\n\t<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>\r\n</ul>\r\n\r\n<h3>Reliable &amp; Experienced</h3>\r\n\r\n<p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>\r\n\r\n<ul>\r\n\t<li>Providing all materials, labor equipment.</li>\r\n\t<li>Eget Egestas. Aenean varius ex ut ex laoreet Aenean.</li>\r\n\t<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>\r\n\t<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>\r\n</ul>\r\n"
+      format: full_html
+      summary: ''
+  field_portfolio_images:
+    -
+      entity: d36fee13-a769-4b84-973d-294a4c70421e
+      alt: ''
+      title: ''
+      width: 960
+      height: 720
+  field_portfolio_tags:
+    -
+      entity: 968d9c18-85c0-463d-b8fd-fbc8b3ecf6fc

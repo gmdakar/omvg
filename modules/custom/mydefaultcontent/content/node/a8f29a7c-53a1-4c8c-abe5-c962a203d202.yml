@@ -1,0 +1,45 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: a8f29a7c-53a1-4c8c-abe5-c962a203d202
+  bundle: page
+  default_langcode: en
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: FAQs
+  created:
+    -
+      value: 1631317236
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_node_layout:
+    -
+      value: fw
+  gva_pagebuilder_content:
+    -
+      value: '[{"settings":{"class_css":"el-49966611"},"columns":[],"editing":false,"element_name":"gva_row"}]'
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /faqs
+      langcode: en
+      pathauto: 1
