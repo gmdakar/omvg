@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 4a1ca12f-0764-40bd-a88c-a26020c92ea3
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Image footer'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div><a href=\"#\"><img alt=\"alt\"  src=\"/private/charityplus/sites/default/files/inline-images/image-footer.jpg\" /></a></div>\r\n"
+      format: restricted_html
+      summary: ''

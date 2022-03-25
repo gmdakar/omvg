@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: a6072ff6-daa3-43e9-9c76-0628bff58a56
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Header support'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"header-info\">\r\n        <div class=\"header-icon\"><i class=\"fi flaticon-chat\"></i></div>  \r\n        <div class=\"header-content\">              \r\n            <h3 class=\"title\"><a href=\"tel:666888000\">Call Anytime</a></h3>\r\n            <div class=\"text\">666 888 000</div>\r\n        </div>\r\n    </div> "
+      format: restricted_html
+      summary: ''

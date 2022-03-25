@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 7da38301-272f-4979-8de1-06b564010f17
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: About
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"about-info\">\r\n <img  class=\"margin-bottom-40\" src=\"https://previewthemes.com/krowd/sites/default/files/inline-images/logo-footer.png\" alt=\"\">\r\n<div class=\"margin-bottom-40\">Lorem quas utamur delicata qui, vix ei prima mentitum omnesque. Duo corrumpit cotidieque ne.</div>\r\n<div class=\"socials-v1\">\r\n<a href=\"#\"><i class=\"fab fa-twitter\"></i></a>\r\n<a href=\"#\"><i class=\"fab fa-facebook-square\"></i></a>\r\n<a href=\"#\"><i class=\"fab fa-pinterest\"></i></a>\r\n<a href=\"#\"><i class=\"fab fa-instagram\"></i></a>\r\n</div>\r\n</div>"
+      format: restricted_html
+      summary: ''

@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: f23b91f5-7aba-4752-9f3d-d2dda98888e1
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: Fundraising
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"clearfix\">\r\n    <ul class=\"menu\">\r\n\t <li><a href=\"#\">Education</a></li>\r\n\t <li><a href=\"#\">Design</a></li>\r\n\t <li><a href=\"#\">Film & Video</a></li>\r\n\t <li><a href=\"#\">Technology</a></li>\r\n\t <li><a href=\"#\">Games</a></li>\r\n     </ul>      \r\n</div>"
+      format: restricted_html
+      summary: ''

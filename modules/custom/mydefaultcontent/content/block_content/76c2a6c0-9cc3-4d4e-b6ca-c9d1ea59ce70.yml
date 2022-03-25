@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: 76c2a6c0-9cc3-4d4e-b6ca-c9d1ea59ce70
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Socials Copyright'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"social-border\">\r\n    <div class=\"socials\">\r\n            <a href=\"#\"><i class=\"fab fa-facebook\"></i></a>\r\n            <a href=\"#\"><i class=\"fab fa-twitter\"></i></a>\r\n            <a href=\"#\"><i class=\"fab fa-behance\"></i></a>\r\n            <a href=\"#\"><i class=\"fab fa-google-plus\"></i></a>\r\n            <a href=\"#\"><i class=\"fab fa-skype\"></i></a>\r\n    </div>\r\n</div>"
+      format: restricted_html
+      summary: ''

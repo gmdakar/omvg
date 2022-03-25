@@ -1,0 +1,24 @@
+_meta:
+  version: '1.0'
+  entity_type: block_content
+  uuid: aee383c7-8f7b-4180-bdd3-5d53a869f526
+  bundle: basic
+  default_langcode: en
+default:
+  status:
+    -
+      value: true
+  info:
+    -
+      value: 'Contact info'
+  reusable:
+    -
+      value: true
+  revision_translation_affected:
+    -
+      value: true
+  body:
+    -
+      value: "<div class=\"contact-info\">\r\n\t<ul class=\"icon-list-items\">\r\n\t\t<li>\r\n\t\t\t<i aria-hidden=\"true\" class=\"fi flaticon-call\"></i>\t\r\n\t\t\t<span class=\"list-text\">666 888 0000</span>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<i aria-hidden=\"true\" class=\"fi flaticon-email-2\"></i>\r\n\t\t\t<span class=\"list-text\">needhelp@potisen.com</span></li>\r\n\t</ul>\r\n</div>"
+      format: restricted_html
+      summary: ''
