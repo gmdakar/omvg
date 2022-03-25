@@ -1,0 +1,24 @@
+uuid: 52496a47-a606-438c-978b-5c53572e6702
+langcode: en
+status: true
+dependencies:
+  module:
+    - gaviasthemer
+    - mailchimp_signup
+  theme:
+    - krowd
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_mailchimpsubscriptionformsubscribenewsletter_2
+theme: krowd
+region: footer_second
+weight: 0
+provider: null
+plugin: 'mailchimp_signup_subscribe_block:subscribe_newsletter'
+settings:
+  id: 'mailchimp_signup_subscribe_block:subscribe_newsletter'
+  label: 'Newsletter Signup'
+  label_display: visible
+  provider: mailchimp_signup
+visibility: {  }

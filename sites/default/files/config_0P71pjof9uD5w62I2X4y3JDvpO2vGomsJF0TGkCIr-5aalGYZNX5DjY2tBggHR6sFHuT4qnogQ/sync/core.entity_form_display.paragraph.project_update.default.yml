@@ -1,0 +1,43 @@
+uuid: 1d2ead06-91af-44e9-9cba-31e77b12d53a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.project_update.field_update_content
+    - field.field.paragraph.project_update.field_update_date
+    - field.field.paragraph.project_update.field_update_title
+    - paragraphs.paragraphs_type.project_update
+  module:
+    - text
+id: paragraph.project_update.default
+targetEntityType: paragraph
+bundle: project_update
+mode: default
+content:
+  field_update_content:
+    type: text_textarea
+    weight: 2
+    region: content
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+  field_update_date:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_update_title:
+    type: string_textfield
+    weight: 1
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden:
+  created: true
+  status: true

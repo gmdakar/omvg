@@ -1,0 +1,7 @@
+uuid: eaf178a4-a4de-4d16-a193-3b12bfeddd7a
+langcode: en
+status: true
+dependencies: {  }
+id: donation_price
+label: 'Donation Price'
+elementType: radios

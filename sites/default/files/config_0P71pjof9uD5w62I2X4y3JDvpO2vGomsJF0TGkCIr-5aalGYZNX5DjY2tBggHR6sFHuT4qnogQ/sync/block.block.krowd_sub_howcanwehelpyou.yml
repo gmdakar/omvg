@@ -1,0 +1,35 @@
+uuid: 7bdaeea2-6a12-4603-b482-ccda5e54af02
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:f41634fc-4c30-48a7-b5c2-c3e4709c65f1'
+  module:
+    - block_content
+    - gaviasthemer
+    - system
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: no-background
+id: krowd_sub_howcanwehelpyou
+theme: krowd_sub
+region: sidebar_right
+weight: -9
+provider: null
+plugin: 'block_content:f41634fc-4c30-48a7-b5c2-c3e4709c65f1'
+settings:
+  id: 'block_content:f41634fc-4c30-48a7-b5c2-c3e4709c65f1'
+  label: 'How can we help you ?'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: true
+    context_mapping: {  }
+    pages: "/contact\r\n/services\r\n/services-page\r\n/blogs-masonry\r\n/blogs-grid\r\n/company-overview\r\n/careers\r\n/blogs-grid-2\r\n/partners\r\n/blogs-list\r\n/404\r\n/team-grid\r\n/portfolio\r\n/campaigns\r\n/campaigns-grid\r\n/product/add/*\r\n/product/*\r\n/checkout/*"

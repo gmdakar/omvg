@@ -1,0 +1,25 @@
+uuid: 367f7d93-e24b-492a-892c-6ea4db09124b
+langcode: en
+status: true
+dependencies:
+  module:
+    - gaviasthemer
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_sub_tabs
+theme: krowd_sub
+region: help
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: Tabs
+  label_display: '0'
+  provider: core
+  primary: true
+  secondary: true
+visibility: {  }

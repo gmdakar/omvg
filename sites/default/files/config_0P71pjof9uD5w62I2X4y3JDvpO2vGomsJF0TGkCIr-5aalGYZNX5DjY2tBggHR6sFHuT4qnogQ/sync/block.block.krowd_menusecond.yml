@@ -1,0 +1,34 @@
+uuid: b8a06c19-83af-49a6-bdcd-6beb355ae0ef
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.menu-second
+  module:
+    - gaviasthemer
+    - system
+  theme:
+    - krowd
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_menusecond
+theme: krowd
+region: sidebar_right
+weight: -12
+provider: null
+plugin: 'system_menu_block:menu-second'
+settings:
+  id: 'system_menu_block:menu-second'
+  label: 'Company Menu'
+  label_display: visible
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    context_mapping: {  }
+    pages: "/careers\r\n/our-awards\r\n/team-grid\r\n/partners"

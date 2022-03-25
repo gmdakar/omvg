@@ -1,0 +1,29 @@
+uuid: a33ee85e-1d98-47b9-bc39-84e7f9a89100
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:aee383c7-8f7b-4180-bdd3-5d53a869f526'
+  module:
+    - block_content
+    - gaviasthemer
+  theme:
+    - krowd
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_contactinfo_2
+theme: krowd
+region: footer_four
+weight: 0
+provider: null
+plugin: 'block_content:aee383c7-8f7b-4180-bdd3-5d53a869f526'
+settings:
+  id: 'block_content:aee383c7-8f7b-4180-bdd3-5d53a869f526'
+  label: 'Contact info'
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

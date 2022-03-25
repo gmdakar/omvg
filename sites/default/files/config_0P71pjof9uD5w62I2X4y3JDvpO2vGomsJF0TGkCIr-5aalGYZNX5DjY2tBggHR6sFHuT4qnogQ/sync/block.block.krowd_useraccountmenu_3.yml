@@ -1,0 +1,29 @@
+uuid: df1e0e3c-6ee3-46a3-878d-f878d044c30f
+langcode: en
+status: false
+dependencies:
+  config:
+    - system.menu.account
+  module:
+    - gaviasthemer
+    - system
+  theme:
+    - krowd
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_useraccountmenu_3
+theme: krowd
+region: offcanvas
+weight: 0
+provider: null
+plugin: 'system_menu_block:account'
+settings:
+  id: 'system_menu_block:account'
+  label: 'User account menu'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

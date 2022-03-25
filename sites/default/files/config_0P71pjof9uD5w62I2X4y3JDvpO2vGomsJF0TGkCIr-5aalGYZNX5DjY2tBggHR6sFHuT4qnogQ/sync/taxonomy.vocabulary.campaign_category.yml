@@ -1,0 +1,8 @@
+uuid: 018d9e5c-d785-4736-9c0f-083a64b91fa1
+langcode: en
+status: true
+dependencies: {  }
+name: 'Campaign Category'
+vid: campaign_category
+description: ''
+weight: 0

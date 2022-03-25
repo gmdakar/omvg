@@ -1,0 +1,7 @@
+name: 'Default content YAML'
+type: module
+description: 'Default content YAML'
+package: OMVG
+core_version_requirement: ^8.7.7 || ^9
+dependencies:
+  - default_content:default_content

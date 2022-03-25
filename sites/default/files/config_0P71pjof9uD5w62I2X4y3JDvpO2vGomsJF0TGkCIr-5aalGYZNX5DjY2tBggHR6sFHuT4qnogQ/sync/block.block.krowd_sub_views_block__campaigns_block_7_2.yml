@@ -1,0 +1,29 @@
+uuid: 2375293b-2c47-4271-8ed8-f2250b44e18a
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.campaigns
+  module:
+    - gaviasthemer
+    - views
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_sub_views_block__campaigns_block_7_2
+theme: krowd_sub
+region: user_content
+weight: 0
+provider: null
+plugin: 'views_block:campaigns-block_7'
+settings:
+  id: 'views_block:campaigns-block_7'
+  label: 'Campaigns Published'
+  label_display: visible
+  provider: views
+  context_mapping: {  }
+  views_label: 'Campaigns Published'
+  items_per_page: none
+visibility: {  }

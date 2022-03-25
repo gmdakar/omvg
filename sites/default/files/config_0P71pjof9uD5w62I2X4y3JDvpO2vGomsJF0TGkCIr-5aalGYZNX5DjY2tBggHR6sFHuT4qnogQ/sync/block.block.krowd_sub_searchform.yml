@@ -1,0 +1,25 @@
+uuid: be686ad5-8d47-4876-a25c-c6c57fa923a5
+langcode: en
+status: true
+dependencies:
+  module:
+    - gaviasthemer
+    - search
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_sub_searchform
+theme: krowd_sub
+region: search
+weight: 0
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: 'Search form'
+  label_display: '0'
+  provider: search
+  page_id: ''
+visibility: {  }

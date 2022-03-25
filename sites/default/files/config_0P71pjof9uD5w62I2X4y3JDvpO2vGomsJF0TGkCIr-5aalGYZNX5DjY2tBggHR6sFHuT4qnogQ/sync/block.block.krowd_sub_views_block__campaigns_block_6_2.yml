@@ -1,0 +1,29 @@
+uuid: fe041a87-044f-4a3d-9a08-7ba1543f62d3
+langcode: en
+status: true
+dependencies:
+  config:
+    - views.view.campaigns
+  module:
+    - gaviasthemer
+    - views
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_sub_views_block__campaigns_block_6_2
+theme: krowd_sub
+region: user_content
+weight: 0
+provider: null
+plugin: 'views_block:campaigns-block_6'
+settings:
+  id: 'views_block:campaigns-block_6'
+  label: 'Campaigns Unpublished'
+  label_display: visible
+  provider: views
+  context_mapping: {  }
+  views_label: 'Campaigns Unpublished'
+  items_per_page: none
+visibility: {  }

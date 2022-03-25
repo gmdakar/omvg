@@ -1,0 +1,10 @@
+uuid: 6f79313f-d83b-4801-838c-7dbf77fa0c95
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: sDaMKt6nCa3YO1QNga8QsoTGMVNiYIsX_UX7UKm_EK8
+id: uc_store
+label: 'Ubercart date'
+locked: false
+pattern: m-d-Y

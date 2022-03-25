@@ -1,0 +1,11 @@
+uuid: 0b4c584e-fe2d-4c6e-89e6-cd74aee8f2bc
+langcode: en
+status: true
+dependencies: {  }
+id: campaign
+label: Campaign
+traits: {  }
+locked: false
+description: ''
+variationType: campaign
+injectVariationFields: true

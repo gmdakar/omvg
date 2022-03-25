@@ -1,0 +1,29 @@
+uuid: 7827525c-e3e9-45fd-aaf9-b6ba964d524b
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:61f17841-749f-436d-9799-1dfeefd7ad43'
+  module:
+    - block_content
+    - gaviasthemer
+  theme:
+    - krowd
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_copyright
+theme: krowd
+region: copyright
+weight: -13
+provider: null
+plugin: 'block_content:61f17841-749f-436d-9799-1dfeefd7ad43'
+settings:
+  id: 'block_content:61f17841-749f-436d-9799-1dfeefd7ad43'
+  label: Copyright
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

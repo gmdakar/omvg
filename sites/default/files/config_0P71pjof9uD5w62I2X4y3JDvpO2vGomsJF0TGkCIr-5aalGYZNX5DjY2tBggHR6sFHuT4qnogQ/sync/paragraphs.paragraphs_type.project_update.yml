@@ -1,0 +1,10 @@
+uuid: 66f2601f-3b77-42c5-a562-ad26b4678f6b
+langcode: en
+status: true
+dependencies: {  }
+id: project_update
+label: 'Project Update'
+icon_uuid: null
+icon_default: null
+description: ''
+behavior_plugins: {  }

@@ -1,0 +1,24 @@
+uuid: 6a1391da-2782-4cb2-9cf0-75994ad79c08
+langcode: en
+status: true
+dependencies:
+  module:
+    - gaviasthemer
+    - help
+  theme:
+    - krowd
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_help
+theme: krowd
+region: help
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  label_display: '0'
+  provider: help
+visibility: {  }

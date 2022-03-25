@@ -1,0 +1,24 @@
+uuid: 0cdf0e6a-95df-4890-a711-3cebcc260870
+langcode: en
+status: true
+dependencies:
+  module:
+    - gavias_sliderlayer
+    - gaviasthemer
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: gaviassliderlayerslideriii
+theme: krowd_sub
+region: other
+weight: -16
+provider: null
+plugin: 'gavias_sliderlayer_block:gavias_sliderlayer_block____10'
+settings:
+  id: 'gavias_sliderlayer_block:gavias_sliderlayer_block____10'
+  label: 'Gavias SliderLayer - Slider III'
+  label_display: '0'
+  provider: gavias_sliderlayer
+visibility: {  }

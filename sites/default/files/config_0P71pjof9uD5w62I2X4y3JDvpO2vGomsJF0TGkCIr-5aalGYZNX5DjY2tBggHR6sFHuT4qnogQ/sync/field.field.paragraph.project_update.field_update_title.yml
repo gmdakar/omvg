@@ -1,0 +1,19 @@
+uuid: ed07b5d1-5ec1-47da-bb46-ab20727504a4
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_update_title
+    - paragraphs.paragraphs_type.project_update
+id: paragraph.project_update.field_update_title
+field_name: field_update_title
+entity_type: paragraph
+bundle: project_update
+label: 'Update Title'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

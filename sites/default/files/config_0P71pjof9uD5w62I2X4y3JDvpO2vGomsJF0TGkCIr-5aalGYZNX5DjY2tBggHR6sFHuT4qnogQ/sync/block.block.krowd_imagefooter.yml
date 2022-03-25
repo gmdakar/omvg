@@ -1,0 +1,35 @@
+uuid: 27294091-4e42-46ee-8d80-fdd9ad37871b
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:4a1ca12f-0764-40bd-a88c-a26020c92ea3'
+  module:
+    - block_content
+    - gaviasthemer
+    - system
+  theme:
+    - krowd
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_imagefooter
+theme: krowd
+region: before_footer
+weight: 0
+provider: null
+plugin: 'block_content:4a1ca12f-0764-40bd-a88c-a26020c92ea3'
+settings:
+  id: 'block_content:4a1ca12f-0764-40bd-a88c-a26020c92ea3'
+  label: 'Image footer'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    context_mapping: {  }
+    pages: /node/5

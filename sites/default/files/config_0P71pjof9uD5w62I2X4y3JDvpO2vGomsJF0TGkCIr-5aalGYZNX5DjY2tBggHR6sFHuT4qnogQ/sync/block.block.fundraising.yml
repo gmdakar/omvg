@@ -1,0 +1,29 @@
+uuid: ec86fb84-d294-4329-acf4-41bd9f6a246c
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:f23b91f5-7aba-4752-9f3d-d2dda98888e1'
+  module:
+    - block_content
+    - gaviasthemer
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: fundraising
+theme: krowd_sub
+region: footer_third
+weight: 0
+provider: null
+plugin: 'block_content:f23b91f5-7aba-4752-9f3d-d2dda98888e1'
+settings:
+  id: 'block_content:f23b91f5-7aba-4752-9f3d-d2dda98888e1'
+  label: Fundraising
+  label_display: visible
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

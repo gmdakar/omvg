@@ -1,0 +1,25 @@
+uuid: d6030e5e-1ffa-4efb-b7d7-cb78df751fba
+langcode: en
+status: true
+dependencies:
+  module:
+    - commerce_cart
+    - gaviasthemer
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: krowd_sub_cart
+theme: krowd_sub
+region: cart
+weight: 0
+provider: null
+plugin: commerce_cart
+settings:
+  id: commerce_cart
+  label: Cart
+  label_display: '0'
+  provider: commerce_cart
+  dropdown: true
+visibility: {  }
