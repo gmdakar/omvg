@@ -85,3 +85,4 @@ hidden:
   field_team_linkedin: true
   field_team_pinterest: true
   field_team_twitter: true
+  langcode: true

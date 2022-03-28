@@ -9,3 +9,4 @@ background_image:
 background_local_video:
   bundle: video
   field: field_media_video_file
+langcode: fr

@@ -1,5 +1,5 @@
 uuid: 8bb0031c-800f-445c-a6ff-cd1f69e123b1
-langcode: en
+langcode: fr
 status: true
 dependencies:
   enforced:
@@ -9,7 +9,7 @@ _core:
   default_config_hash: W88NYg31DbaVNQx1Uir_dwwXHVtF09QOq4VBGsH1Snk
 id: yes_no
 label: Yes/No
-category: General
+category: Général
 likert: false
 options: |
   Yes: Yes

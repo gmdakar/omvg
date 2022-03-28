@@ -46,3 +46,4 @@ data_key: aos
 scroll_effects_attr_type: 1
 scroll_effects_data_key: data-aos
 scroll_effects_library_type: external
+langcode: fr

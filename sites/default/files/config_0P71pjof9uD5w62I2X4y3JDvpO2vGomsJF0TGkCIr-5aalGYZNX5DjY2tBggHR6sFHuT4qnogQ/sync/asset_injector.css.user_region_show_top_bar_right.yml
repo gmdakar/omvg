@@ -1,0 +1,15 @@
+uuid: 789c225f-546c-449f-baa1-3fb0396d2c1b
+langcode: en
+status: true
+dependencies: {  }
+id: user_region_show_top_bar_right
+label: 'user region show top bar right'
+code: |-
+  .gva-user-region.user-region.show a {
+      color: initial !important;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

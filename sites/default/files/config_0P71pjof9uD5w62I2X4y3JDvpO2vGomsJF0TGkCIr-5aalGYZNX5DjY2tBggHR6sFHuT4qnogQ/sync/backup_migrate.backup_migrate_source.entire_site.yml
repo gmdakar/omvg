@@ -1,11 +1,11 @@
 uuid: d07c4783-9021-465d-aac7-40ffe5ed7d92
-langcode: en
+langcode: fr
 status: true
 dependencies: {  }
 _core:
   default_config_hash: 3UIiYanpaojRQR_MLcmaOBTXo5mH-T4CGoTEmr7Rv2M
 id: entire_site
-label: 'Entire Site (do not use)'
+label: 'Tout le site (ne pas utiliser)'
 type: EntireSite
 config:
   name: 'Entire Site (do not use)'

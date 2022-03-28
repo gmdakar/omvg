@@ -1,5 +1,5 @@
 uuid: e4292914-ca45-4069-b862-b22191bd96d8
-langcode: en
+langcode: fr
 status: true
 dependencies:
   enforced:
@@ -8,7 +8,7 @@ dependencies:
 _core:
   default_config_hash: 6n6q97CDOCqHGs4Dun3BqVJE6e1o6TA-69qCwoUU-SY
 id: default
-label: Default
+label: 'Par défaut'
 traits: {  }
 locked: false
 purchasableEntityType: commerce_product_variation

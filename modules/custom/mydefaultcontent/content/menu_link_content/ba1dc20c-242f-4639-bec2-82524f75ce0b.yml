@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: ba1dc20c-242f-4639-bec2-82524f75ce0b
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    94a4de27-81db-4e54-8897-3958f3d60ca9: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: Organigramme
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:#'
+      title: ''
+      options:
+        fa_icon: ''
+        fa_icon_prefix: fa
+        fa_icon_tag: i
+        fa_icon_appearance: before
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: about
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -45
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:94a4de27-81db-4e54-8897-3958f3d60ca9'
+  revision_translation_affected:
+    -
+      value: true

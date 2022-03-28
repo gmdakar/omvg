@@ -1,5 +1,5 @@
 uuid: 00cc25d2-04b3-4f33-bdb6-73d21c9882d9
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -113,6 +113,13 @@ content:
     settings:
       size: 60
       placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
     third_party_settings: {  }
   path:
     type: path

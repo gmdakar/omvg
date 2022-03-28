@@ -1,5 +1,5 @@
 uuid: 95d7d299-a7ef-4a43-af69-35d465b3bed0
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -16,7 +16,7 @@ id: user.user.commerce_remote_id
 field_name: commerce_remote_id
 entity_type: user
 bundle: user
-label: 'Remote ID'
+label: 'Identifiant (ID) distant'
 description: ''
 required: false
 translatable: false

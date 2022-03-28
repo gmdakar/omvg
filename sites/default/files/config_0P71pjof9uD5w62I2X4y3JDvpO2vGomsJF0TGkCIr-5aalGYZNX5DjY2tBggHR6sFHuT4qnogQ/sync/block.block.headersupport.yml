@@ -1,6 +1,6 @@
 uuid: 2f0951cf-1979-46bc-bda8-fe2ed4644b21
 langcode: en
-status: true
+status: false
 dependencies:
   content:
     - 'block_content:basic:a6072ff6-daa3-43e9-9c76-0628bff58a56'
@@ -14,7 +14,7 @@ third_party_settings:
     classes: ''
 id: headersupport
 theme: krowd_sub
-region: header_right
+region: other
 weight: 0
 provider: null
 plugin: 'block_content:a6072ff6-daa3-43e9-9c76-0628bff58a56'

@@ -1,5 +1,5 @@
 uuid: 143ba012-ac7f-4fb7-b90d-4e490860b3f4
-langcode: en
+langcode: fr
 status: true
 dependencies:
   module:
@@ -12,7 +12,7 @@ dependencies:
 _core:
   default_config_hash: T_mtP2LLBvuVrP8WWfFLVJQI2Hk18Zt9Wv3V63du1jk
 id: commerce_cart_form
-label: 'Cart form'
+label: 'Formulaire du panier'
 module: views
 description: ''
 tag: commerce_cart_form
@@ -21,7 +21,7 @@ base_field: order_id
 display:
   default:
     id: default
-    display_title: Master
+    display_title: Maître
     display_plugin: default
     position: 0
     display_options:
@@ -36,7 +36,7 @@ display:
           entity_type: commerce_order_item
           entity_field: purchased_entity
           plugin_id: field
-          label: Item
+          label: Élément
           exclude: false
           alter:
             alter_text: false
@@ -101,7 +101,7 @@ display:
           entity_type: commerce_order_item
           entity_field: unit_price
           plugin_id: field
-          label: Price
+          label: Prix
           exclude: false
           alter:
             alter_text: false
@@ -166,7 +166,7 @@ display:
           admin_label: ''
           entity_type: commerce_order_item
           plugin_id: commerce_order_item_edit_quantity
-          label: Quantity
+          label: Quantité
           exclude: false
           alter:
             alter_text: false
@@ -217,7 +217,7 @@ display:
           admin_label: ''
           entity_type: commerce_order_item
           plugin_id: commerce_order_item_remove_button
-          label: Remove
+          label: Retirer
           exclude: false
           alter:
             alter_text: false
@@ -331,10 +331,10 @@ display:
       exposed_form:
         type: basic
         options:
-          submit_button: Apply
+          submit_button: Appliquer
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc
@@ -376,7 +376,7 @@ display:
           exception:
             value: all
             title_enable: false
-            title: All
+            title: Tout
           title_enable: false
           title: ''
           default_argument_type: fixed

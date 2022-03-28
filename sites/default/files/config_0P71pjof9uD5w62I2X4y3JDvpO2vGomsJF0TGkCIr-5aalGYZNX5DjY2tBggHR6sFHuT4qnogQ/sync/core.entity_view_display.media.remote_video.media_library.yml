@@ -1,5 +1,5 @@
 uuid: 8241fd81-0f5e-4f7a-9a07-d26248c144ad
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -28,5 +28,6 @@ content:
 hidden:
   created: true
   field_media_oembed_video: true
+  langcode: true
   name: true
   uid: true

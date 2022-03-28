@@ -1,5 +1,5 @@
 uuid: dad57b8d-d045-4d85-9ba5-c2ce7bcb9aa6
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -25,6 +25,7 @@ content:
     settings: {  }
     third_party_settings: {  }
 hidden:
+  adjustments: true
   created: true
   quantity: true
   status: true

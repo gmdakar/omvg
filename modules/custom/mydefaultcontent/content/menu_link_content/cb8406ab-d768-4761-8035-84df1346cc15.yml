@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: cb8406ab-d768-4761-8035-84df1346cc15
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    de01ccf9-7d38-4ca4-92d9-46c76a51209f: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: PDDI
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:#'
+      title: ''
+      options:
+        fa_icon: ''
+        fa_icon_prefix: fa
+        fa_icon_tag: i
+        fa_icon_appearance: before
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: about
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -50
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:de01ccf9-7d38-4ca4-92d9-46c76a51209f'
+  revision_translation_affected:
+    -
+      value: true

@@ -1,0 +1,15 @@
+uuid: 06d6e0b6-a587-414e-bf12-4e7ca1649905
+langcode: en
+status: true
+dependencies: {  }
+id: donate_button
+label: 'Donate button'
+code: |-
+  .topbar-button {
+      display: none !important;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

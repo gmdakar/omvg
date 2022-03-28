@@ -1,5 +1,5 @@
 uuid: 85db377b-8f31-40a2-8806-52912436014f
-langcode: en
+langcode: fr
 status: true
 dependencies:
   module:
@@ -11,6 +11,6 @@ dependencies:
 _core:
   default_config_hash: SjZo-csuMc7wQHh55OpVRuTrQTp8zy3k6cR9RykDWIg
 id: commerce_product_variation.cart
-label: Cart
+label: Panier
 targetEntityType: commerce_product_variation
 cache: true

@@ -107,6 +107,7 @@ hidden:
   created: true
   field_campaign_comment: true
   field_campaign_update: true
+  langcode: true
   stores: true
   uid: true
   variations: true

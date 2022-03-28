@@ -1,5 +1,5 @@
 uuid: 9bff550b-9bee-4a26-9f06-3d74bd02a440
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -29,4 +29,5 @@ content:
     third_party_settings: {  }
     weight: 101
     region: content
-hidden: {  }
+hidden:
+  langcode: true

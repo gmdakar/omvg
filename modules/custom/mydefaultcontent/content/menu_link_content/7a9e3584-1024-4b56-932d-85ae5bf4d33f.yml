@@ -1,0 +1,44 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 7a9e3584-1024-4b56-932d-85ae5bf4d33f
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: false
+  title:
+    -
+      value: Présentation
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:#'
+      title: ''
+      options:
+        fa_icon: ''
+        fa_icon_prefix: fa
+        fa_icon_tag: i
+        fa_icon_appearance: before
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: about
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -44
+  expanded:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true

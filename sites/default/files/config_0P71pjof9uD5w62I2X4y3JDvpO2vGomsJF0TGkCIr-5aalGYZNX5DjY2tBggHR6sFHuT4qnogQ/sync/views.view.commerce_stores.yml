@@ -1,5 +1,5 @@
 uuid: c975cfa3-2f9e-429a-ad6a-3d14d25c2811
-langcode: en
+langcode: fr
 status: true
 dependencies:
   module:
@@ -9,7 +9,7 @@ dependencies:
 _core:
   default_config_hash: '-X1gJHmWCoN8z6urr4N2eYcfT9_kGyKMCoS1kh1IbPQ'
 id: commerce_stores
-label: Stores
+label: Boutiques
 module: views
 description: ''
 tag: Commerce
@@ -18,11 +18,11 @@ base_field: store_id
 display:
   default:
     id: default
-    display_title: Master
+    display_title: Maître
     display_plugin: default
     position: 0
     display_options:
-      title: Stores
+      title: Boutiques
       fields:
         commerce_store_bulk_form:
           id: commerce_store_bulk_form
@@ -74,7 +74,7 @@ display:
           hide_empty: false
           empty_zero: false
           hide_alter_empty: true
-          action_title: 'With selection'
+          action_title: 'Pour la sélection'
           include_exclude: exclude
           selected_actions: {  }
         name:
@@ -87,7 +87,7 @@ display:
           entity_type: null
           entity_field: name
           plugin_id: field
-          label: Name
+          label: Nom
           exclude: false
           alter:
             alter_text: false
@@ -217,7 +217,7 @@ display:
           admin_label: ''
           entity_type: commerce_store
           plugin_id: entity_operations
-          label: Operations
+          label: Actions
           exclude: false
           alter:
             alter_text: false
@@ -267,26 +267,26 @@ display:
           total_pages: null
           id: 0
           tags:
-            next: 'next ›'
-            previous: '‹ previous'
-            first: '« first'
-            last: 'last »'
+            next: "suivant\_›"
+            previous: "‹\_précédent"
+            first: "«\_premier"
+            last: "dernier\_»"
           expose:
             items_per_page: false
-            items_per_page_label: 'Items per page'
+            items_per_page_label: 'Éléments par page'
             items_per_page_options: '5, 10, 25, 50'
             items_per_page_options_all: false
-            items_per_page_options_all_label: '- All -'
+            items_per_page_options_all_label: '- Tout -'
             offset: false
-            offset_label: Offset
+            offset_label: Décalage
           quantity: 9
       exposed_form:
         type: basic
         options:
-          submit_button: Apply
+          submit_button: Appliquer
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc
@@ -307,7 +307,7 @@ display:
           admin_label: ''
           plugin_id: text_custom
           empty: true
-          content: 'No stores available.'
+          content: 'Aucune boutique n''est disponible.'
           tokenize: false
       sorts: {  }
       arguments: {  }

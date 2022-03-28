@@ -1,5 +1,5 @@
 uuid: 373d01a6-a7f8-490c-a14a-c3559cf10edb
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -42,5 +42,6 @@ content:
     region: content
 hidden:
   created: true
+  langcode: true
   stores: true
   uid: true

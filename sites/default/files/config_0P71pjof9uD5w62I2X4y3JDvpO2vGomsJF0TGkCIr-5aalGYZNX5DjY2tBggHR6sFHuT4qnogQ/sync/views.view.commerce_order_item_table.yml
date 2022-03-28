@@ -1,5 +1,5 @@
 uuid: 96150b49-2cc9-4ea8-bd8a-4847e8dff37f
-langcode: en
+langcode: fr
 status: true
 dependencies:
   module:
@@ -8,7 +8,7 @@ dependencies:
 _core:
   default_config_hash: 398fQFfYQMimcIIwdV3PHSjcRS_beG4Z1sd2jyCCNoc
 id: commerce_order_item_table
-label: 'Order items'
+label: 'Eléments de la commande'
 module: views
 description: 'Display a set of order items in a table.'
 tag: ''
@@ -17,7 +17,7 @@ base_field: order_item_id
 display:
   default:
     id: default
-    display_title: Master
+    display_title: Maître
     display_plugin: default
     position: 0
     display_options:
@@ -32,7 +32,7 @@ display:
           entity_type: null
           entity_field: title
           plugin_id: field
-          label: Title
+          label: Titre
           exclude: false
           alter:
             alter_text: false
@@ -97,7 +97,7 @@ display:
           entity_type: commerce_order_item
           entity_field: unit_price
           plugin_id: field
-          label: 'Unit price'
+          label: 'Prix unitaire'
           exclude: false
           alter:
             alter_text: false
@@ -163,7 +163,7 @@ display:
           entity_type: commerce_order_item
           entity_field: quantity
           plugin_id: field
-          label: Quantity
+          label: Quantité
           exclude: false
           alter:
             alter_text: false
@@ -231,7 +231,7 @@ display:
           entity_type: commerce_order_item
           entity_field: total_price
           plugin_id: field
-          label: 'Total price'
+          label: 'Prix total'
           exclude: false
           alter:
             alter_text: false
@@ -294,10 +294,10 @@ display:
       exposed_form:
         type: basic
         options:
-          submit_button: Apply
+          submit_button: Appliquer
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc

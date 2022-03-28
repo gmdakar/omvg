@@ -1,5 +1,5 @@
 uuid: da7a640b-07dc-4ec2-9f23-5d3f5f16816b
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -31,6 +31,13 @@ content:
     weight: 5
     region: content
     settings: {  }
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
     third_party_settings: {  }
   path:
     type: path

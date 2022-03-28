@@ -1,5 +1,5 @@
 uuid: e0a05fbe-bf92-4be1-9422-796cbfef8588
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -16,6 +16,16 @@ targetEntityType: commerce_order_item
 bundle: default
 mode: default
 content:
+  created:
+    type: timestamp
+    label: hidden
+    settings:
+      date_format: medium
+      custom_date_format: ''
+      timezone: ''
+    third_party_settings: {  }
+    weight: 0
+    region: content
   purchased_entity:
     type: entity_reference_entity_view
     label: above

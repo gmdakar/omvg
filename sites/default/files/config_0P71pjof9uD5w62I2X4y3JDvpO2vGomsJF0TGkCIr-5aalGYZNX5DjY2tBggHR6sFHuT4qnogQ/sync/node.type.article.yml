@@ -1,5 +1,5 @@
 uuid: 12ac40c0-086f-4a18-ad36-57ec8f7100d2
-langcode: en
+langcode: fr
 status: true
 dependencies:
   module:
@@ -13,7 +13,7 @@ _core:
   default_config_hash: AeW1SEDgb1OTQACAWGhzvMknMYAJlcZu0jljfeU3oso
 name: Article
 type: article
-description: 'Use <em>articles</em> for time-sensitive content like news, press releases or blog posts.'
+description: 'Utilisez les <em>articles</em> pour des contenus possédant une temporalité tels que des actualités, des communiqués de presse ou des billets de blog.'
 help: ''
 new_revision: false
 preview_mode: 1

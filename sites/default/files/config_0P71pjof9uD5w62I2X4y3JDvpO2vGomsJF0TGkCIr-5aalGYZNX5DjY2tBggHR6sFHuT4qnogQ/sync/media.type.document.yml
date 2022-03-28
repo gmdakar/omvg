@@ -1,12 +1,12 @@
 uuid: d3a27406-96e9-4ba3-9230-c341f9abebba
-langcode: en
+langcode: fr
 status: true
 dependencies: {  }
 _core:
   default_config_hash: _D9q3XSnP6ik9we9UuoTvZsQKPuYNp_G9PfwVtWzgnQ
 id: document
 label: Document
-description: 'An uploaded file or document, such as a PDF.'
+description: 'Un fichier ou un document téléversé, tel qu''un PDF.'
 source: file
 queue_thumbnail_downloads: false
 new_revision: true

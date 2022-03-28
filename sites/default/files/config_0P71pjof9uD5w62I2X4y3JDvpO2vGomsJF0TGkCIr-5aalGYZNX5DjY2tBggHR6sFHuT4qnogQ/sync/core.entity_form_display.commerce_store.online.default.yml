@@ -1,5 +1,5 @@
 uuid: 9b7a1a86-ac13-4740-b2c8-364ad74e4782
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -36,6 +36,13 @@ content:
     region: content
     settings:
       display_label: true
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
     third_party_settings: {  }
   mail:
     type: email_default
@@ -79,4 +86,5 @@ content:
     settings: {  }
     third_party_settings: {  }
 hidden:
+  created: true
   uid: true

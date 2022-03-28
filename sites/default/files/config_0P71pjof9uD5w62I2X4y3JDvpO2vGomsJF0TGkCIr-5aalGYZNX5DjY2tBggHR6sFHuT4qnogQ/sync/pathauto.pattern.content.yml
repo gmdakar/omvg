@@ -3,6 +3,7 @@ langcode: en
 status: true
 dependencies:
   module:
+    - language
     - node
 _core:
   default_config_hash: UQTreGkmJa2jTb7ub485mTwQyXjENtIy6ZeGB_R7neQ
@@ -11,20 +12,30 @@ label: Content
 type: 'canonical_entities:node'
 pattern: '[node:title]'
 selection_criteria:
-  e34fccb0-f935-441c-8894-a567a99859e8:
+  4313604a-da1c-4f8c-b49b-03d523be8b35:
     id: node_type
     negate: false
-    uuid: e34fccb0-f935-441c-8894-a567a99859e8
+    uuid: 4313604a-da1c-4f8c-b49b-03d523be8b35
     context_mapping:
       node: node
     bundles:
       article: article
       banner: banner
       page: page
-      page_full: page_full
       portfolio: portfolio
       team: team
       testimonial: testimonial
+  535d21c9-961d-4a24-98f6-18eafbd1bf93:
+    id: language
+    negate: false
+    uuid: 535d21c9-961d-4a24-98f6-18eafbd1bf93
+    context_mapping:
+      language: 'node:langcode:language'
+    langcodes:
+      en: en
+      fr: fr
 selection_logic: and
 weight: -5
-relationships: {  }
+relationships:
+  'node:langcode:language':
+    label: Langue

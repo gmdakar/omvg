@@ -1,5 +1,5 @@
 uuid: 79c70bfc-c5ae-4f7a-ac44-f3c82c7a9a3f
-langcode: en
+langcode: fr
 status: true
 dependencies:
   module:
@@ -14,7 +14,7 @@ dependencies:
 _core:
   default_config_hash: bGAM41fAo6XN1BYIWEsfcsAVEvOIRQlCQzZXRnOz9Ic
 id: commerce_carts
-label: Carts
+label: Paniers
 module: views
 description: ''
 tag: Commerce
@@ -23,11 +23,11 @@ base_field: order_id
 display:
   default:
     id: default
-    display_title: Master
+    display_title: Maître
     display_plugin: default
     position: 0
     display_options:
-      title: Carts
+      title: Paniers
       fields:
         commerce_order_bulk_form:
           id: commerce_order_bulk_form
@@ -79,7 +79,7 @@ display:
           hide_empty: false
           empty_zero: false
           hide_alter_empty: true
-          action_title: 'With selection'
+          action_title: 'Pour la sélection'
           include_exclude: exclude
           selected_actions: {  }
         type:
@@ -158,7 +158,7 @@ display:
           entity_type: commerce_order
           entity_field: store_id
           plugin_id: commerce_store
-          label: Store
+          label: Boutique
           exclude: false
           alter:
             alter_text: false
@@ -224,7 +224,7 @@ display:
           entity_type: commerce_order
           entity_field: uid
           plugin_id: field
-          label: Customer
+          label: Client
           exclude: false
           alter:
             alter_text: false
@@ -289,7 +289,7 @@ display:
           entity_type: commerce_order
           entity_field: mail
           plugin_id: field
-          label: Email
+          label: Courriel
           exclude: false
           alter:
             alter_text: false
@@ -419,7 +419,7 @@ display:
           entity_type: commerce_order
           entity_field: changed
           plugin_id: field
-          label: Updated
+          label: 'Mis à jour'
           exclude: false
           alter:
             alter_text: false
@@ -483,7 +483,7 @@ display:
           admin_label: ''
           entity_type: commerce_order
           plugin_id: entity_operations
-          label: Operations
+          label: Actions
           exclude: false
           alter:
             alter_text: false
@@ -533,26 +533,26 @@ display:
           total_pages: null
           id: 0
           tags:
-            next: 'next ›'
-            previous: '‹ previous'
-            first: '« first'
-            last: 'last »'
+            next: "suivant\_›"
+            previous: "‹\_précédent"
+            first: "«\_premier"
+            last: "dernier\_»"
           expose:
             items_per_page: false
-            items_per_page_label: 'Items per page'
+            items_per_page_label: 'Éléments par page'
             items_per_page_options: '5, 10, 25, 50'
             items_per_page_options_all: false
-            items_per_page_options_all_label: '- All -'
+            items_per_page_options_all_label: '- Tout -'
             offset: false
-            offset_label: Offset
+            offset_label: Décalage
           quantity: 9
       exposed_form:
         type: basic
         options:
-          submit_button: Filter
+          submit_button: Filtrer
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc
@@ -573,7 +573,7 @@ display:
           admin_label: ''
           plugin_id: text_custom
           empty: true
-          content: 'No orders available.'
+          content: 'Aucune commande n''est disponible.'
           tokenize: false
       sorts: {  }
       arguments: {  }
@@ -768,7 +768,7 @@ display:
       path: admin/commerce/orders/carts
       menu:
         type: tab
-        title: Carts
+        title: Paniers
         description: ''
         weight: 0
         expanded: false

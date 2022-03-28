@@ -1,10 +1,10 @@
 uuid: 052946e9-7594-4918-9485-2be1542a2734
-langcode: en
+langcode: fr
 status: true
 dependencies: {  }
 _core:
   default_config_hash: wwkDVBiXUqSzRifJbb71ajFBklJdNJ_DgS67IF-_qgY
-label: Default
+label: 'Par défaut'
 id: default
 plugin: multistep_default
 configuration:

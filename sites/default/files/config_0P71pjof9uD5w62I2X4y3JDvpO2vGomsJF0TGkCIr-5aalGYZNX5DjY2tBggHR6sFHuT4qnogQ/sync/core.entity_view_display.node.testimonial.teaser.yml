@@ -40,3 +40,4 @@ hidden:
   field_testimonial_job: true
   field_testimonial_name: true
   field_testimonial_video: true
+  langcode: true

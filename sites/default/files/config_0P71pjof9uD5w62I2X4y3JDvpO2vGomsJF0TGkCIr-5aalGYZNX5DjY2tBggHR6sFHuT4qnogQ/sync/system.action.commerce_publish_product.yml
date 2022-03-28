@@ -1,5 +1,5 @@
 uuid: 58c92f1f-7f4d-4c90-b7c2-ad652f16fc5d
-langcode: en
+langcode: fr
 status: true
 dependencies:
   module:
@@ -7,7 +7,7 @@ dependencies:
 _core:
   default_config_hash: 83abjxFWTlkso65OfwvUzv_VvAc9iIswF2kW_MGZmY8
 id: commerce_publish_product
-label: 'Publish product'
+label: 'Publier un produit'
 type: commerce_product
 plugin: commerce_publish_product
 configuration: {  }

@@ -1,10 +1,10 @@
 uuid: fcdd228c-9c20-4a63-a0f1-50ab8d5d2c44
-langcode: en
+langcode: fr
 status: true
 dependencies: {  }
 _core:
   default_config_hash: KUjJ8Ti_ZJSlhGM88E_mhJP-8mmQRNUB6RFof615Kt0
-name: 'Restricted HTML'
+name: 'HTML restreint'
 format: restricted_html
 weight: -8
 filters:

@@ -70,3 +70,4 @@ hidden:
   field_post_format: true
   field_post_gallery: true
   field_post_type: true
+  langcode: true

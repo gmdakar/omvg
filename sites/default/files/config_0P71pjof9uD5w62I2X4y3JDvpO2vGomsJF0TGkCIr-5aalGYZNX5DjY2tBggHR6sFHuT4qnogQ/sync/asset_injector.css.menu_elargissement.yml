@@ -1,0 +1,18 @@
+uuid: 66c1571a-ceb5-4f48-a6a1-9d76d075e960
+langcode: fr
+status: true
+dependencies: {  }
+id: menu_elargissement
+label: 'menu elargissement'
+code: |-
+  header.header-default .main-menu {
+      max-width: 100%;
+      -webkit-box-flex: 0;
+      -ms-flex: 0 0 65%;
+      flex: 0 0 80%;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

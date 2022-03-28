@@ -1,5 +1,5 @@
 uuid: cd731482-9c50-4844-8974-43888b20aa0d
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -28,5 +28,6 @@ content:
 hidden:
   created: true
   field_media_audio_file: true
+  langcode: true
   name: true
   uid: true

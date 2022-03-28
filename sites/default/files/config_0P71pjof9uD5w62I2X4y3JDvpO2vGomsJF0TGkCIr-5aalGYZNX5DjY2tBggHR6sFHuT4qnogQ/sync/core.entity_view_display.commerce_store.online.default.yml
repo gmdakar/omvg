@@ -1,5 +1,5 @@
 uuid: 96173563-0e53-4297-801e-11494c9824be
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -22,6 +22,11 @@ content:
     region: content
 hidden:
   billing_countries: true
+  created: true
   default_currency: true
+  is_default: true
+  langcode: true
   mail: true
   name: true
+  timezone: true
+  uid: true

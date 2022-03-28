@@ -1,0 +1,15 @@
+uuid: 24becbff-2a2d-47ca-8721-3717e5d863ac
+langcode: en
+status: true
+dependencies: {  }
+id: logo
+label: logo
+code: |-
+  .branding img {
+      max-width: 65% !important;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

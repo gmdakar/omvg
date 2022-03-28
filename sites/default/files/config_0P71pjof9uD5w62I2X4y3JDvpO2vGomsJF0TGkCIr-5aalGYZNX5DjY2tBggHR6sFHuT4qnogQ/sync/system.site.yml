@@ -1,14 +1,14 @@
 _core:
   default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
-langcode: en
+langcode: fr
 uuid: e652c8c3-1b8e-40bc-bced-de3282f72a01
-name: 'Krowd - Crowdfunding & Charity Drupal 9 Theme'
+name: 'OMVG - L''Organisation pour la Mise en Valeur du Fleuve Gambie'
 mail: youremail@gmail.com
 slogan: ''
 page:
   403: ''
   404: ''
-  front: /node/1
+  front: /node/3
 admin_compact_mode: false
 weight_select_max: 100
-default_langcode: en
+default_langcode: fr

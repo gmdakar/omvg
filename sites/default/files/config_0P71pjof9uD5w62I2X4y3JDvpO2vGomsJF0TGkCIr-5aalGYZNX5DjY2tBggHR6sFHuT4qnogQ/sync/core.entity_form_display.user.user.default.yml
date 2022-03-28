@@ -1,5 +1,5 @@
 uuid: 686772bd-106b-48e4-a792-5f76e39f5896
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -62,3 +62,4 @@ content:
 hidden:
   commerce_remote_id: true
   customer_profiles: true
+  langcode: true

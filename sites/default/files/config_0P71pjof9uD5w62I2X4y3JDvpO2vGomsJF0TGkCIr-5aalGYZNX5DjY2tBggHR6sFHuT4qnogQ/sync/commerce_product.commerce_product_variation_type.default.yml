@@ -1,11 +1,11 @@
 uuid: 52dd7f86-b365-48f6-9a66-82e3d2d6bc0e
-langcode: en
+langcode: fr
 status: true
 dependencies: {  }
 _core:
   default_config_hash: 3vA4FKQ1Qu8B1R8UdGPnmMfJrYO6Y6uMqeNgDgXxods
 id: default
-label: Default
+label: 'Par défaut'
 traits: {  }
 locked: false
 orderItemType: default

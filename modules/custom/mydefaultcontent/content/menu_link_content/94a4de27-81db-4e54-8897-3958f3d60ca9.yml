@@ -10,19 +10,23 @@ default:
       value: true
   title:
     -
-      value: Home
+      value: 'A propos de OMVG'
   menu_name:
     -
       value: main
   link:
     -
-      uri: 'internal:/'
+      uri: 'internal:#'
       title: ''
       options:
+        fa_icon: ''
+        fa_icon_prefix: fa
+        fa_icon_tag: i
+        fa_icon_appearance: before
         attributes:
           gva_layout: menu-list
           gva_layout_columns: '3'
-          gva_block: gavias_sanbro_breadcrumbs
+          gva_block: about
   external:
     -
       value: false

@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '72a0352230bc782610a8a58dcdc7ce3dffd90453',
+        'reference' => '5c05eb097a1895e70f7275d32122eb9c64a971da',
         'name' => 'drupal/legacy-project',
         'dev' => true,
     ),
@@ -184,6 +184,15 @@
             'reference' => '8.x-1.4',
             'dev_requirement' => false,
         ),
+        'drupal/asset_injector' => array(
+            'pretty_version' => '2.10.0',
+            'version' => '2.10.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/asset_injector',
+            'aliases' => array(),
+            'reference' => '8.x-2.10',
+            'dev_requirement' => false,
+        ),
         'drupal/automated_cron' => array(
             'dev_requirement' => false,
             'replaced' => array(
@@ -333,6 +342,15 @@
             'replaced' => array(
                 0 => '9.3.7',
             ),
+        ),
+        'drupal/content_sync' => array(
+            'pretty_version' => '3.0.0-beta1',
+            'version' => '3.0.0.0-beta1',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/content_sync',
+            'aliases' => array(),
+            'reference' => '3.0.0-beta1',
+            'dev_requirement' => false,
         ),
         'drupal/content_translation' => array(
             'dev_requirement' => false,
@@ -778,7 +796,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '72a0352230bc782610a8a58dcdc7ce3dffd90453',
+            'reference' => '5c05eb097a1895e70f7275d32122eb9c64a971da',
             'dev_requirement' => false,
         ),
         'drupal/link' => array(
@@ -1300,8 +1318,8 @@
         'psr/container-implementation' => array(
             'dev_requirement' => false,
             'provided' => array(
-                0 => '1.0',
-                1 => '^1.0',
+                0 => '^1.0',
+                1 => '1.0',
             ),
         ),
         'psr/event-dispatcher-implementation' => array(

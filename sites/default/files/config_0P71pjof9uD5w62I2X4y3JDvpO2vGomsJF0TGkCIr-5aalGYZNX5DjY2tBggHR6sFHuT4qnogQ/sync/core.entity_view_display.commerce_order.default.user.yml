@@ -1,5 +1,5 @@
 uuid: 59cf2bc8-f657-4b25-b08b-0173d6630f57
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -82,7 +82,9 @@ content:
     weight: 6
     region: content
 hidden:
+  balance: true
   changed: true
   ip_address: true
   store_id: true
+  total_paid: true
   uid: true

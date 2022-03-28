@@ -1,0 +1,49 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: 1f5c0659-65d5-4fe7-a14a-6522a514f5b0
+  bundle: menu_link_content
+  default_langcode: en
+  depends:
+    2b719902-e8b9-4fd9-938d-14ade3f5a33d: menu_link_content
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: Actualités
+  menu_name:
+    -
+      value: main
+  link:
+    -
+      uri: 'internal:#'
+      title: ''
+      options:
+        fa_icon: ''
+        fa_icon_prefix: fa
+        fa_icon_tag: i
+        fa_icon_appearance: before
+        attributes:
+          gva_layout: menu-list
+          gva_layout_columns: '3'
+          gva_block: about
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -53
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: 'menu_link_content:2b719902-e8b9-4fd9-938d-14ade3f5a33d'
+  revision_translation_affected:
+    -
+      value: true

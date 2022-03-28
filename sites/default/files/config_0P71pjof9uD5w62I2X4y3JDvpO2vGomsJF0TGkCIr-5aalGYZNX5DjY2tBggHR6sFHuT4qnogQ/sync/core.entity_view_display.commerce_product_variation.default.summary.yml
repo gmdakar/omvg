@@ -1,10 +1,12 @@
 uuid: 4680b5fa-2009-4056-ad7c-641b6174259e
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
     - commerce_product.commerce_product_variation_type.default
     - core.entity_view_mode.commerce_product_variation.summary
+  module:
+    - commerce_price
   enforced:
     module:
       - commerce_checkout
@@ -15,6 +17,15 @@ targetEntityType: commerce_product_variation
 bundle: default
 mode: summary
 content:
+  list_price:
+    type: commerce_price_default
+    label: above
+    settings:
+      strip_trailing_zeroes: false
+      currency_display: symbol
+    third_party_settings: {  }
+    weight: -1
+    region: content
   product_id:
     type: entity_reference_label
     label: hidden
@@ -32,5 +43,6 @@ content:
     weight: -5
     region: content
 hidden:
+  langcode: true
   price: true
   sku: true

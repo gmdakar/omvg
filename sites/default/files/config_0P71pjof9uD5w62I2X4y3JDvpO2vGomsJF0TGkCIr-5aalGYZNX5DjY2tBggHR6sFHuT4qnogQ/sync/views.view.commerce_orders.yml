@@ -1,5 +1,5 @@
 uuid: 5c6d2e52-3ab4-4076-a510-315e036d9ed0
-langcode: en
+langcode: fr
 status: true
 dependencies:
   module:
@@ -13,7 +13,7 @@ dependencies:
 _core:
   default_config_hash: tpDt6NuuckyWNxkctwBhb-wOuIK--Fk8OBMk6OuRCZg
 id: commerce_orders
-label: Orders
+label: Commandes
 module: views
 description: ''
 tag: Commerce
@@ -22,11 +22,11 @@ base_field: order_id
 display:
   default:
     id: default
-    display_title: Master
+    display_title: Maître
     display_plugin: default
     position: 0
     display_options:
-      title: Orders
+      title: Commandes
       fields:
         commerce_order_bulk_form:
           id: commerce_order_bulk_form
@@ -78,7 +78,7 @@ display:
           hide_empty: false
           empty_zero: false
           hide_alter_empty: true
-          action_title: 'With selection'
+          action_title: 'Pour la sélection'
           include_exclude: exclude
           selected_actions: {  }
         order_number:
@@ -289,7 +289,7 @@ display:
           entity_type: commerce_order
           entity_field: store_id
           plugin_id: commerce_store
-          label: Store
+          label: Boutique
           exclude: false
           alter:
             alter_text: false
@@ -355,7 +355,7 @@ display:
           entity_type: commerce_order
           entity_field: uid
           plugin_id: field
-          label: Customer
+          label: Client
           exclude: false
           alter:
             alter_text: false
@@ -420,7 +420,7 @@ display:
           entity_type: commerce_order
           entity_field: mail
           plugin_id: field
-          label: Email
+          label: Courriel
           exclude: false
           alter:
             alter_text: false
@@ -484,7 +484,7 @@ display:
           entity_type: commerce_order
           entity_field: status
           plugin_id: field
-          label: State
+          label: État
           exclude: false
           alter:
             alter_text: false
@@ -613,7 +613,7 @@ display:
           admin_label: ''
           entity_type: commerce_order
           plugin_id: entity_operations
-          label: Operations
+          label: Actions
           exclude: false
           alter:
             alter_text: false
@@ -663,26 +663,26 @@ display:
           total_pages: null
           id: 0
           tags:
-            next: 'next ›'
-            previous: '‹ previous'
-            first: '« first'
-            last: 'last »'
+            next: "suivant\_›"
+            previous: "‹\_précédent"
+            first: "«\_premier"
+            last: "dernier\_»"
           expose:
             items_per_page: false
-            items_per_page_label: 'Items per page'
+            items_per_page_label: 'Éléments par page'
             items_per_page_options: '5, 10, 25, 50'
             items_per_page_options_all: false
-            items_per_page_options_all_label: '- All -'
+            items_per_page_options_all_label: '- Tout -'
             offset: false
-            offset_label: Offset
+            offset_label: Décalage
           quantity: 9
       exposed_form:
         type: basic
         options:
-          submit_button: Filter
+          submit_button: Filtrer
           reset_button: false
-          reset_button_label: Reset
-          exposed_sorts_label: 'Sort by'
+          reset_button_label: Réinitialiser
+          exposed_sorts_label: 'Trier par'
           expose_sort_order: true
           sort_asc_label: Asc
           sort_desc_label: Desc
@@ -703,7 +703,7 @@ display:
           admin_label: ''
           plugin_id: text_custom
           empty: true
-          content: 'No orders available.'
+          content: 'Aucune commande n''est disponible.'
           tokenize: false
       sorts: {  }
       arguments: {  }
@@ -724,7 +724,7 @@ display:
           exposed: true
           expose:
             operator_id: order_number_op
-            label: 'Order number'
+            label: 'Numéro de commande'
             description: ''
             use_operator: false
             operator: order_number_op
@@ -810,7 +810,7 @@ display:
           exposed: true
           expose:
             operator_id: state_op
-            label: State
+            label: État
             description: ''
             use_operator: false
             operator: state_op
@@ -963,7 +963,7 @@ display:
       path: admin/commerce/orders/list
       menu:
         type: 'default tab'
-        title: Orders
+        title: Commandes
         description: ''
         weight: -10
         expanded: false
@@ -972,8 +972,8 @@ display:
         context: '0'
       tab_options:
         type: normal
-        title: Orders
-        description: 'Manage your orders.'
+        title: Commandes
+        description: 'Gérer vos commandes.'
         weight: 0
     cache_metadata:
       max-age: 0

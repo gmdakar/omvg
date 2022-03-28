@@ -1,5 +1,5 @@
 uuid: 232f6c59-7cdd-452a-856d-a7a5192c386d
-langcode: en
+langcode: fr
 status: true
 dependencies:
   config:
@@ -39,5 +39,6 @@ content:
     region: content
 hidden:
   commerce_remote_id: true
+  langcode: true
   profile_customer: true
   simplenews: true
