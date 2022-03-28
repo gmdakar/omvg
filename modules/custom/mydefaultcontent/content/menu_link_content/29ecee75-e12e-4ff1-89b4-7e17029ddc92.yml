@@ -1,16 +1,18 @@
 _meta:
   version: '1.0'
   entity_type: menu_link_content
-  uuid: 7a9e3584-1024-4b56-932d-85ae5bf4d33f
+  uuid: 29ecee75-e12e-4ff1-89b4-7e17029ddc92
   bundle: menu_link_content
-  default_langcode: en
+  default_langcode: fr
+  depends:
+    2b719902-e8b9-4fd9-938d-14ade3f5a33d: menu_link_content
 default:
   enabled:
     -
-      value: false
+      value: true
   title:
     -
-      value: Présentation
+      value: Médiathèque
   menu_name:
     -
       value: main
@@ -27,6 +29,8 @@ default:
           gva_layout: menu-list
           gva_layout_columns: '3'
           gva_block: about
+          gva_block_en: about
+          gva_block_fr: about
   external:
     -
       value: false
@@ -35,10 +39,13 @@ default:
       value: true
   weight:
     -
-      value: -44
+      value: -60
   expanded:
     -
-      value: false
+      value: true
+  parent:
+    -
+      value: 'menu_link_content:2b719902-e8b9-4fd9-938d-14ade3f5a33d'
   revision_translation_affected:
     -
       value: true

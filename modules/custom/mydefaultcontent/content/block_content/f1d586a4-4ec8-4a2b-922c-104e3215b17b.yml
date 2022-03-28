@@ -19,6 +19,6 @@ default:
       value: true
   body:
     -
-      value: "<div class=\"topbar-information\">\r\n<ul class=\"infor-list\">\r\n\t<li class=\"email\"><i class=\"fi flaticon-email-1\">&nbsp;</i>needhelp@krowd.com</li>\r\n\t<li class=\"phone\"><i class=\"fi flaticon-pin\">&nbsp;</i>66 Broklyn Street, USA</li>\r\n</ul>\r\n</div>\r\n"
+      value: "<div class=\"topbar-information\">\r\n<ul class=\"infor-list\">\r\n\t<li class=\"email\"><i class=\"fi flaticon-email-1\">&nbsp;</i>informations@omvg.org</li>\r\n\t<li class=\"phone\"><i class=\"fi flaticon-pin\">&nbsp;</i>11, Avenue OMVG, Dakar, Senegal</li>\r\n        <li class=\"email\"><i class=\"fi flaticon-email-2\">&nbsp;</i><a class=\"contact\" href=\"#\">Contact</a></li>\r\n</ul>\r\n</div>\r\n"
       format: restricted_html
       summary: ''

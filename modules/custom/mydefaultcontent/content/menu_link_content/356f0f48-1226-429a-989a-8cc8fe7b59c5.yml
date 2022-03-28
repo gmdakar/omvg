@@ -1,7 +1,7 @@
 _meta:
   version: '1.0'
   entity_type: menu_link_content
-  uuid: 8b222473-5829-4b0c-b9c4-6eea0b17941c
+  uuid: 356f0f48-1226-429a-989a-8cc8fe7b59c5
   bundle: menu_link_content
   default_langcode: en
   depends:
@@ -12,7 +12,7 @@ default:
       value: true
   title:
     -
-      value: 'En cours'
+      value: 'A venir'
   menu_name:
     -
       value: main
@@ -37,7 +37,7 @@ default:
       value: true
   weight:
     -
-      value: -58
+      value: -57
   expanded:
     -
       value: false

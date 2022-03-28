@@ -49,6 +49,6 @@ default:
       value: enable
   path:
     -
-      alias: /home-1
+      alias: ''
       langcode: en
       pathauto: 1

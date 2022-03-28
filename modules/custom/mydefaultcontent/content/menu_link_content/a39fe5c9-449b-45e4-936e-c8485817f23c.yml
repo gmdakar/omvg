@@ -1,18 +1,18 @@
 _meta:
   version: '1.0'
   entity_type: menu_link_content
-  uuid: 8b222473-5829-4b0c-b9c4-6eea0b17941c
+  uuid: a39fe5c9-449b-45e4-936e-c8485817f23c
   bundle: menu_link_content
-  default_langcode: en
+  default_langcode: fr
   depends:
-    de01ccf9-7d38-4ca4-92d9-46c76a51209f: menu_link_content
+    1f5c0659-65d5-4fe7-a14a-6522a514f5b0: menu_link_content
 default:
   enabled:
     -
       value: true
   title:
     -
-      value: 'En cours'
+      value: Actualités
   menu_name:
     -
       value: main
@@ -29,6 +29,8 @@ default:
           gva_layout: menu-list
           gva_layout_columns: '3'
           gva_block: about
+          gva_block_en: about
+          gva_block_fr: about
   external:
     -
       value: false
@@ -37,13 +39,13 @@ default:
       value: true
   weight:
     -
-      value: -58
+      value: -59
   expanded:
     -
       value: false
   parent:
     -
-      value: 'menu_link_content:de01ccf9-7d38-4ca4-92d9-46c76a51209f'
+      value: 'menu_link_content:1f5c0659-65d5-4fe7-a14a-6522a514f5b0'
   revision_translation_affected:
     -
       value: true

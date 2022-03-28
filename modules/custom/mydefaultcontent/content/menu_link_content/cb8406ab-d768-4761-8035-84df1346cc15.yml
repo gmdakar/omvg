@@ -12,7 +12,7 @@ default:
       value: true
   title:
     -
-      value: PDDI
+      value: Réalisés
   menu_name:
     -
       value: main
@@ -37,7 +37,7 @@ default:
       value: true
   weight:
     -
-      value: -50
+      value: -60
   expanded:
     -
       value: false

@@ -35,7 +35,7 @@ default:
       value: true
   weight:
     -
-      value: -42
+      value: -56
   expanded:
     -
       value: true

@@ -5,7 +5,7 @@ _meta:
   bundle: menu_link_content
   default_langcode: en
   depends:
-    2b719902-e8b9-4fd9-938d-14ade3f5a33d: menu_link_content
+    1f5c0659-65d5-4fe7-a14a-6522a514f5b0: menu_link_content
 default:
   enabled:
     -
@@ -29,6 +29,8 @@ default:
           gva_layout: menu-list
           gva_layout_columns: '3'
           gva_block: about
+          gva_block_en: about
+          gva_block_fr: about
   external:
     -
       value: false
@@ -37,13 +39,13 @@ default:
       value: true
   weight:
     -
-      value: -50
+      value: -57
   expanded:
     -
       value: false
   parent:
     -
-      value: 'menu_link_content:2b719902-e8b9-4fd9-938d-14ade3f5a33d'
+      value: 'menu_link_content:1f5c0659-65d5-4fe7-a14a-6522a514f5b0'
   revision_translation_affected:
     -
       value: true

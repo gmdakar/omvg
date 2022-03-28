@@ -1,18 +1,18 @@
 _meta:
   version: '1.0'
   entity_type: menu_link_content
-  uuid: 8b222473-5829-4b0c-b9c4-6eea0b17941c
+  uuid: e0613d38-5cae-4145-ad0e-c3a5cf6e559c
   bundle: menu_link_content
   default_langcode: en
   depends:
-    de01ccf9-7d38-4ca4-92d9-46c76a51209f: menu_link_content
+    94a4de27-81db-4e54-8897-3958f3d60ca9: menu_link_content
 default:
   enabled:
     -
       value: true
   title:
     -
-      value: 'En cours'
+      value: 'Geographie des bassins'
   menu_name:
     -
       value: main
@@ -37,13 +37,13 @@ default:
       value: true
   weight:
     -
-      value: -58
+      value: -48
   expanded:
     -
       value: false
   parent:
     -
-      value: 'menu_link_content:de01ccf9-7d38-4ca4-92d9-46c76a51209f'
+      value: 'menu_link_content:94a4de27-81db-4e54-8897-3958f3d60ca9'
   revision_translation_affected:
     -
       value: true

@@ -10,7 +10,7 @@ default:
       value: true
   title:
     -
-      value: Publications
+      value: Ressources
   menu_name:
     -
       value: main
@@ -27,6 +27,8 @@ default:
           gva_layout: menu-list
           gva_layout_columns: '3'
           gva_block: about
+          gva_block_en: about
+          gva_block_fr: about
   external:
     -
       value: false
@@ -35,7 +37,7 @@ default:
       value: true
   weight:
     -
-      value: -41
+      value: -53
   expanded:
     -
       value: true

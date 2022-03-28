@@ -10,7 +10,7 @@ default:
       value: true
   title:
     -
-      value: 'A propos de OMVG'
+      value: 'A propos'
   menu_name:
     -
       value: main
@@ -35,7 +35,7 @@ default:
       value: true
   weight:
     -
-      value: -49
+      value: -58
   expanded:
     -
       value: true

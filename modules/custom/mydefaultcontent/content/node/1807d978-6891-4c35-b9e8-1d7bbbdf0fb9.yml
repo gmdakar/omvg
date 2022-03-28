@@ -33,7 +33,7 @@ default:
       value: true
   path:
     -
-      alias: ''
+      alias: /banner-7
       langcode: en
       pathauto: 1
   field_image:

@@ -1,0 +1,15 @@
+uuid: e87f10fa-98f8-4ec7-bf06-e779eacd55ff
+langcode: en
+status: true
+dependencies: {  }
+id: text_slideshow
+label: 'text slideshow'
+code: |-
+  div.tp-caption  {
+      text-shadow: 1.1px 1.1px #2b689c !important;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true
