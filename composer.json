@@ -28,6 +28,7 @@
         "drupal/core-recommended": "^9.3",
         "drupal/core-vendor-hardening": "^9.3",
         "drupal/default_content": "^2.0@alpha",
+        "drupal/devel": "^4.1",
         "drupal/easy_breadcrumb": "^2.0",
         "drupal/fontawesome_menu_icons": "^1.9",
         "drupal/image_widget_crop": "^2.3",

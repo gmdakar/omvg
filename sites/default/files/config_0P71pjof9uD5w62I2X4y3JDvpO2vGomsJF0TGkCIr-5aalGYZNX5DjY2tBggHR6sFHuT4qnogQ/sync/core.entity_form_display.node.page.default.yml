@@ -64,27 +64,20 @@ content:
     settings: {  }
     third_party_settings: {  }
   gva_pagebuilder_content:
-    type: string_textfield
-    weight: 99
+    type: string_textarea
+    weight: 14
     region: content
     settings:
-      size: 60
+      rows: 5
       placeholder: ''
     third_party_settings: {  }
   gva_pagebuilder_enable:
     type: string_textfield
-    weight: 98
+    weight: 13
     region: content
     settings:
       size: 60
       placeholder: ''
-    third_party_settings: {  }
-  langcode:
-    type: language_select
-    weight: 2
-    region: content
-    settings:
-      include_locked: true
     third_party_settings: {  }
   path:
     type: path
@@ -101,7 +94,7 @@ content:
     third_party_settings: {  }
   status:
     type: boolean_checkbox
-    weight: 13
+    weight: 12
     region: content
     settings:
       display_label: true
@@ -131,4 +124,5 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  langcode: true

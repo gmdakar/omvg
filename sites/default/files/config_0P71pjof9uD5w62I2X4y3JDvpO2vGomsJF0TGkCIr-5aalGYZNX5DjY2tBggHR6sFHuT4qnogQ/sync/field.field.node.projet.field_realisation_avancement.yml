@@ -1,0 +1,29 @@
+uuid: 54fe71ad-6377-46de-bff8-8b0e03c326ea
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_realisation_avancement
+    - node.type.projet
+    - taxonomy.vocabulary.etat_d_avancement
+id: node.projet.field_realisation_avancement
+field_name: field_realisation_avancement
+entity_type: node
+bundle: projet
+label: 'Etat d''avancement'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      etat_d_avancement: etat_d_avancement
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

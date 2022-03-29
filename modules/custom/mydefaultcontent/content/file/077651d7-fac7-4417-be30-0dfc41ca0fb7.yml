@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 077651d7-fac7-4417-be30-0dfc41ca0fb7
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: slider-23.jpg
+  uri:
+    -
+      value: 'public://2022-03/slider-23.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 356547
+  status:
+    -
+      value: false
+  created:
+    -
+      value: 1648556585

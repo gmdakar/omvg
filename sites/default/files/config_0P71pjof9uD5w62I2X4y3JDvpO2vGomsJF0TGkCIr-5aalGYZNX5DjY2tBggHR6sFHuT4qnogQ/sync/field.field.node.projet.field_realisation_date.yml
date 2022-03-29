@@ -1,0 +1,21 @@
+uuid: 798ce254-2542-4de9-96be-9b358050295c
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_realisation_date
+    - node.type.projet
+  module:
+    - datetime_range
+id: node.projet.field_realisation_date
+field_name: field_realisation_date
+entity_type: node
+bundle: projet
+label: Date
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: daterange

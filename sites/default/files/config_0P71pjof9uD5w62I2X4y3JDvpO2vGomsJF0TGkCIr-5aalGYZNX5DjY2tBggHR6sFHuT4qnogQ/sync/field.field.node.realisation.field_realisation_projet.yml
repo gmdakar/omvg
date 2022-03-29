@@ -1,0 +1,29 @@
+uuid: 93e59000-ee0b-483a-b75a-ac1267c3ef59
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_realisation_projet
+    - node.type.projet
+    - node.type.realisation
+id: node.realisation.field_realisation_projet
+field_name: field_realisation_projet
+entity_type: node
+bundle: realisation
+label: Projet
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      projet: projet
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

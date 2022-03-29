@@ -9,6 +9,7 @@ dependencies:
     - field.field.node.realisation.field_realisation_date
     - field.field.node.realisation.field_realisation_illustration
     - field.field.node.realisation.field_realisation_pays
+    - field.field.node.realisation.field_realisation_projet
     - image.style.thumbnail
     - node.type.realisation
   module:
@@ -70,6 +71,16 @@ content:
   field_realisation_pays:
     type: entity_reference_autocomplete
     weight: 27
+    region: content
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  field_realisation_projet:
+    type: entity_reference_autocomplete
+    weight: 29
     region: content
     settings:
       match_operator: CONTAINS

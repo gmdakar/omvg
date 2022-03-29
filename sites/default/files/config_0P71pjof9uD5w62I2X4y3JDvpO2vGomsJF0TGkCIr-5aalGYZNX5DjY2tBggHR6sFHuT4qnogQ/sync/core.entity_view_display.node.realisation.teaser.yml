@@ -10,8 +10,12 @@ dependencies:
     - field.field.node.realisation.field_realisation_date
     - field.field.node.realisation.field_realisation_illustration
     - field.field.node.realisation.field_realisation_pays
+    - field.field.node.realisation.field_realisation_projet
+    - image.style.medium
     - node.type.realisation
   module:
+    - datetime_range
+    - image
     - text
     - user
 id: node.realisation.teaser
@@ -20,22 +24,68 @@ bundle: realisation
 mode: teaser
 content:
   body:
-    type: text_summary_or_trimmed
+    type: text_trimmed
     label: hidden
     settings:
-      trim_length: 600
+      trim_length: 250
     third_party_settings: {  }
-    weight: 101
+    weight: 2
+    region: content
+  field_domaine_d_intervention:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  field_realisation_avancement:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: false
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_realisation_date:
+    type: daterange_default
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: medium
+      separator: '-'
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_realisation_illustration:
+    type: image
+    label: hidden
+    settings:
+      image_link: content
+      image_style: medium
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_realisation_pays:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 5
+    region: content
+  field_realisation_projet:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 6
     region: content
   links:
     settings: {  }
     third_party_settings: {  }
-    weight: 100
+    weight: 7
     region: content
 hidden:
-  field_domaine_d_intervention: true
-  field_realisation_avancement: true
-  field_realisation_date: true
-  field_realisation_illustration: true
-  field_realisation_pays: true
   langcode: true

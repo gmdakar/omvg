@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: d73dcfc0-8af2-4e56-ac64-710620e2904b
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: post-12_3.jpg
+  uri:
+    -
+      value: 'public://gallery/post-12_3.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 50587
+  status:
+    -
+      value: false
+  created:
+    -
+      value: 1648560857

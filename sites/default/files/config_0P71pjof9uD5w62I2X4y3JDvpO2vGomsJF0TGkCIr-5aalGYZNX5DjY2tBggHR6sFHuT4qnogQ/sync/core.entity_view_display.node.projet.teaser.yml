@@ -1,0 +1,70 @@
+uuid: 16b143c6-4cc4-4bf4-966f-88e90b403913
+langcode: fr
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.projet.body
+    - field.field.node.projet.field_domaine_d_intervention
+    - field.field.node.projet.field_realisation_avancement
+    - field.field.node.projet.field_realisation_date
+    - field.field.node.projet.field_realisation_pays
+    - node.type.projet
+  module:
+    - datetime_range
+    - text
+    - user
+id: node.projet.teaser
+targetEntityType: node
+bundle: projet
+mode: teaser
+content:
+  body:
+    type: text_trimmed
+    label: hidden
+    settings:
+      trim_length: 300
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_domaine_d_intervention:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 3
+    region: content
+  field_realisation_avancement:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  field_realisation_date:
+    type: daterange_default
+    label: above
+    settings:
+      timezone_override: ''
+      format_type: medium
+      separator: '-'
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_realisation_pays:
+    type: entity_reference_label
+    label: inline
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 4
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 5
+    region: content
+hidden:
+  langcode: true

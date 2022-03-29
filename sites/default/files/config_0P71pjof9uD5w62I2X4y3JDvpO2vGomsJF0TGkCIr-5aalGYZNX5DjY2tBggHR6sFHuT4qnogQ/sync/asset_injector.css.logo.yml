@@ -5,8 +5,24 @@ dependencies: {  }
 id: logo
 label: logo
 code: |-
-  .branding img {
-      max-width: 65% !important;
+  .site-branding-logo img {
+      max-width: 100% !important; 
+  }
+
+  header.header-default .branding {
+      max-width: 100%;
+      -webkit-box-flex: 0;
+      -ms-flex: unset !important;
+      flex: unset !important; 
+  }
+
+  header.header-default .branding .site-branding-logo {
+      padding: 5px 0 !important;
+  }
+
+  header .site-branding-logo {
+      padding: 0 !important; 
+    
   }
 media: all
 preprocess: true

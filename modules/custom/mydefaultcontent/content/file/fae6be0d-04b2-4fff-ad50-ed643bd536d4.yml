@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: fae6be0d-04b2-4fff-ad50-ed643bd536d4
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: post-12_2.jpg
+  uri:
+    -
+      value: 'public://gallery/post-12_2.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 50587
+  status:
+    -
+      value: false
+  created:
+    -
+      value: 1648560282

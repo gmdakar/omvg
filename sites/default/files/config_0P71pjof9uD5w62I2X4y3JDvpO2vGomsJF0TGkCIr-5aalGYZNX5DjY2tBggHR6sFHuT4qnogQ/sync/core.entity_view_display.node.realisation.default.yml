@@ -9,6 +9,7 @@ dependencies:
     - field.field.node.realisation.field_realisation_date
     - field.field.node.realisation.field_realisation_illustration
     - field.field.node.realisation.field_realisation_pays
+    - field.field.node.realisation.field_realisation_projet
     - node.type.realisation
   module:
     - datetime_range
@@ -69,6 +70,14 @@ content:
       link: true
     third_party_settings: {  }
     weight: 106
+    region: content
+  field_realisation_projet:
+    type: entity_reference_label
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
+    weight: 108
     region: content
   links:
     settings: {  }
