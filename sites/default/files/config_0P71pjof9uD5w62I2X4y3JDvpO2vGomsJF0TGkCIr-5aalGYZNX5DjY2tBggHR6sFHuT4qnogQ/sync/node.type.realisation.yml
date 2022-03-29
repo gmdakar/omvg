@@ -1,0 +1,17 @@
+uuid: 1710002f-4f8c-4c5d-a2bf-50ad1481628b
+langcode: fr
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Réalisation
+type: realisation
+description: ''
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

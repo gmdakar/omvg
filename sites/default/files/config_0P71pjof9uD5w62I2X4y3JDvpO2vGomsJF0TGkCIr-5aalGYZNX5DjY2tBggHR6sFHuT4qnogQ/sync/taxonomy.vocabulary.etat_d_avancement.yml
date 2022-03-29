@@ -1,0 +1,8 @@
+uuid: 6fdee57b-d777-424f-a702-215aff492903
+langcode: fr
+status: true
+dependencies: {  }
+name: 'Etat d''avancement'
+vid: etat_d_avancement
+description: ''
+weight: 0

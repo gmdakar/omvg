@@ -1,0 +1,11 @@
+uuid: 13d44f26-099c-4e6e-bd14-2d4368c7c4d4
+langcode: fr
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.domaine_d_intervention
+id: taxonomy_term.domaine_d_intervention
+target_entity_type_id: taxonomy_term
+target_bundle: domaine_d_intervention
+default_langcode: site_default
+language_alterable: false

@@ -7,7 +7,7 @@ url:
   source: path_prefix
   prefixes:
     en: en
-    fr: fr
+    fr: ''
   domains:
     en: ''
     fr: ''

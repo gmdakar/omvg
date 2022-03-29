@@ -1,0 +1,11 @@
+uuid: e6ddc2a6-04a7-4c41-a37f-02725effce1e
+langcode: fr
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.etat_d_avancement
+id: taxonomy_term.etat_d_avancement
+target_entity_type_id: taxonomy_term
+target_bundle: etat_d_avancement
+default_langcode: site_default
+language_alterable: false

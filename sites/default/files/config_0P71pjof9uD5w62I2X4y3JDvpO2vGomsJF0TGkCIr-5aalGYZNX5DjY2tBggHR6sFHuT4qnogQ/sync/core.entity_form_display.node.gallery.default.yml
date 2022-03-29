@@ -5,10 +5,11 @@ dependencies:
   config:
     - field.field.node.gallery.body
     - field.field.node.gallery.field_gallery_image
-    - image.style.thumbnail
+    - image.style.large
     - node.type.gallery
   module:
     - image
+    - imce
     - path
     - text
 _core:
@@ -40,8 +41,10 @@ content:
     region: content
     settings:
       progress_indicator: throbber
-      preview_image_style: thumbnail
-    third_party_settings: {  }
+      preview_image_style: large
+    third_party_settings:
+      imce:
+        enabled: false
   gva_box_layout:
     type: options_select
     weight: 35
@@ -75,11 +78,11 @@ content:
     settings: {  }
     third_party_settings: {  }
   gva_pagebuilder_content:
-    type: string_textfield
+    type: string_textarea
     weight: 99
     region: content
     settings:
-      size: 60
+      rows: 5
       placeholder: ''
     third_party_settings: {  }
   gva_pagebuilder_enable:

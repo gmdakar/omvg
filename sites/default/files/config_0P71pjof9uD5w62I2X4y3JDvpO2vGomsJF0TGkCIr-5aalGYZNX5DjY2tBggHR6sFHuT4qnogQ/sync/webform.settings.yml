@@ -29,7 +29,7 @@ settings:
   default_form_file_limit: ''
   default_wizard_prev_button_label: '< Previous'
   default_wizard_next_button_label: 'Next Page >'
-  default_wizard_start_label: Start
+  default_wizard_start_label: Début
   default_wizard_confirmation_label: Terminé
   default_wizard_toggle_show_label: 'Show all'
   default_wizard_toggle_hide_label: 'Hide all'

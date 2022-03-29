@@ -1,0 +1,21 @@
+uuid: 696a36a0-473a-4ec7-bf08-03555e9a09c8
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_realisation_date
+    - node.type.realisation
+  module:
+    - datetime_range
+id: node.realisation.field_realisation_date
+field_name: field_realisation_date
+entity_type: node
+bundle: realisation
+label: Date
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: daterange

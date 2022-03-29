@@ -60,6 +60,9 @@ rm sites/default/settings.local.php
 echo "$settings['config_sync_directory'] = 'sites/default/files/config_0P71pjof9uD5w62I2X4y3JDvpO2vGomsJF0TGkCIr-5aalGYZNX5DjY2tBggHR6sFHuT4qnogQ/sync'; >> sites/default/settings.php"
 echo "\$settings['config_sync_directory'] = 'sites/default/files/config_0P71pjof9uD5w62I2X4y3JDvpO2vGomsJF0TGkCIr-5aalGYZNX5DjY2tBggHR6sFHuT4qnogQ/sync';" >> sites/default/settings.php 
 
+echo "$settings['file_private_path'] = 'sites/default/private';"
+echo "\$settings['file_private_path'] = 'sites/default/private';" >> sites/default/settings.php
+
 echo "ls -al index.php"
 ls -al index.php
 

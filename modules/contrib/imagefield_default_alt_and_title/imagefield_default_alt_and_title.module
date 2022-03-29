@@ -1,0 +1,54 @@
+<?php
+
+/**
+ * @file
+ * Imagefield default alt and title integration.
+ */
+
+use Drupal\Core\Form\FormStateInterface;
+use Drupal\Core\Entity\EntityFormInterface;
+use Drupal\Component\Utility\Html;
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function imagefield_default_alt_and_title_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    case 'help.page.imagefield_default_alt_and_title':
+      $text = file_get_contents(__DIR__ . '/README.txt');
+      if (!\Drupal::moduleHandler()->moduleExists('markdown')) {
+        return '<pre>' . Html::escape($text) . '</pre>';
+      }
+      else {
+        // Use the Markdown filter to render the README.
+        $filter_manager = \Drupal::service('plugin.manager.filter');
+        $settings = \Drupal::configFactory()
+          ->get('markdown.settings')
+          ->getRawData();
+        $config = ['settings' => $settings];
+        $filter = $filter_manager->createInstance('markdown', $config);
+        return $filter->process($text, 'en');
+      }
+  }
+  return NULL;
+}
+
+/**
+ * Implements hook_form_alter().
+ *
+ * Check allow bundles and add js.
+ */
+function imagefield_default_alt_and_title_form_alter(&$form, FormStateInterface $form_state) {
+  $form_object = $form_state->getFormObject();
+
+  if ($form_object instanceof EntityFormInterface) {
+    $entity = $form_object->getEntity();
+    $select_types = \Drupal::config('imagefield_default_alt_and_title.settings')
+      ->get('imagefield_default_alt_and_title_entity_types') ?: [];
+
+    if (!empty($select_types) && (in_array($entity->bundle(), array_values($select_types), TRUE))) {
+      $form['#attached']['library'][] = 'imagefield_default_alt_and_title/imge-dat';
+    }
+  }
+}

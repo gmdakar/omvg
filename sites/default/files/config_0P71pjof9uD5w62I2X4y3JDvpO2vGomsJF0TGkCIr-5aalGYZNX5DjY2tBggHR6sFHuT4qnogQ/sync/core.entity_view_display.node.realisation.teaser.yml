@@ -1,0 +1,41 @@
+uuid: 68c2d07b-2b5d-4ba0-8c23-fc2535b12f43
+langcode: fr
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.realisation.body
+    - field.field.node.realisation.field_domaine_d_intervention
+    - field.field.node.realisation.field_realisation_avancement
+    - field.field.node.realisation.field_realisation_date
+    - field.field.node.realisation.field_realisation_illustration
+    - field.field.node.realisation.field_realisation_pays
+    - node.type.realisation
+  module:
+    - text
+    - user
+id: node.realisation.teaser
+targetEntityType: node
+bundle: realisation
+mode: teaser
+content:
+  body:
+    type: text_summary_or_trimmed
+    label: hidden
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    weight: 101
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 100
+    region: content
+hidden:
+  field_domaine_d_intervention: true
+  field_realisation_avancement: true
+  field_realisation_date: true
+  field_realisation_illustration: true
+  field_realisation_pays: true
+  langcode: true

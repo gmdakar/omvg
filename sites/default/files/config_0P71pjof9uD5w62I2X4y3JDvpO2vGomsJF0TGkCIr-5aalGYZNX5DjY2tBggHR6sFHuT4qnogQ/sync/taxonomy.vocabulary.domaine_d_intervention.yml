@@ -1,0 +1,8 @@
+uuid: 84ac7539-8cac-4131-ab52-7b04a72602f8
+langcode: fr
+status: true
+dependencies: {  }
+name: 'Domaine d''intervention'
+vid: domaine_d_intervention
+description: ''
+weight: 0

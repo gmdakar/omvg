@@ -1,0 +1,29 @@
+uuid: d91bff75-c314-44c4-b3f4-4dac1235da6d
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_domaine_d_intervention
+    - node.type.realisation
+    - taxonomy.vocabulary.domaine_d_intervention
+id: node.realisation.field_domaine_d_intervention
+field_name: field_domaine_d_intervention
+entity_type: node
+bundle: realisation
+label: 'Domaine d''intervention'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      domaine_d_intervention: domaine_d_intervention
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

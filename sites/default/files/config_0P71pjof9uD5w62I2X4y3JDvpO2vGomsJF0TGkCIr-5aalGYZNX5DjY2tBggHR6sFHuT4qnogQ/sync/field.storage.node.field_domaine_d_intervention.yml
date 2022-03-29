@@ -1,0 +1,20 @@
+uuid: 230112b6-392d-461c-87f9-e7714239b133
+langcode: fr
+status: true
+dependencies:
+  module:
+    - node
+    - taxonomy
+id: node.field_domaine_d_intervention
+field_name: field_domaine_d_intervention
+entity_type: node
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

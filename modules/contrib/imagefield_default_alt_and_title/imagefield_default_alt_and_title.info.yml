@@ -1,0 +1,12 @@
+name: Imagefield Default Alt And Title
+description: Sets default alt and title for imagefield with title.
+package: SEO
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+configure: imagefield_default_alt_and_title.settings
+
+# Information added by Drupal.org packaging script on 2021-06-02
+version: '8.x-1.4'
+project: 'imagefield_default_alt_and_title'
+datestamp: 1622641456
