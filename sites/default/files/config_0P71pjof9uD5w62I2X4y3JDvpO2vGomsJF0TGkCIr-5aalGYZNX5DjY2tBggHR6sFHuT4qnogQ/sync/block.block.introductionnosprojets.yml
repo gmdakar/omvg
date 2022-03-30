@@ -1,0 +1,34 @@
+uuid: 95723391-1c6a-47bf-9cd0-a1ab25e193c6
+langcode: fr
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:5c0022bb-04a0-4f7e-bd3c-9c2702ac50e1'
+  module:
+    - block_content
+    - gaviasthemer
+    - system
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: introductionnosprojets
+theme: krowd_sub
+region: content
+weight: -17
+provider: null
+plugin: 'block_content:5c0022bb-04a0-4f7e-bd3c-9c2702ac50e1'
+settings:
+  id: 'block_content:5c0022bb-04a0-4f7e-bd3c-9c2702ac50e1'
+  label: 'Introduction Nos projets'
+  label_display: '0'
+  provider: block_content
+  status: true
+  info: ''
+  view_mode: full
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: "/nosprojets/termine\r\n/nosprojets/en-cours\r\n/nosprojets/a-venir"

@@ -1,0 +1,33 @@
+uuid: 430a802e-26a2-4799-869f-5c529a590a36
+langcode: fr
+status: true
+dependencies:
+  config:
+    - system.menu.menu-avancement-projets
+  module:
+    - gaviasthemer
+    - system
+  theme:
+    - krowd_sub
+third_party_settings:
+  gaviasthemer:
+    classes: ''
+id: menuavancementprojets
+theme: krowd_sub
+region: content
+weight: -16
+provider: null
+plugin: 'system_menu_block:menu-avancement-projets'
+settings:
+  id: 'system_menu_block:menu-avancement-projets'
+  label: 'Menu avancement projets'
+  label_display: '0'
+  provider: system
+  level: 1
+  depth: 0
+  expand_all_items: false
+visibility:
+  request_path:
+    id: request_path
+    negate: false
+    pages: "/nosprojets\r\n/nosprojets/*"

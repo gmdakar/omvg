@@ -5,8 +5,8 @@ dependencies:
   config:
     - views.view.categories_post
   module:
-    - ctools
     - gaviasthemer
+    - node
     - views
   theme:
     - krowd_sub

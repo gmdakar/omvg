@@ -5,7 +5,7 @@ dependencies:
   config:
     - views.view.campaigns
   module:
-    - ctools
+    - commerce_product
     - gaviasthemer
     - views
   theme:

@@ -13,7 +13,7 @@ third_party_settings:
 id: krowd_sub_mainpagecontent
 theme: krowd_sub
 region: content
-weight: 0
+weight: -15
 provider: null
 plugin: system_main_block
 settings:

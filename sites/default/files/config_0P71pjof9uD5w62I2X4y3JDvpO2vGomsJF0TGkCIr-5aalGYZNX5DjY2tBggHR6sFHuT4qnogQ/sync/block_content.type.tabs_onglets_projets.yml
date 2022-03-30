@@ -1,0 +1,8 @@
+uuid: 4d76579b-4eac-4297-afaa-289b7e0dc51f
+langcode: fr
+status: true
+dependencies: {  }
+id: tabs_onglets_projets
+label: 'Tabs Onglets Projets'
+revision: 0
+description: 'Chaque onglet représentera un état d''avancement donné'

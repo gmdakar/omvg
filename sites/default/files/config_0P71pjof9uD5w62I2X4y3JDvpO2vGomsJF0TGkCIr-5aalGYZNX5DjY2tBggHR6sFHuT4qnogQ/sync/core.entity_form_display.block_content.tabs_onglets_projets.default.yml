@@ -1,0 +1,40 @@
+uuid: c727fe41-1e62-459f-b36c-9a084d72f98e
+langcode: fr
+status: true
+dependencies:
+  config:
+    - block_content.type.tabs_onglets_projets
+    - field.field.block_content.tabs_onglets_projets.body
+  module:
+    - text
+id: block_content.tabs_onglets_projets.default
+targetEntityType: block_content
+bundle: tabs_onglets_projets
+mode: default
+content:
+  body:
+    type: text_textarea_with_summary
+    weight: 26
+    region: content
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+      show_summary: false
+    third_party_settings: {  }
+  info:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  langcode:
+    type: language_select
+    weight: 2
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+hidden: {  }

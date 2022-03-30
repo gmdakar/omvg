@@ -1,0 +1,23 @@
+uuid: 4a609501-7ed7-43b0-b8c3-5e38fb6b89e9
+langcode: fr
+status: true
+dependencies:
+  config:
+    - block_content.type.tabs_onglets_projets
+    - field.field.block_content.tabs_onglets_projets.body
+  module:
+    - text
+id: block_content.tabs_onglets_projets.default
+targetEntityType: block_content
+bundle: tabs_onglets_projets
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 0
+    region: content
+hidden:
+  langcode: true

@@ -1,0 +1,44 @@
+uuid: 08d8ae3a-07d4-4d56-b83c-7b4e4bf51ee2
+langcode: fr
+status: true
+dependencies: {  }
+id: menu_avancement_projets
+label: 'Menu avancement projets'
+code: |-
+  #block-menuavancementprojets ul li {
+      display: inline-block;
+      width: 32%;
+      text-align: center;
+      margin: 0 auto;
+      padding: .5rem 0;
+  }
+
+  #block-menuavancementprojets ul li a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-bottom: 5px solid #979595;
+      background-color: #ebebeb;
+      color: #6c6c6c;
+      font-size: 1.5rem;
+  }
+
+  #block-menuavancementprojets ul li.menu-item--active-trail a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-bottom: 5px solid #979595;
+      background-color: #2b689c;
+      color: #fff;
+      font-size: 1.5rem;
+  }
+
+  #block-menuavancementprojets ul li a::hover {
+      border-bottom: 5px solid #2b689c !important;
+      color: #2b689c !important;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

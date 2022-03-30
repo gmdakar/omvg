@@ -1,0 +1,8 @@
+uuid: ddaee3dc-05f2-4d52-91b0-78b339d3a71a
+langcode: und
+status: true
+dependencies: {  }
+id: menu-avancement-projets
+label: 'Menu avancement projets'
+description: 'Permettra d''afficher la liste des projets selon leur état d''avancement (Terminé, en cours, à venir)'
+locked: false
