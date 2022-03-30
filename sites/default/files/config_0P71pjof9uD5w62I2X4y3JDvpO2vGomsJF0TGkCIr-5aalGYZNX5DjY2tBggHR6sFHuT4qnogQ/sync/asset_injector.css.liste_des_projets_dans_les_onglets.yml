@@ -1,0 +1,16 @@
+uuid: 1860aa46-fcc9-44e9-9e32-604f9032111b
+langcode: fr
+status: true
+dependencies: {  }
+id: liste_des_projets_dans_les_onglets
+label: 'Liste des projets dans les onglets'
+code: |-
+  #block-krowd-sub-mainpagecontent {
+      background-color: #fdfdfd;
+      padding: 0.15rem 2rem;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

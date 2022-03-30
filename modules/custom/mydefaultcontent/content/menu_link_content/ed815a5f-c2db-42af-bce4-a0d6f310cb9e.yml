@@ -1,24 +1,22 @@
 _meta:
   version: '1.0'
   entity_type: menu_link_content
-  uuid: cb8406ab-d768-4761-8035-84df1346cc15
+  uuid: ed815a5f-c2db-42af-bce4-a0d6f310cb9e
   bundle: menu_link_content
-  default_langcode: en
-  depends:
-    de01ccf9-7d38-4ca4-92d9-46c76a51209f: menu_link_content
+  default_langcode: fr
 default:
   enabled:
     -
       value: true
   title:
     -
-      value: Réalisés
+      value: 'A venir'
   menu_name:
     -
-      value: main
+      value: menu-avancement-projets
   link:
     -
-      uri: 'internal:/nosprojets/termine'
+      uri: 'internal:/nosprojets/a-venir'
       title: ''
       options:
         fa_icon: ''
@@ -26,7 +24,8 @@ default:
         fa_icon_tag: i
         fa_icon_appearance: before
         attributes:
-          gva_layout: menu-list
+          gva_class: fa-home
+          gva_layout: menu-grid
           gva_layout_columns: '3'
           gva_block: about
           gva_block_en: about
@@ -39,13 +38,10 @@ default:
       value: true
   weight:
     -
-      value: -60
+      value: -48
   expanded:
     -
       value: false
-  parent:
-    -
-      value: 'menu_link_content:de01ccf9-7d38-4ca4-92d9-46c76a51209f'
   revision_translation_affected:
     -
       value: true
