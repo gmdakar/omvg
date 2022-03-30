@@ -1,0 +1,83 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 89d8a41e-96c8-4295-8ad6-8fd1dcf63b0a
+  bundle: realisation
+  default_langcode: fr
+  depends:
+    a0cdc8f1-a39e-4e17-802d-aa73960d671e: taxonomy_term
+    26751de6-15f9-4176-a57d-3185a4b1c0b7: taxonomy_term
+    996961fe-3d82-4324-8583-fb0e66bfd6cc: file
+    63894347-ca94-43ee-a39c-5b9e949faded: taxonomy_term
+    87a60c53-14c6-4b3a-bc22-a228ae551f9a: taxonomy_term
+    7677a642-2011-46c5-a634-ad16a8e0ffdf: node
+    b84b967d-d4cb-4a03-9f03-11a024624cb7: node
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 0
+  title:
+    -
+      value: 'Réalisation - Esse'
+  created:
+    -
+      value: 1648574369
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /node-149-realisation
+      langcode: fr
+      pathauto: 0
+  body:
+    -
+      value: "Appellatio dolor dolore incassum jus lobortis modo pecus proprius tum. Adipiscing amet appellatio conventio facilisi ille nulla singularis tamen. Ea elit immitto macto paulatim singularis. Abigo caecus cui gemino hendrerit neque praesent si tego wisi. Abbas camur comis ea eum gravis macto nisl populus ratis. Ea eum jumentum metuo mos premo saluto scisco typicus.\r\n\r\nExerci interdico pagus populus quidne. Aliquip caecus cui ibidem refoveo. Aptent blandit eu pecus tego vel. Adipiscing amet causa duis iaceo ibidem pneum quidne similis. Luptatum probo valetudo. Accumsan autem causa eros obruo torqueo tum veniam.\r\n\r\nAbbas aliquip comis commodo importunus sino typicus utrum veniam verto. Abdo consequat damnum exerci hos humo voco. Antehabeo augue interdico populus quidem uxor vel veniam venio. Lenis pala si.\r\n\r\nCaecus duis esca modo mos quidne secundum validus. Comis commoveo genitus immitto laoreet lucidus nibh premo te. Ea eligo metuo sed singularis suscipit. Pertineo premo similis tum valetudo.\r\n\r\nAcsi ex huic nimis praesent premo tation. Elit mos quia. Aptent autem tincidunt verto vindico. Brevitas eum humo iriure quadrum refero usitas. Abico esse in luctus macto mauris nutus obruo oppeto sed. Commodo eligo vulputate. Interdico laoreet pneum utinam. Esse incassum iriure jugis melior persto. Conventio genitus sudo tego ulciscor virtus.\r\n\r\nAliquip blandit causa consequat eros exerci natu refero volutpat. Ad consequat ea vindico. Appellatio euismod facilisis laoreet obruo occuro paulatim rusticus utinam volutpat. Elit ludus velit. Bene consequat diam interdico minim obruo os. Facilisis in persto quae rusticus similis te vero voco vulpes.\r\n\r\nAmet consectetuer esse huic nobis pecus persto proprius refoveo. Incassum lenis tincidunt. Obruo praemitto validus. At cogo probo sino. Aliquam at eligo enim lenis natu nostrud. Abigo antehabeo aptent distineo eum loquor meus saluto secundum vel. Abluo aptent eros illum neque singularis tamen.\r\n\r\nEa importunus nunc os qui quis refero utrum veniam. Capto causa commodo duis esse importunus luptatum sed venio. Ea ex oppeto valetudo. Autem et eu exerci lenis minim suscipere valetudo. Accumsan damnum dolus gilvus in jus lucidus. Abbas conventio defui nunc pala.\r\n\r\nImportunus iusto natu roto te tum usitas virtus. Loquor nobis valde vindico. Eros interdico pecus roto sino ulciscor vulpes. Ibidem natu qui rusticus usitas validus. Eum nisl praemitto saluto sed suscipit.\r\n\r\nCommodo conventio duis laoreet ludus pala persto quibus. Capto exerci natu pecus. Ad damnum dolor imputo iustum. At distineo elit praemitto uxor.\r\n\r\nAccumsan eu euismod meus neo pertineo premo secundum tamen tum. Luptatum nunc quadrum refero tation tum. Adipiscing camur defui gilvus gravis hos humo immitto ullamcorper. Commodo damnum dolore eu iustum pagus paratus vicis. Distineo laoreet pecus quibus te tego. Abdo abigo antehabeo consequat ille rusticus vicis. Dolor jus pala sino venio. Abbas antehabeo decet eu feugiat nostrud paratus suscipere tamen veniam.\r\n\r\nAbico jus melior te ulciscor volutpat. Decet proprius scisco. Abdo causa defui facilisis nimis tum ulciscor. Duis laoreet pecus pertineo similis tation. Ad comis erat ille illum ratis te typicus valde virtus.\r\n\r\n"
+      format: plain_text
+      summary: "Appellatio dolor dolore incassum jus lobortis modo pecus proprius tum. Adipiscing amet appellatio conventio facilisi ille nulla singularis tamen. Ea elit immitto macto paulatim singularis. Abigo caecus cui gemino hendrerit neque praesent si tego wisi. Abbas camur comis ea eum gravis macto nisl populus ratis. Ea eum jumentum metuo mos premo saluto scisco typicus.\r\n\r\nExerci interdico pagus populus quidne. Aliquip caecus cui ibidem refoveo. Aptent blandit eu pecus tego vel. Adipiscing amet causa duis iaceo ibidem pneum quidne similis. Luptatum probo valetudo. Accumsan autem causa eros obruo torqueo tum veniam.\r\n\r\nAbbas aliquip comis commodo importunus sino typicus utrum veniam verto. Abdo consequat damnum exerci hos humo voco. Antehabeo augue interdico populus quidem uxor vel veniam venio. Lenis pala si.\r\n\r\nCaecus duis esca modo mos quidne secundum validus. Comis commoveo genitus immitto laoreet lucidus nibh premo te. Ea eligo metuo sed singularis suscipit. Pertineo premo similis tum valetudo.\r\n\r\nAcsi ex huic nimis praesent premo tation. Elit mos quia. Aptent autem tincidunt verto vindico. Brevitas eum humo iriure quadrum refero usitas. Abico esse in luctus macto mauris nutus obruo oppeto sed. Commodo eligo vulputate. Interdico laoreet pneum utinam. Esse incassum iriure jugis melior persto. Conventio genitus sudo tego ulciscor virtus.\r\n\r\nAliquip blandit causa consequat eros exerci natu refero volutpat. Ad consequat ea vindico. Appellatio euismod facilisis laoreet obruo occuro paulatim rusticus utinam volutpat. Elit ludus velit. Bene consequat diam interdico minim obruo os. Facilisis in persto quae rusticus similis te vero voco vulpes.\r\n\r\nAmet consectetuer esse huic nobis pecus persto proprius refoveo. Incassum lenis tincidunt. Obruo praemitto validus. At cogo probo sino. Aliquam at eligo enim lenis natu nostrud. Abigo antehabeo aptent distineo eum loquor meus saluto secundum vel. Abluo aptent eros illum neque singularis tamen.\r\n\r\nEa importunus nunc os qui quis refero utrum veniam. Capto causa commodo duis esse importunus luptatum sed venio. Ea ex oppeto valetudo. Autem et eu exerci lenis minim suscipere valetudo. Accumsan damnum dolus gilvus in jus lucidus. Abbas conventio defui nunc pala.\r\n\r\nImportunus iusto natu roto te tum usitas virtus. Loquor nobis valde vindico. Eros interdico pecus roto sino ulciscor vulpes. Ibidem natu qui rusticus usitas validus. Eum nisl praemitto saluto sed suscipit.\r\n\r\nCommodo conventio duis laoreet ludus pala persto quibus. Capto exerci natu pecus. Ad damnum dolor imputo iustum. At distineo elit praemitto uxor.\r\n\r\nAccumsan eu euismod meus neo pertineo premo secundum tamen tum. Luptatum nunc quadrum refero tation tum. Adipiscing camur defui gilvus gravis hos humo immitto ullamcorper. Commodo damnum dolore eu iustum pagus paratus vicis. Distineo laoreet pecus quibus te tego. Abdo abigo antehabeo consequat ille rusticus vicis. Dolor jus pala sino venio. Abbas antehabeo decet eu feugiat nostrud paratus suscipere tamen veniam.\r\n\r\nAbico jus melior te ulciscor volutpat. Decet proprius scisco. Abdo causa defui facilisis nimis tum ulciscor. Duis laoreet pecus pertineo similis tation. Ad comis erat ille illum ratis te typicus valde virtus.\r\n\r\n"
+  field_domaine_d_intervention:
+    -
+      entity: a0cdc8f1-a39e-4e17-802d-aa73960d671e
+  field_realisation_avancement:
+    -
+      entity: 26751de6-15f9-4176-a57d-3185a4b1c0b7
+  field_realisation_date:
+    -
+      value: '2021-05-02'
+      end_value: '2021-05-03'
+  field_realisation_illustration:
+    -
+      entity: 996961fe-3d82-4324-8583-fb0e66bfd6cc
+      alt: hhjh
+      title: kjjjkj
+      width: 1184
+      height: 584
+  field_realisation_pays:
+    -
+      entity: 63894347-ca94-43ee-a39c-5b9e949faded
+    -
+      entity: 87a60c53-14c6-4b3a-bc22-a228ae551f9a
+    -
+      entity: 63894347-ca94-43ee-a39c-5b9e949faded
+  field_realisation_projet:
+    -
+      entity: 7677a642-2011-46c5-a634-ad16a8e0ffdf
+    -
+      entity: 7677a642-2011-46c5-a634-ad16a8e0ffdf
+    -
+      entity: b84b967d-d4cb-4a03-9f03-11a024624cb7

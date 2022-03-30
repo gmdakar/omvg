@@ -1,0 +1,119 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: b7423714-c771-4936-85bf-8b283c3b9884
+  bundle: projet
+  default_langcode: fr
+  depends:
+    b0baeef0-1e44-4d3b-a3a2-0f9d0defaebc: user
+    a0cdc8f1-a39e-4e17-802d-aa73960d671e: taxonomy_term
+    a13c09ac-809a-4fb0-a76a-28913f107cbd: taxonomy_term
+    8dab8083-1fe5-4981-aef4-e208d06de511: taxonomy_term
+    419324af-a1da-4930-9acf-88f4c3fa8408: taxonomy_term
+    d1134014-0ece-4f38-9725-29dcae371697: taxonomy_term
+    63894347-ca94-43ee-a39c-5b9e949faded: taxonomy_term
+default:
+  revision_uid:
+    -
+      entity: b0baeef0-1e44-4d3b-a3a2-0f9d0defaebc
+  status:
+    -
+      value: true
+  uid:
+    -
+      entity: b0baeef0-1e44-4d3b-a3a2-0f9d0defaebc
+  title:
+    -
+      value: 'Projet - Acsi Dolore Macto Nostrud Pala Quibus Verto'
+  created:
+    -
+      value: 1648120950
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /node-110-projet
+      langcode: fr
+      pathauto: 1
+  body:
+    -
+      value: |+
+        Ad adipiscing diam fere gemino singularis sit utrum. Adipiscing dolore esca hos mauris meus nisl nutus occuro. Nutus pagus persto proprius suscipit vereor vindico. Ex incassum tego tincidunt verto. Eu tum ut utrum. Facilisis genitus ludus praesent ratis. Odio patria ulciscor. Lucidus modo rusticus. Accumsan aliquip damnum erat interdico pagus tincidunt vereor.
+
+        Ex iusto molior odio quadrum rusticus sit te zelus. Damnum natu os scisco voco vulputate. Aliquip antehabeo aptent minim molior os praesent utrum. Ibidem inhibeo qui virtus. Amet blandit cogo cui exputo obruo pala populus.
+
+        Duis gilvus inhibeo si sit suscipere velit. Amet causa cogo ideo praesent quae quibus refoveo tincidunt ut. Imputo quia secundum singularis. Bene eros jumentum ymo. Abbas iaceo iustum luptatum mauris neo secundum typicus vereor.
+
+        Camur esca gemino hendrerit luctus minim neque probo. Letalis quidne scisco. Autem brevitas decet duis genitus ideo quibus sino tum. Aliquam distineo lucidus mauris nutus probo saepius scisco singularis vindico. Appellatio ex illum iriure quia sudo suscipere uxor. Exputo fere loquor nisl nobis. Dolore ea eligo hendrerit iusto.
+
+        At ex molior quadrum typicus. Esca fere hos. Abdo incassum occuro praesent. Abbas aliquip amet duis gilvus luptatum ullamcorper vulputate. Adipiscing autem cogo consequat conventio dolor eum minim tincidunt voco. Abigo appellatio zelus.
+
+        Metuo tincidunt wisi. Feugiat jumentum neque persto praemitto tamen tation venio vereor wisi. Amet aptent gravis minim neo pertineo praesent rusticus sit valde. Neque plaga tation utinam. Dolus ea elit exputo genitus oppeto saluto suscipere ulciscor ullamcorper. Abigo loquor suscipere suscipit. Brevitas camur distineo duis genitus haero pagus quidem ymo.
+
+        Dignissim gemino in valetudo. Luptatum quae saepius. Consectetuer ideo incassum odio plaga quia. Capto erat nobis ut. Dolore nibh ratis refoveo rusticus. Cogo iaceo magna. Bene decet premo ulciscor.
+
+        Augue consequat elit humo nisl turpis utinam. Ad dolor iaceo letalis ludus occuro tum ut venio. Decet eligo interdico mos obruo pertineo quidem veniam verto. Antehabeo camur ex humo imputo valde velit virtus. Aliquam esca gemino genitus ibidem iustum quidem.
+
+        Dignissim feugiat in nisl ratis si ulciscor vereor. Eligo lobortis melior molior pecus refero virtus ymo. At bene conventio decet ratis tincidunt vel. Comis macto melior oppeto praesent quae suscipere.
+
+        Aptent blandit comis laoreet neque pecus suscipere vulpes. Brevitas capto causa erat ex nulla quidne saluto singularis tincidunt. Ex iriure ludus nimis paulatim torqueo veniam.
+
+        Abigo damnum duis hendrerit obruo suscipere virtus. Abbas abigo enim facilisi inhibeo te typicus valetudo. Brevitas jus os paulatim pertineo quia refoveo typicus ulciscor velit. Et gemino mauris odio sed torqueo. Praesent tamen zelus.
+
+        Esca metuo rusticus. Esse facilisis metuo praesent vel. Acsi distineo gravis oppeto si. Conventio esca jumentum nisl ymo. Aliquam caecus valetudo. Acsi comis commoveo damnum facilisi volutpat.
+
+      format: plain_text
+      summary: |+
+        Ad adipiscing diam fere gemino singularis sit utrum. Adipiscing dolore esca hos mauris meus nisl nutus occuro. Nutus pagus persto proprius suscipit vereor vindico. Ex incassum tego tincidunt verto. Eu tum ut utrum. Facilisis genitus ludus praesent ratis. Odio patria ulciscor. Lucidus modo rusticus. Accumsan aliquip damnum erat interdico pagus tincidunt vereor.
+
+        Ex iusto molior odio quadrum rusticus sit te zelus. Damnum natu os scisco voco vulputate. Aliquip antehabeo aptent minim molior os praesent utrum. Ibidem inhibeo qui virtus. Amet blandit cogo cui exputo obruo pala populus.
+
+        Duis gilvus inhibeo si sit suscipere velit. Amet causa cogo ideo praesent quae quibus refoveo tincidunt ut. Imputo quia secundum singularis. Bene eros jumentum ymo. Abbas iaceo iustum luptatum mauris neo secundum typicus vereor.
+
+        Camur esca gemino hendrerit luctus minim neque probo. Letalis quidne scisco. Autem brevitas decet duis genitus ideo quibus sino tum. Aliquam distineo lucidus mauris nutus probo saepius scisco singularis vindico. Appellatio ex illum iriure quia sudo suscipere uxor. Exputo fere loquor nisl nobis. Dolore ea eligo hendrerit iusto.
+
+        At ex molior quadrum typicus. Esca fere hos. Abdo incassum occuro praesent. Abbas aliquip amet duis gilvus luptatum ullamcorper vulputate. Adipiscing autem cogo consequat conventio dolor eum minim tincidunt voco. Abigo appellatio zelus.
+
+        Metuo tincidunt wisi. Feugiat jumentum neque persto praemitto tamen tation venio vereor wisi. Amet aptent gravis minim neo pertineo praesent rusticus sit valde. Neque plaga tation utinam. Dolus ea elit exputo genitus oppeto saluto suscipere ulciscor ullamcorper. Abigo loquor suscipere suscipit. Brevitas camur distineo duis genitus haero pagus quidem ymo.
+
+        Dignissim gemino in valetudo. Luptatum quae saepius. Consectetuer ideo incassum odio plaga quia. Capto erat nobis ut. Dolore nibh ratis refoveo rusticus. Cogo iaceo magna. Bene decet premo ulciscor.
+
+        Augue consequat elit humo nisl turpis utinam. Ad dolor iaceo letalis ludus occuro tum ut venio. Decet eligo interdico mos obruo pertineo quidem veniam verto. Antehabeo camur ex humo imputo valde velit virtus. Aliquam esca gemino genitus ibidem iustum quidem.
+
+        Dignissim feugiat in nisl ratis si ulciscor vereor. Eligo lobortis melior molior pecus refero virtus ymo. At bene conventio decet ratis tincidunt vel. Comis macto melior oppeto praesent quae suscipere.
+
+        Aptent blandit comis laoreet neque pecus suscipere vulpes. Brevitas capto causa erat ex nulla quidne saluto singularis tincidunt. Ex iriure ludus nimis paulatim torqueo veniam.
+
+        Abigo damnum duis hendrerit obruo suscipere virtus. Abbas abigo enim facilisi inhibeo te typicus valetudo. Brevitas jus os paulatim pertineo quia refoveo typicus ulciscor velit. Et gemino mauris odio sed torqueo. Praesent tamen zelus.
+
+        Esca metuo rusticus. Esse facilisis metuo praesent vel. Acsi distineo gravis oppeto si. Conventio esca jumentum nisl ymo. Aliquam caecus valetudo. Acsi comis commoveo damnum facilisi volutpat.
+
+  field_domaine_d_intervention:
+    -
+      entity: a0cdc8f1-a39e-4e17-802d-aa73960d671e
+    -
+      entity: a13c09ac-809a-4fb0-a76a-28913f107cbd
+  field_realisation_avancement:
+    -
+      entity: 8dab8083-1fe5-4981-aef4-e208d06de511
+  field_realisation_date:
+    -
+      value: '2021-06-05'
+      end_value: '2021-06-06'
+  field_realisation_pays:
+    -
+      entity: 419324af-a1da-4930-9acf-88f4c3fa8408
+    -
+      entity: d1134014-0ece-4f38-9725-29dcae371697
+    -
+      entity: 63894347-ca94-43ee-a39c-5b9e949faded

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 23581932-04da-4b15-9039-b7c15145b7b2
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_c4dp01.jpeg
+  uri:
+    -
+      value: 'public://2022-03/generateImage_c4dp01.jpeg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 3032
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 9cb179ea-746f-4e6d-b28e-e607bd605c43
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_kQoyz3.png
+  uri:
+    -
+      value: 'public://2022-03/generateImage_kQoyz3.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1689
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

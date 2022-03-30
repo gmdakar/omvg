@@ -1,0 +1,135 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 83aeac2d-77de-46ec-bab3-ed715de48b2e
+  bundle: realisation
+  default_langcode: fr
+  depends:
+    5739b597-4387-4895-877f-03bbaf8faebb: taxonomy_term
+    a0cdc8f1-a39e-4e17-802d-aa73960d671e: taxonomy_term
+    9482063a-c3cf-44c9-9f9f-072d22b92405: taxonomy_term
+    3173e11e-a6e0-4b58-846e-8819fc197eaa: file
+    87a60c53-14c6-4b3a-bc22-a228ae551f9a: taxonomy_term
+    419324af-a1da-4930-9acf-88f4c3fa8408: taxonomy_term
+    7677a642-2011-46c5-a634-ad16a8e0ffdf: node
+    b25729f1-1291-48a4-aee2-9e7beafb0ff6: node
+    0f9914d5-05b3-4051-84d9-80bded755272: node
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Réalisation - Oppeto'
+  created:
+    -
+      value: 1648157336
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /node-128-realisation
+      langcode: fr
+      pathauto: 1
+  body:
+    -
+      value: |+
+        Aliquip ludus pala patria qui voco. Augue fere iusto jus. Appellatio eros gilvus gravis paratus persto rusticus secundum singularis valde. Abluo esse iriure si wisi. Bene validus vindico.
+
+        Aliquam feugiat ratis scisco. Camur defui erat imputo jumentum populus premo tum verto vicis. Decet enim feugiat in iustum jus natu nunc vereor. Bene importunus in magna nisl tum. Abbas distineo dolor euismod facilisi qui singularis. Antehabeo inhibeo pagus paulatim saluto wisi. Abdo decet saluto validus. Eligo iaceo in. In lucidus magna nunc si.
+
+        Augue diam et ille jumentum nisl persto quidem tum. Capto commoveo pala paratus plaga suscipit torqueo venio volutpat vulpes. Dolor sino uxor. Appellatio letalis quidem utrum. Eligo huic letalis nulla odio utinam. Aptent comis dignissim dolor immitto nibh ullamcorper vel vicis.
+
+        Capto ea ymo. Abluo conventio defui erat minim valde. Defui enim euismod exputo gilvus mos oppeto sudo valde. Elit nulla pala roto. Bene et iaceo quidem sagaciter ullamcorper.
+
+        Ad cui hos imputo letalis. Dolore eum ratis singularis sino usitas vero volutpat. Antehabeo conventio ibidem modo pecus praesent tincidunt vindico. Abico appellatio consequat premo quia roto secundum suscipere ullamcorper vero.
+
+        Abico appellatio cogo huic sagaciter vel velit. Refoveo usitas venio. Abluo accumsan feugiat mos roto tego typicus ulciscor ut zelus. Aliquam brevitas dolus erat macto plaga quae utrum vel.
+
+        At dolor ea ex exerci ludus obruo tamen venio. Ideo usitas vulputate. Diam duis facilisis genitus huic nibh praemitto sit utinam. Ea modo olim. Amet luptatum tation vicis. Jus odio sino torqueo. Causa ea genitus quadrum turpis ulciscor. At incassum jugis macto modo quadrum refoveo similis. Abbas abigo acsi cui ea eros rusticus scisco sudo utrum.
+
+        Autem blandit decet dignissim huic metuo occuro pala singularis utinam. Pagus paratus roto volutpat. Mauris quia tincidunt. Dolor eros refoveo sagaciter ullamcorper ymo. Cogo magna nisl nostrud olim patria premo ulciscor utinam voco. Accumsan defui laoreet lucidus odio patria usitas valde. Antehabeo dignissim eligo nunc premo usitas utinam.
+
+        Abigo at augue imputo lenis quidne ulciscor vero. Conventio defui duis et ex immitto interdico tamen uxor vero. At augue capto luctus quis sagaciter singularis venio. Facilisis proprius tation. Eligo letalis pala vel. Eligo iusto qui. Ad eros ex genitus gilvus iaceo lobortis praesent sudo ut.
+
+        Minim nobis praemitto te vulputate. Dolus importunus iustum nunc pecus. Commoveo distineo hendrerit hos jugis lenis tego valde valetudo. Enim facilisis in nunc usitas venio. Erat gemino nobis validus. Ex nimis proprius venio. Iaceo ludus probo. Abluo illum mauris melior obruo patria quidne te tincidunt. Hos incassum turpis utrum valde.
+
+        Accumsan tum uxor. Euismod in similis. Exerci ludus uxor. Ad causa gravis ille importunus quidem torqueo. Causa eum incassum probo refoveo uxor valetudo. Antehabeo ea plaga roto sino suscipit typicus usitas utinam velit. Accumsan blandit eligo iusto loquor quae virtus. Damnum decet et ulciscor. Amet autem esca gravis nisl nunc similis vel. Augue elit suscipere te.
+
+        Brevitas eligo lucidus melior odio pneum si validus venio. Appellatio in luctus odio os roto vereor. Antehabeo commodo consectetuer iusto refoveo usitas venio. Appellatio genitus gravis ille jus ludus modo persto utrum verto.
+
+      format: plain_text
+      summary: |+
+        Aliquip ludus pala patria qui voco. Augue fere iusto jus. Appellatio eros gilvus gravis paratus persto rusticus secundum singularis valde. Abluo esse iriure si wisi. Bene validus vindico.
+
+        Aliquam feugiat ratis scisco. Camur defui erat imputo jumentum populus premo tum verto vicis. Decet enim feugiat in iustum jus natu nunc vereor. Bene importunus in magna nisl tum. Abbas distineo dolor euismod facilisi qui singularis. Antehabeo inhibeo pagus paulatim saluto wisi. Abdo decet saluto validus. Eligo iaceo in. In lucidus magna nunc si.
+
+        Augue diam et ille jumentum nisl persto quidem tum. Capto commoveo pala paratus plaga suscipit torqueo venio volutpat vulpes. Dolor sino uxor. Appellatio letalis quidem utrum. Eligo huic letalis nulla odio utinam. Aptent comis dignissim dolor immitto nibh ullamcorper vel vicis.
+
+        Capto ea ymo. Abluo conventio defui erat minim valde. Defui enim euismod exputo gilvus mos oppeto sudo valde. Elit nulla pala roto. Bene et iaceo quidem sagaciter ullamcorper.
+
+        Ad cui hos imputo letalis. Dolore eum ratis singularis sino usitas vero volutpat. Antehabeo conventio ibidem modo pecus praesent tincidunt vindico. Abico appellatio consequat premo quia roto secundum suscipere ullamcorper vero.
+
+        Abico appellatio cogo huic sagaciter vel velit. Refoveo usitas venio. Abluo accumsan feugiat mos roto tego typicus ulciscor ut zelus. Aliquam brevitas dolus erat macto plaga quae utrum vel.
+
+        At dolor ea ex exerci ludus obruo tamen venio. Ideo usitas vulputate. Diam duis facilisis genitus huic nibh praemitto sit utinam. Ea modo olim. Amet luptatum tation vicis. Jus odio sino torqueo. Causa ea genitus quadrum turpis ulciscor. At incassum jugis macto modo quadrum refoveo similis. Abbas abigo acsi cui ea eros rusticus scisco sudo utrum.
+
+        Autem blandit decet dignissim huic metuo occuro pala singularis utinam. Pagus paratus roto volutpat. Mauris quia tincidunt. Dolor eros refoveo sagaciter ullamcorper ymo. Cogo magna nisl nostrud olim patria premo ulciscor utinam voco. Accumsan defui laoreet lucidus odio patria usitas valde. Antehabeo dignissim eligo nunc premo usitas utinam.
+
+        Abigo at augue imputo lenis quidne ulciscor vero. Conventio defui duis et ex immitto interdico tamen uxor vero. At augue capto luctus quis sagaciter singularis venio. Facilisis proprius tation. Eligo letalis pala vel. Eligo iusto qui. Ad eros ex genitus gilvus iaceo lobortis praesent sudo ut.
+
+        Minim nobis praemitto te vulputate. Dolus importunus iustum nunc pecus. Commoveo distineo hendrerit hos jugis lenis tego valde valetudo. Enim facilisis in nunc usitas venio. Erat gemino nobis validus. Ex nimis proprius venio. Iaceo ludus probo. Abluo illum mauris melior obruo patria quidne te tincidunt. Hos incassum turpis utrum valde.
+
+        Accumsan tum uxor. Euismod in similis. Exerci ludus uxor. Ad causa gravis ille importunus quidem torqueo. Causa eum incassum probo refoveo uxor valetudo. Antehabeo ea plaga roto sino suscipit typicus usitas utinam velit. Accumsan blandit eligo iusto loquor quae virtus. Damnum decet et ulciscor. Amet autem esca gravis nisl nunc similis vel. Augue elit suscipere te.
+
+        Brevitas eligo lucidus melior odio pneum si validus venio. Appellatio in luctus odio os roto vereor. Antehabeo commodo consectetuer iusto refoveo usitas venio. Appellatio genitus gravis ille jus ludus modo persto utrum verto.
+
+  field_domaine_d_intervention:
+    -
+      entity: 5739b597-4387-4895-877f-03bbaf8faebb
+    -
+      entity: a0cdc8f1-a39e-4e17-802d-aa73960d671e
+  field_realisation_avancement:
+    -
+      entity: 9482063a-c3cf-44c9-9f9f-072d22b92405
+  field_realisation_date:
+    -
+      value: '2021-05-11'
+      end_value: '2021-05-12'
+  field_realisation_illustration:
+    -
+      entity: 3173e11e-a6e0-4b58-846e-8819fc197eaa
+      alt: 'Autem dignissim ideo jugis lucidus mos odio os ratis typicus.'
+      title: 'Accumsan blandit cogo commodo consectetuer nulla secundum typicus virtus vulpes.'
+      width: 523
+      height: 249
+  field_realisation_pays:
+    -
+      entity: 87a60c53-14c6-4b3a-bc22-a228ae551f9a
+    -
+      entity: 419324af-a1da-4930-9acf-88f4c3fa8408
+    -
+      entity: 419324af-a1da-4930-9acf-88f4c3fa8408
+  field_realisation_projet:
+    -
+      entity: 7677a642-2011-46c5-a634-ad16a8e0ffdf
+    -
+      entity: b25729f1-1291-48a4-aee2-9e7beafb0ff6
+    -
+      entity: 0f9914d5-05b3-4051-84d9-80bded755272

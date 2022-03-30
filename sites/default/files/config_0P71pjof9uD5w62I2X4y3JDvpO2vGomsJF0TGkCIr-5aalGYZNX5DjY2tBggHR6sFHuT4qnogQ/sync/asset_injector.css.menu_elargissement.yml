@@ -11,6 +11,12 @@ code: |-
       -ms-flex: 0 0 65%;
       flex: 0 0 80%;
   }
+
+  .navigation .gva_menu_main li a {
+      text-align: left !important;
+      text-transform: uppercase !important;
+      /* font-weight: 400 !important; */
+  }
 media: all
 preprocess: true
 conditions: {  }

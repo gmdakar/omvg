@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 996961fe-3d82-4324-8583-fb0e66bfd6cc
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: slider-42_0.jpg
+  uri:
+    -
+      value: 'public://2022-03/slider-42_0.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 324181
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648587678

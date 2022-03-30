@@ -1,0 +1,114 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d6857401-82aa-463a-8e28-5edb87f0e3f2
+  bundle: projet
+  default_langcode: fr
+  depends:
+    a13c09ac-809a-4fb0-a76a-28913f107cbd: taxonomy_term
+    5739b597-4387-4895-877f-03bbaf8faebb: taxonomy_term
+    8dab8083-1fe5-4981-aef4-e208d06de511: taxonomy_term
+    63894347-ca94-43ee-a39c-5b9e949faded: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 0
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 0
+  title:
+    -
+      value: 'Projet - At Ut Veniam'
+  created:
+    -
+      value: 1648062978
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /node-117-projet
+      langcode: fr
+      pathauto: 1
+  body:
+    -
+      value: |+
+        Haero humo immitto lucidus natu pagus paulatim persto quadrum saluto. Accumsan bene elit humo ibidem iusto loquor melior nunc persto. Adipiscing commodo facilisis lobortis luctus magna tincidunt. Abluo decet enim feugiat magna sit. Cogo comis hendrerit iriure nulla sino. Dolor ibidem luptatum modo neque suscipere tincidunt. Damnum rusticus saepius utrum. Brevitas camur consequat decet duis nisl saepius uxor venio.
+
+        Commodo feugiat gilvus natu patria plaga quadrum quia quidne. Illum usitas vel. Elit ex exerci exputo importunus occuro oppeto paratus praemitto ymo.
+
+        Consequat humo iriure nimis. Abigo amet distineo jus ludus neo roto ut velit vicis. Consectetuer dolus laoreet letalis luctus ut. At defui ea iusto nisl roto singularis.
+
+        Aptent defui distineo eros exputo illum olim suscipere tum valde. Ideo mos nisl voco. Comis commoveo modo turpis usitas vereor. Exputo gemino magna modo sino suscipit tincidunt turpis vindico.
+
+        Acsi gilvus magna quidne sagaciter similis. Aptent erat hendrerit humo nostrud pagus proprius uxor validus volutpat. Abbas abdo aptent autem consectetuer facilisis huic immitto nibh. Dignissim elit eros eum exputo jugis nutus. Aliquip comis commodo dolus fere gravis loquor neque secundum suscipit. Aliquip fere iustum paratus. Dolore eum iaceo ibidem ille importunus occuro sudo zelus.
+
+        Acsi duis erat genitus in inhibeo pecus qui rusticus. Gravis natu nobis rusticus vicis vindico. Brevitas gilvus loquor mos natu patria praesent sudo veniam. Abdo abluo dolus euismod eum quidem typicus vindico vulpes. Inhibeo letalis odio pecus probo si suscipit veniam venio virtus. Bene commodo refoveo. Mauris occuro praemitto. Camur esca ibidem interdico mos tum typicus ullamcorper valetudo wisi. Abico hendrerit pagus.
+
+        Pala plaga ratis zelus. Damnum dolore haero jus refero roto singularis typicus ut. Exputo humo imputo meus probo quia quidne te uxor wisi. Cogo eligo immitto laoreet molior nisl secundum sit voco. Distineo meus quia quibus. Conventio dolus ibidem incassum natu nisl pertineo tincidunt.
+
+        Abigo adipiscing augue dignissim iaceo jumentum nostrud odio os veniam. Autem cogo conventio diam iriure lobortis obruo premo singularis ullamcorper. Bene letalis proprius qui singularis valde. Augue cui damnum meus pertineo plaga proprius quis typicus. Abdo at capto immitto jugis pala quadrum te uxor zelus.
+
+        Eros esca probo velit. Acsi et euismod fere gemino huic praemitto refoveo valde. Causa duis facilisis immitto quia sagaciter sit ullamcorper ymo. Abdo humo luctus pecus pneum tation. Cui jumentum lucidus persto validus. Eu illum interdico ludus molior singularis usitas utinam. Amet exputo iusto lenis ludus quidem roto usitas valde validus.
+
+        Abluo esca haero nibh quia. Antehabeo proprius virtus. Dolor euismod illum quadrum similis verto. Abdo appellatio bene ex importunus odio pneum vel veniam. Elit letalis nostrud quibus.
+
+        Accumsan ad adipiscing aliquip camur defui lobortis saluto vereor. Aliquam causa euismod incassum nulla rusticus saepius vulpes zelus. Pneum tamen utrum voco. Conventio qui usitas vereor. Abico meus pagus quae refero sit ulciscor volutpat. Adipiscing antehabeo appellatio exputo patria typicus ulciscor. Conventio metuo nibh olim refoveo.
+
+        Antehabeo blandit immitto ratis valde. Acsi macto pecus. Adipiscing blandit quibus tincidunt. Aptent autem ibidem nunc pala quidem suscipere. Ad eligo luptatum olim pecus suscipere tego venio. Dolor metuo nostrud quia venio virtus ymo. Bene blandit facilisis nostrud pneum quidne turpis utinam. Ad conventio facilisi genitus nunc os si suscipere vulpes.
+
+      format: plain_text
+      summary: |+
+        Haero humo immitto lucidus natu pagus paulatim persto quadrum saluto. Accumsan bene elit humo ibidem iusto loquor melior nunc persto. Adipiscing commodo facilisis lobortis luctus magna tincidunt. Abluo decet enim feugiat magna sit. Cogo comis hendrerit iriure nulla sino. Dolor ibidem luptatum modo neque suscipere tincidunt. Damnum rusticus saepius utrum. Brevitas camur consequat decet duis nisl saepius uxor venio.
+
+        Commodo feugiat gilvus natu patria plaga quadrum quia quidne. Illum usitas vel. Elit ex exerci exputo importunus occuro oppeto paratus praemitto ymo.
+
+        Consequat humo iriure nimis. Abigo amet distineo jus ludus neo roto ut velit vicis. Consectetuer dolus laoreet letalis luctus ut. At defui ea iusto nisl roto singularis.
+
+        Aptent defui distineo eros exputo illum olim suscipere tum valde. Ideo mos nisl voco. Comis commoveo modo turpis usitas vereor. Exputo gemino magna modo sino suscipit tincidunt turpis vindico.
+
+        Acsi gilvus magna quidne sagaciter similis. Aptent erat hendrerit humo nostrud pagus proprius uxor validus volutpat. Abbas abdo aptent autem consectetuer facilisis huic immitto nibh. Dignissim elit eros eum exputo jugis nutus. Aliquip comis commodo dolus fere gravis loquor neque secundum suscipit. Aliquip fere iustum paratus. Dolore eum iaceo ibidem ille importunus occuro sudo zelus.
+
+        Acsi duis erat genitus in inhibeo pecus qui rusticus. Gravis natu nobis rusticus vicis vindico. Brevitas gilvus loquor mos natu patria praesent sudo veniam. Abdo abluo dolus euismod eum quidem typicus vindico vulpes. Inhibeo letalis odio pecus probo si suscipit veniam venio virtus. Bene commodo refoveo. Mauris occuro praemitto. Camur esca ibidem interdico mos tum typicus ullamcorper valetudo wisi. Abico hendrerit pagus.
+
+        Pala plaga ratis zelus. Damnum dolore haero jus refero roto singularis typicus ut. Exputo humo imputo meus probo quia quidne te uxor wisi. Cogo eligo immitto laoreet molior nisl secundum sit voco. Distineo meus quia quibus. Conventio dolus ibidem incassum natu nisl pertineo tincidunt.
+
+        Abigo adipiscing augue dignissim iaceo jumentum nostrud odio os veniam. Autem cogo conventio diam iriure lobortis obruo premo singularis ullamcorper. Bene letalis proprius qui singularis valde. Augue cui damnum meus pertineo plaga proprius quis typicus. Abdo at capto immitto jugis pala quadrum te uxor zelus.
+
+        Eros esca probo velit. Acsi et euismod fere gemino huic praemitto refoveo valde. Causa duis facilisis immitto quia sagaciter sit ullamcorper ymo. Abdo humo luctus pecus pneum tation. Cui jumentum lucidus persto validus. Eu illum interdico ludus molior singularis usitas utinam. Amet exputo iusto lenis ludus quidem roto usitas valde validus.
+
+        Abluo esca haero nibh quia. Antehabeo proprius virtus. Dolor euismod illum quadrum similis verto. Abdo appellatio bene ex importunus odio pneum vel veniam. Elit letalis nostrud quibus.
+
+        Accumsan ad adipiscing aliquip camur defui lobortis saluto vereor. Aliquam causa euismod incassum nulla rusticus saepius vulpes zelus. Pneum tamen utrum voco. Conventio qui usitas vereor. Abico meus pagus quae refero sit ulciscor volutpat. Adipiscing antehabeo appellatio exputo patria typicus ulciscor. Conventio metuo nibh olim refoveo.
+
+        Antehabeo blandit immitto ratis valde. Acsi macto pecus. Adipiscing blandit quibus tincidunt. Aptent autem ibidem nunc pala quidem suscipere. Ad eligo luptatum olim pecus suscipere tego venio. Dolor metuo nostrud quia venio virtus ymo. Bene blandit facilisis nostrud pneum quidne turpis utinam. Ad conventio facilisi genitus nunc os si suscipere vulpes.
+
+  field_domaine_d_intervention:
+    -
+      entity: a13c09ac-809a-4fb0-a76a-28913f107cbd
+    -
+      entity: 5739b597-4387-4895-877f-03bbaf8faebb
+  field_realisation_avancement:
+    -
+      entity: 8dab8083-1fe5-4981-aef4-e208d06de511
+  field_realisation_date:
+    -
+      value: '2022-03-09'
+      end_value: '2022-03-10'
+  field_realisation_pays:
+    -
+      entity: 63894347-ca94-43ee-a39c-5b9e949faded
+    -
+      entity: 63894347-ca94-43ee-a39c-5b9e949faded

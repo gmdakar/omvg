@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 50ff6931-a437-4587-a383-3e05ff23b661
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_w8oC2R.gif
+  uri:
+    -
+      value: 'public://2022-03/generateImage_w8oC2R.gif'
+  filemime:
+    -
+      value: image/gif
+  filesize:
+    -
+      value: 1514
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

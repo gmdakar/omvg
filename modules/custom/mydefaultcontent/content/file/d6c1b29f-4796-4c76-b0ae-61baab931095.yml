@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: d6c1b29f-4796-4c76-b0ae-61baab931095
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_Y1Dcf3.jpg
+  uri:
+    -
+      value: 'public://2022-03/generateImage_Y1Dcf3.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 4239
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

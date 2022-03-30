@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: f850f182-079c-47b3-955b-b17b94f478d0
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_OZEW1G.gif
+  uri:
+    -
+      value: 'public://2022-03/generateImage_OZEW1G.gif'
+  filemime:
+    -
+      value: image/gif
+  filesize:
+    -
+      value: 4305
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

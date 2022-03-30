@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 92f66561-f348-4437-a2fd-91210ed02191
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_GTD0FN.jpeg
+  uri:
+    -
+      value: 'public://2022-03/generateImage_GTD0FN.jpeg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 8050
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

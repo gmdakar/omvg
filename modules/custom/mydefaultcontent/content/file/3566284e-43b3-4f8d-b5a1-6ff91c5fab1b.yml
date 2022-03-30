@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3566284e-43b3-4f8d-b5a1-6ff91c5fab1b
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_Uj8HhI.png
+  uri:
+    -
+      value: 'public://2022-03/generateImage_Uj8HhI.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1338
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

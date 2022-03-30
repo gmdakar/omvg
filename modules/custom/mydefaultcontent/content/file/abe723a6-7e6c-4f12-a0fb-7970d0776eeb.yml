@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: abe723a6-7e6c-4f12-a0fb-7970d0776eeb
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_2qqS9l.jpeg
+  uri:
+    -
+      value: 'public://2022-03/generateImage_2qqS9l.jpeg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 3931
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

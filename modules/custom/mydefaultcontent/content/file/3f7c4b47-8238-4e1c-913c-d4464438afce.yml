@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3f7c4b47-8238-4e1c-913c-d4464438afce
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_Op8m45.gif
+  uri:
+    -
+      value: 'public://2022-03/generateImage_Op8m45.gif'
+  filemime:
+    -
+      value: image/gif
+  filesize:
+    -
+      value: 1568
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: bad0592f-3ea3-414c-8104-3c65e323c788
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: slider-41.jpg
+  uri:
+    -
+      value: 'public://2022-03/slider-41.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 513460
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648587791

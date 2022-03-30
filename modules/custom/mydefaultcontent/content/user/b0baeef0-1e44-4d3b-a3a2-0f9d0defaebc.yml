@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: user
+  uuid: b0baeef0-1e44-4d3b-a3a2-0f9d0defaebc
+  default_langcode: en
+  depends:
+    b6725b46-6e87-4776-834f-02f735eb694d: file
+default:
+  preferred_langcode:
+    -
+      value: en
+  preferred_admin_langcode:
+    -
+      value: en
+  name:
+    -
+      value: demo
+  pass:
+    -
+      value: $S$EbSJKSBpwgzYPXjusrnWKJ1CoaStx5UnbMXklHu.VW.mKNuq2/1m
+      existing: ''
+      pre_hashed: false
+  mail:
+    -
+      value: demo_user@gmail.com
+  timezone:
+    -
+      value: Europe/Berlin
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1587004001
+  access:
+    -
+      value: 1587099540
+  login:
+    -
+      value: 1587004015
+  init:
+    -
+      value: demo_user@gmail.com
+  path:
+    -
+      alias: ''
+      langcode: en
+      pathauto: 0
+  user_picture:
+    -
+      entity: b6725b46-6e87-4776-834f-02f735eb694d
+      alt: ''
+      title: ''
+      width: 85
+      height: 85

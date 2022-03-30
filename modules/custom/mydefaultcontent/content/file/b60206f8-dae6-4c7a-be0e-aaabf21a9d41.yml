@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: b60206f8-dae6-4c7a-be0e-aaabf21a9d41
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_utlTKG.png
+  uri:
+    -
+      value: 'public://2022-03/generateImage_utlTKG.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1021
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

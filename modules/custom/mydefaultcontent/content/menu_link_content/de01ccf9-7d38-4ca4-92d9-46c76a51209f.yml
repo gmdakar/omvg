@@ -16,7 +16,7 @@ default:
       value: main
   link:
     -
-      uri: 'internal:#'
+      uri: 'internal:/projets'
       title: ''
       options:
         fa_icon: ''
@@ -27,6 +27,8 @@ default:
           gva_layout: menu-list
           gva_layout_columns: '3'
           gva_block: about
+          gva_block_en: about
+          gva_block_fr: about
   external:
     -
       value: false

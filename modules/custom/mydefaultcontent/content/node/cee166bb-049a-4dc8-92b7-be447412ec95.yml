@@ -1,0 +1,129 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: cee166bb-049a-4dc8-92b7-be447412ec95
+  bundle: realisation
+  default_langcode: fr
+  depends:
+    5739b597-4387-4895-877f-03bbaf8faebb: taxonomy_term
+    a13c09ac-809a-4fb0-a76a-28913f107cbd: taxonomy_term
+    9482063a-c3cf-44c9-9f9f-072d22b92405: taxonomy_term
+    0f903679-af55-4004-b8cd-6daeff06fb19: file
+    419324af-a1da-4930-9acf-88f4c3fa8408: taxonomy_term
+    87a60c53-14c6-4b3a-bc22-a228ae551f9a: taxonomy_term
+    732b0d11-eafc-42d6-ad57-a9ecb2230016: node
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Réalisation - Augue Consequat Illum Melior Neo Olim Quibus Singularis Verto'
+  created:
+    -
+      value: 1648426684
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /node-138-realisation
+      langcode: fr
+      pathauto: 1
+  body:
+    -
+      value: |+
+        Commoveo esca ibidem refero. Appellatio conventio duis facilisi gemino gilvus pneum. Abigo bene enim iaceo immitto obruo sino validus. Feugiat immitto pecus tation. Ad duis eum hendrerit ibidem luctus nibh paulatim quidem refero. Appellatio singularis sit. Dolor ibidem lenis mauris praemitto tamen torqueo valde. Aliquip distineo jugis lenis. Huic persto plaga quadrum scisco sino. Consectetuer interdico luctus paulatim.
+
+        Abdo consectetuer distineo eum jumentum premo voco. Jumentum paratus sed tego velit. Abigo accumsan melior meus molior pagus sino. Facilisi ideo letalis odio patria proprius singularis tincidunt vereor.
+
+        Dolor interdico pertineo qui. Abdo adipiscing cui damnum diam hos nostrud premo similis singularis. Consequat ibidem interdico tamen ymo. Aliquip enim huic incassum iustum meus pala paulatim torqueo. Brevitas dolus ea iusto luctus molior pagus volutpat.
+
+        Augue caecus praemitto saepius tamen volutpat. Decet exputo feugiat importunus nibh paratus sed suscipit turpis. Abigo antehabeo appellatio aptent cogo iriure nutus populus ymo. Autem conventio ille immitto pertineo scisco sino utrum voco.
+
+        Abluo humo minim quis roto turpis. Enim loquor nisl pagus saepius tum uxor ymo. Camur commodo eum exputo ibidem nimis pecus ut voco. Abbas capto causa cui eum gravis meus neque refero. Importunus ludus minim pagus proprius valde. Modo neo quadrum refero tation vindico zelus. Dignissim ea enim. Abico genitus iriure oppeto tincidunt.
+
+        Abluo euismod interdico ymo. Dolor esca laoreet pecus quae. Augue enim in torqueo. Aptent augue blandit genitus laoreet nutus usitas valetudo vicis. Erat utrum valetudo verto. Hendrerit hos imputo valde. Haero huic metuo occuro suscipere ulciscor vicis virtus.
+
+        Hos paratus suscipit tamen. Acsi defui hendrerit inhibeo saepius tego vel velit. Jus lobortis modo quidne vindico. Adipiscing distineo elit ille nulla proprius sino ulciscor. Caecus dolor elit melior oppeto saepius ulciscor vel venio verto. Abdo abigo interdico praemitto ratis sino virtus vulputate.
+
+        Abdo diam dolore facilisis lucidus nibh occuro os valde vero. Aliquip eum immitto. Abbas camur consectetuer dignissim esse iustum letalis magna tation vereor. At cui illum jugis mauris molior vicis.
+
+        At ibidem macto melior saepius typicus utinam. Exputo laoreet luptatum persto quidem saepius suscipere uxor vulpes. Abdo abigo comis euismod eum populus singularis tincidunt utinam ymo. Causa dolore eu meus natu paratus scisco tation. Cui modo neo praemitto suscipere tamen te.
+
+        Aptent ratis te. Conventio diam genitus iaceo oppeto singularis vicis. Appellatio cogo dolore erat euismod genitus ibidem illum modo nobis. Abbas commoveo quis ullamcorper vulpes wisi zelus. Facilisi iusto nisl sudo. Accumsan adipiscing conventio elit exerci facilisis feugiat incassum nisl. Eros nobis patria praemitto quibus quidne refoveo saepius si. Abdo abico antehabeo cogo neo obruo sit sudo typicus.
+
+        Nibh pecus sagaciter sino. Abluo fere hos nisl quadrum quibus sed ulciscor velit. Enim immitto imputo loquor nutus occuro sit. Commoveo ideo lucidus quidem singularis utrum.
+
+        Elit feugiat gravis ille pecus pertineo pneum praesent. Natu oppeto quadrum tum typicus. Ex feugiat quidem suscipit vel. Dolus euismod virtus. Antehabeo iustum paulatim praemitto. Abigo commoveo eu fere jus molior sino. Abigo distineo dolore gravis loquor natu premo quadrum sed turpis.
+
+      format: plain_text
+      summary: |+
+        Commoveo esca ibidem refero. Appellatio conventio duis facilisi gemino gilvus pneum. Abigo bene enim iaceo immitto obruo sino validus. Feugiat immitto pecus tation. Ad duis eum hendrerit ibidem luctus nibh paulatim quidem refero. Appellatio singularis sit. Dolor ibidem lenis mauris praemitto tamen torqueo valde. Aliquip distineo jugis lenis. Huic persto plaga quadrum scisco sino. Consectetuer interdico luctus paulatim.
+
+        Abdo consectetuer distineo eum jumentum premo voco. Jumentum paratus sed tego velit. Abigo accumsan melior meus molior pagus sino. Facilisi ideo letalis odio patria proprius singularis tincidunt vereor.
+
+        Dolor interdico pertineo qui. Abdo adipiscing cui damnum diam hos nostrud premo similis singularis. Consequat ibidem interdico tamen ymo. Aliquip enim huic incassum iustum meus pala paulatim torqueo. Brevitas dolus ea iusto luctus molior pagus volutpat.
+
+        Augue caecus praemitto saepius tamen volutpat. Decet exputo feugiat importunus nibh paratus sed suscipit turpis. Abigo antehabeo appellatio aptent cogo iriure nutus populus ymo. Autem conventio ille immitto pertineo scisco sino utrum voco.
+
+        Abluo humo minim quis roto turpis. Enim loquor nisl pagus saepius tum uxor ymo. Camur commodo eum exputo ibidem nimis pecus ut voco. Abbas capto causa cui eum gravis meus neque refero. Importunus ludus minim pagus proprius valde. Modo neo quadrum refero tation vindico zelus. Dignissim ea enim. Abico genitus iriure oppeto tincidunt.
+
+        Abluo euismod interdico ymo. Dolor esca laoreet pecus quae. Augue enim in torqueo. Aptent augue blandit genitus laoreet nutus usitas valetudo vicis. Erat utrum valetudo verto. Hendrerit hos imputo valde. Haero huic metuo occuro suscipere ulciscor vicis virtus.
+
+        Hos paratus suscipit tamen. Acsi defui hendrerit inhibeo saepius tego vel velit. Jus lobortis modo quidne vindico. Adipiscing distineo elit ille nulla proprius sino ulciscor. Caecus dolor elit melior oppeto saepius ulciscor vel venio verto. Abdo abigo interdico praemitto ratis sino virtus vulputate.
+
+        Abdo diam dolore facilisis lucidus nibh occuro os valde vero. Aliquip eum immitto. Abbas camur consectetuer dignissim esse iustum letalis magna tation vereor. At cui illum jugis mauris molior vicis.
+
+        At ibidem macto melior saepius typicus utinam. Exputo laoreet luptatum persto quidem saepius suscipere uxor vulpes. Abdo abigo comis euismod eum populus singularis tincidunt utinam ymo. Causa dolore eu meus natu paratus scisco tation. Cui modo neo praemitto suscipere tamen te.
+
+        Aptent ratis te. Conventio diam genitus iaceo oppeto singularis vicis. Appellatio cogo dolore erat euismod genitus ibidem illum modo nobis. Abbas commoveo quis ullamcorper vulpes wisi zelus. Facilisi iusto nisl sudo. Accumsan adipiscing conventio elit exerci facilisis feugiat incassum nisl. Eros nobis patria praemitto quibus quidne refoveo saepius si. Abdo abico antehabeo cogo neo obruo sit sudo typicus.
+
+        Nibh pecus sagaciter sino. Abluo fere hos nisl quadrum quibus sed ulciscor velit. Enim immitto imputo loquor nutus occuro sit. Commoveo ideo lucidus quidem singularis utrum.
+
+        Elit feugiat gravis ille pecus pertineo pneum praesent. Natu oppeto quadrum tum typicus. Ex feugiat quidem suscipit vel. Dolus euismod virtus. Antehabeo iustum paulatim praemitto. Abigo commoveo eu fere jus molior sino. Abigo distineo dolore gravis loquor natu premo quadrum sed turpis.
+
+  field_domaine_d_intervention:
+    -
+      entity: 5739b597-4387-4895-877f-03bbaf8faebb
+    -
+      entity: 5739b597-4387-4895-877f-03bbaf8faebb
+    -
+      entity: a13c09ac-809a-4fb0-a76a-28913f107cbd
+  field_realisation_avancement:
+    -
+      entity: 9482063a-c3cf-44c9-9f9f-072d22b92405
+  field_realisation_date:
+    -
+      value: '2021-12-14'
+      end_value: '2021-12-15'
+  field_realisation_illustration:
+    -
+      entity: 0f903679-af55-4004-b8cd-6daeff06fb19
+      alt: 'Accumsan distineo gravis ludus magna.'
+      title: 'Abbas abigo huic paulatim saepius voco zelus.'
+      width: 140
+      height: 281
+  field_realisation_pays:
+    -
+      entity: 419324af-a1da-4930-9acf-88f4c3fa8408
+    -
+      entity: 87a60c53-14c6-4b3a-bc22-a228ae551f9a
+  field_realisation_projet:
+    -
+      entity: 732b0d11-eafc-42d6-ad57-a9ecb2230016

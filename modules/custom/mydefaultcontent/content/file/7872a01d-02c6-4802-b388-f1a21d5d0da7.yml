@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 7872a01d-02c6-4802-b388-f1a21d5d0da7
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_Ilcjpe.png
+  uri:
+    -
+      value: 'public://2022-03/generateImage_Ilcjpe.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 677
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

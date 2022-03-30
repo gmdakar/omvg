@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 97f3aa54-d447-47c2-a0c6-0dc23115bad9
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_sFbtNv.jpg
+  uri:
+    -
+      value: 'public://2022-03/generateImage_sFbtNv.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 7314
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

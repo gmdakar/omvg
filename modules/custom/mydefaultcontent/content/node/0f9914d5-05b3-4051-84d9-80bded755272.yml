@@ -1,0 +1,112 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 0f9914d5-05b3-4051-84d9-80bded755272
+  bundle: projet
+  default_langcode: fr
+  depends:
+    a0cdc8f1-a39e-4e17-802d-aa73960d671e: taxonomy_term
+    5739b597-4387-4895-877f-03bbaf8faebb: taxonomy_term
+    9482063a-c3cf-44c9-9f9f-072d22b92405: taxonomy_term
+    63894347-ca94-43ee-a39c-5b9e949faded: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Projet - Abico Commoveo Lucidus Occuro Plaga'
+  created:
+    -
+      value: 1648262996
+  promote:
+    -
+      value: true
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /node-111-projet
+      langcode: fr
+      pathauto: 1
+  body:
+    -
+      value: |+
+        Adipiscing dignissim dolore dolus eros facilisi natu si singularis. Brevitas elit gravis quadrum rusticus saepius. Interdico lucidus os praesent quae tincidunt torqueo zelus. Obruo proprius si validus. Abbas magna minim paratus qui quis virtus. Oppeto probo quae.
+
+        Appellatio praesent quidne secundum vicis vulputate. Abdo abluo aliquip bene decet ex mauris minim nobis utrum. Caecus cui elit enim eum gravis jumentum typicus verto.
+
+        Cogo exputo facilisis iaceo lenis mauris saluto te. Abdo antehabeo caecus cogo illum interdico magna persto uxor ymo. Comis damnum decet distineo genitus iriure quidne torqueo venio. At conventio jugis ullamcorper. Ea interdico iustum praesent saluto suscipere. Exerci facilisis similis valetudo vero vindico. Enim esse mauris olim os vindico.
+
+        Dolor enim hos populus quia uxor. Elit ex in. Adipiscing aptent causa eu inhibeo nutus qui refoveo saepius. Abluo esca huic iusto mos tincidunt zelus.
+
+        Causa sed suscipit. Caecus lenis oppeto pecus pertineo quidem rusticus sino valde volutpat. Et laoreet paulatim pecus quidne. Augue ea enim refoveo scisco suscipere vulputate. Cui ideo quadrum secundum sit suscipit tum venio vindico. Abdo at hendrerit loquor sagaciter.
+
+        Aptent elit hos praesent quia singularis tamen vero. Comis exerci letalis ulciscor. Humo immitto importunus oppeto proprius typicus ullamcorper vel venio. Luptatum magna paulatim sed.
+
+        Abigo diam virtus. Damnum diam facilisis ille mauris pneum typicus virtus. Camur commoveo defui ibidem nobis sudo suscipere tation uxor. Esse pneum sit tamen vindico. Ad aptent capto exerci ludus mos vel. Cogo conventio distineo incassum populus usitas voco.
+
+        At dolor dolus eros esse mauris modo nulla. Bene eros interdico persto sino vereor ymo. Ea imputo vicis. Adipiscing aliquam dignissim lenis ludus os qui valetudo ymo. Adipiscing commoveo ea lucidus ludus sagaciter scisco tamen vel ymo. Eros inhibeo lobortis odio. Consectetuer dolor elit exputo gravis mos saluto sed virtus volutpat.
+
+        Abbas erat euismod feugiat ymo. Abdo acsi augue distineo duis euismod facilisis haero meus virtus. Amet augue brevitas quadrum quae saepius uxor. Eros hos in olim qui wisi zelus.
+
+        Abigo appellatio lenis nibh. Esca ex facilisis illum interdico roto sudo suscipere te torqueo. Adipiscing mauris occuro paratus sino. Enim loquor sit tincidunt veniam. Gravis ludus torqueo. Dolor letalis natu odio paratus quis. Abico pala torqueo wisi. Damnum interdico quae sed sudo wisi. Caecus ideo meus minim nulla oppeto probo rusticus. Capto diam exerci minim neo pagus typicus.
+
+        Autem bene jus natu qui quis volutpat. Brevitas dignissim eu praesent typicus. Adipiscing defui eligo laoreet lobortis patria quadrum tamen verto vulpes. Diam persto singularis. Ibidem meus quis singularis suscipit veniam. Abdo accumsan brevitas eu exputo nutus olim proprius quae. Damnum elit esse feugiat praemitto refoveo rusticus sagaciter tamen verto.
+
+        Esca facilisis feugiat ibidem importunus minim quadrum torqueo volutpat. Hendrerit interdico pala proprius vereor. Dolus laoreet lobortis lucidus persto quia. Abdo ludus nulla patria sed similis turpis ymo.
+
+      format: plain_text
+      summary: |+
+        Adipiscing dignissim dolore dolus eros facilisi natu si singularis. Brevitas elit gravis quadrum rusticus saepius. Interdico lucidus os praesent quae tincidunt torqueo zelus. Obruo proprius si validus. Abbas magna minim paratus qui quis virtus. Oppeto probo quae.
+
+        Appellatio praesent quidne secundum vicis vulputate. Abdo abluo aliquip bene decet ex mauris minim nobis utrum. Caecus cui elit enim eum gravis jumentum typicus verto.
+
+        Cogo exputo facilisis iaceo lenis mauris saluto te. Abdo antehabeo caecus cogo illum interdico magna persto uxor ymo. Comis damnum decet distineo genitus iriure quidne torqueo venio. At conventio jugis ullamcorper. Ea interdico iustum praesent saluto suscipere. Exerci facilisis similis valetudo vero vindico. Enim esse mauris olim os vindico.
+
+        Dolor enim hos populus quia uxor. Elit ex in. Adipiscing aptent causa eu inhibeo nutus qui refoveo saepius. Abluo esca huic iusto mos tincidunt zelus.
+
+        Causa sed suscipit. Caecus lenis oppeto pecus pertineo quidem rusticus sino valde volutpat. Et laoreet paulatim pecus quidne. Augue ea enim refoveo scisco suscipere vulputate. Cui ideo quadrum secundum sit suscipit tum venio vindico. Abdo at hendrerit loquor sagaciter.
+
+        Aptent elit hos praesent quia singularis tamen vero. Comis exerci letalis ulciscor. Humo immitto importunus oppeto proprius typicus ullamcorper vel venio. Luptatum magna paulatim sed.
+
+        Abigo diam virtus. Damnum diam facilisis ille mauris pneum typicus virtus. Camur commoveo defui ibidem nobis sudo suscipere tation uxor. Esse pneum sit tamen vindico. Ad aptent capto exerci ludus mos vel. Cogo conventio distineo incassum populus usitas voco.
+
+        At dolor dolus eros esse mauris modo nulla. Bene eros interdico persto sino vereor ymo. Ea imputo vicis. Adipiscing aliquam dignissim lenis ludus os qui valetudo ymo. Adipiscing commoveo ea lucidus ludus sagaciter scisco tamen vel ymo. Eros inhibeo lobortis odio. Consectetuer dolor elit exputo gravis mos saluto sed virtus volutpat.
+
+        Abbas erat euismod feugiat ymo. Abdo acsi augue distineo duis euismod facilisis haero meus virtus. Amet augue brevitas quadrum quae saepius uxor. Eros hos in olim qui wisi zelus.
+
+        Abigo appellatio lenis nibh. Esca ex facilisis illum interdico roto sudo suscipere te torqueo. Adipiscing mauris occuro paratus sino. Enim loquor sit tincidunt veniam. Gravis ludus torqueo. Dolor letalis natu odio paratus quis. Abico pala torqueo wisi. Damnum interdico quae sed sudo wisi. Caecus ideo meus minim nulla oppeto probo rusticus. Capto diam exerci minim neo pagus typicus.
+
+        Autem bene jus natu qui quis volutpat. Brevitas dignissim eu praesent typicus. Adipiscing defui eligo laoreet lobortis patria quadrum tamen verto vulpes. Diam persto singularis. Ibidem meus quis singularis suscipit veniam. Abdo accumsan brevitas eu exputo nutus olim proprius quae. Damnum elit esse feugiat praemitto refoveo rusticus sagaciter tamen verto.
+
+        Esca facilisis feugiat ibidem importunus minim quadrum torqueo volutpat. Hendrerit interdico pala proprius vereor. Dolus laoreet lobortis lucidus persto quia. Abdo ludus nulla patria sed similis turpis ymo.
+
+  field_domaine_d_intervention:
+    -
+      entity: a0cdc8f1-a39e-4e17-802d-aa73960d671e
+    -
+      entity: 5739b597-4387-4895-877f-03bbaf8faebb
+  field_realisation_avancement:
+    -
+      entity: 9482063a-c3cf-44c9-9f9f-072d22b92405
+  field_realisation_date:
+    -
+      value: '2021-11-27'
+      end_value: '2021-11-28'
+  field_realisation_pays:
+    -
+      entity: 63894347-ca94-43ee-a39c-5b9e949faded

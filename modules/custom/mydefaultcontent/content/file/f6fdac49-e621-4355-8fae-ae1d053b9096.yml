@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: f6fdac49-e621-4355-8fae-ae1d053b9096
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_M5S8K1.jpg
+  uri:
+    -
+      value: 'public://2022-03/generateImage_M5S8K1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 2813
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

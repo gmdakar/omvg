@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 68160f7c-e118-4a90-a631-38688b6f0476
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_euZfp1.png
+  uri:
+    -
+      value: 'public://2022-03/generateImage_euZfp1.png'
+  filemime:
+    -
+      value: image/png
+  filesize:
+    -
+      value: 1413
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

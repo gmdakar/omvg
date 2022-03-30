@@ -1,0 +1,129 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 8df77410-35b7-49e3-8320-7accc2a4f627
+  bundle: realisation
+  default_langcode: fr
+  depends:
+    5739b597-4387-4895-877f-03bbaf8faebb: taxonomy_term
+    26751de6-15f9-4176-a57d-3185a4b1c0b7: taxonomy_term
+    abe723a6-7e6c-4f12-a0fb-7970d0776eeb: file
+    87a60c53-14c6-4b3a-bc22-a228ae551f9a: taxonomy_term
+    8f50b8af-9267-4565-b137-c8d247a8e538: node
+    732b0d11-eafc-42d6-ad57-a9ecb2230016: node
+    b7423714-c771-4936-85bf-8b283c3b9884: node
+default:
+  revision_uid:
+    -
+      target_id: 0
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 0
+  title:
+    -
+      value: 'Réalisation - Accumsan Amet Autem Causa Commodo Inhibeo Jugis Mos Saepius Virtus'
+  created:
+    -
+      value: 1648498215
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: /node-135-realisation
+      langcode: fr
+      pathauto: 1
+  body:
+    -
+      value: |+
+        Brevitas ex gemino haero iaceo luptatum molior probo torqueo vulputate. Fere iusto neque praesent premo qui sudo usitas. Olim pecus te. Caecus diam interdico patria quadrum refoveo sit ulciscor voco. Ad erat genitus gravis iriure quis sudo velit vereor. Bene blandit et lucidus nunc nutus saluto singularis sino ulciscor. At cui dignissim eu macto nunc si wisi.
+
+        Causa esca exerci in si vindico. Conventio damnum dignissim imputo quae. Amet cogo enim eros humo letalis metuo quidem tum virtus. Augue cui diam et ex humo loquor roto. Augue commoveo ea facilisi pertineo proprius ulciscor. Ad autem consectetuer defui melior modo nibh volutpat. Comis hendrerit melior wisi. Esca quidne utinam. Abluo ex lenis obruo quadrum quia verto.
+
+        Appellatio augue decet odio venio. Ad at causa dignissim enim hendrerit iaceo luptatum. Capto nibh quia torqueo. Importunus melior nutus obruo paratus qui ulciscor. At conventio olim populus singularis ulciscor utrum uxor veniam. Abdo antehabeo diam eligo immitto loquor praesent sit suscipere torqueo.
+
+        Aliquam camur dolor eum hendrerit premo tation. Ea humo ideo similis. Caecus camur consequat eros quis voco. Abigo laoreet magna pneum probo refero tincidunt virtus. Appellatio augue et eum iusto loquor quis vel virtus. Ad antehabeo neque obruo occuro premo ymo. Hendrerit saluto sed zelus. Caecus gemino quia. Diam pecus wisi.
+
+        Brevitas damnum hendrerit occuro pneum quia sagaciter torqueo uxor. Dolore melior nulla nunc refoveo turpis. Acsi ad causa diam gilvus iusto persto ullamcorper. Abdo caecus hendrerit iusto quibus rusticus sit ullamcorper. Acsi brevitas rusticus. Mos quadrum utrum. Qui typicus ut vulpes. At ea eum ut utrum vel.
+
+        Conventio esca fere jus melior nunc sino tego ullamcorper. In iusto probo. Facilisi letalis neo scisco ut. Appellatio dolore facilisis fere feugiat iriure odio rusticus verto. Abdo natu neo. Caecus dolor enim occuro secundum ulciscor wisi. Haero lobortis magna os rusticus tamen wisi. Meus qui quibus utrum. Conventio damnum genitus ibidem meus quadrum scisco tation te volutpat.
+
+        Acsi commodo nutus valetudo. Fere in nulla obruo quidem secundum si sino. Natu valde verto. Dolore feugiat plaga. Antehabeo dolor inhibeo jugis nobis rusticus saepius saluto volutpat ymo. Dolore iriure olim sed ut.
+
+        Bene magna mos natu valetudo vel. Appellatio caecus duis incassum loquor ludus pneum secundum. Acsi aliquam conventio distineo gilvus ille premo suscipere. Aptent hos iaceo saluto. Aptent haero iriure meus neque volutpat wisi. Autem commodo distineo eligo interdico nostrud plaga utinam valde vicis. Abbas magna neque quadrum similis vero volutpat. Abluo brevitas consectetuer ibidem interdico magna praesent qui tincidunt.
+
+        Euismod exerci genitus proprius ratis rusticus tation typicus vindico. Dolor jumentum loquor sed tamen turpis valde vulpes. Abbas consequat magna nunc paulatim quadrum zelus. Hendrerit mos paulatim ut. Camur distineo fere secundum validus verto. Accumsan brevitas iaceo ibidem jugis luptatum saluto veniam. Erat jumentum roto. Haero lenis sudo. Comis pertineo utrum.
+
+        Caecus diam modo occuro patria ratis tation tum typicus velit. Eum ibidem jumentum letalis quidne zelus. Esca in iustum neo obruo persto refoveo velit veniam. Aliquam amet eum gemino gilvus quia. At commodo consectetuer dolor exerci oppeto patria premo tum.
+
+        Ad dolor eu in os premo ut. Abigo decet praemitto roto sit ut. Bene persto vulputate. Paulatim si tego. At erat macto quis sagaciter. Decet fere iusto lenis pertineo pneum si. Ibidem meus natu nisl premo. Dolus hos patria refero validus. Commodo metuo obruo paratus patria pneum ratis sino suscipit ut. Abdo caecus dolus hendrerit luctus nutus praesent sed validus.
+
+        Esse euismod melior quidem. Augue fere ibidem odio praesent quibus vero. Abluo gilvus humo luctus nisl nostrud nulla tation vero. Abigo pertineo premo probo turpis. Amet brevitas duis elit genitus huic importunus probo quibus rusticus. Eligo in jus persto. Ad esse ymo. Abigo ad gilvus pertineo praesent.
+
+      format: plain_text
+      summary: |+
+        Brevitas ex gemino haero iaceo luptatum molior probo torqueo vulputate. Fere iusto neque praesent premo qui sudo usitas. Olim pecus te. Caecus diam interdico patria quadrum refoveo sit ulciscor voco. Ad erat genitus gravis iriure quis sudo velit vereor. Bene blandit et lucidus nunc nutus saluto singularis sino ulciscor. At cui dignissim eu macto nunc si wisi.
+
+        Causa esca exerci in si vindico. Conventio damnum dignissim imputo quae. Amet cogo enim eros humo letalis metuo quidem tum virtus. Augue cui diam et ex humo loquor roto. Augue commoveo ea facilisi pertineo proprius ulciscor. Ad autem consectetuer defui melior modo nibh volutpat. Comis hendrerit melior wisi. Esca quidne utinam. Abluo ex lenis obruo quadrum quia verto.
+
+        Appellatio augue decet odio venio. Ad at causa dignissim enim hendrerit iaceo luptatum. Capto nibh quia torqueo. Importunus melior nutus obruo paratus qui ulciscor. At conventio olim populus singularis ulciscor utrum uxor veniam. Abdo antehabeo diam eligo immitto loquor praesent sit suscipere torqueo.
+
+        Aliquam camur dolor eum hendrerit premo tation. Ea humo ideo similis. Caecus camur consequat eros quis voco. Abigo laoreet magna pneum probo refero tincidunt virtus. Appellatio augue et eum iusto loquor quis vel virtus. Ad antehabeo neque obruo occuro premo ymo. Hendrerit saluto sed zelus. Caecus gemino quia. Diam pecus wisi.
+
+        Brevitas damnum hendrerit occuro pneum quia sagaciter torqueo uxor. Dolore melior nulla nunc refoveo turpis. Acsi ad causa diam gilvus iusto persto ullamcorper. Abdo caecus hendrerit iusto quibus rusticus sit ullamcorper. Acsi brevitas rusticus. Mos quadrum utrum. Qui typicus ut vulpes. At ea eum ut utrum vel.
+
+        Conventio esca fere jus melior nunc sino tego ullamcorper. In iusto probo. Facilisi letalis neo scisco ut. Appellatio dolore facilisis fere feugiat iriure odio rusticus verto. Abdo natu neo. Caecus dolor enim occuro secundum ulciscor wisi. Haero lobortis magna os rusticus tamen wisi. Meus qui quibus utrum. Conventio damnum genitus ibidem meus quadrum scisco tation te volutpat.
+
+        Acsi commodo nutus valetudo. Fere in nulla obruo quidem secundum si sino. Natu valde verto. Dolore feugiat plaga. Antehabeo dolor inhibeo jugis nobis rusticus saepius saluto volutpat ymo. Dolore iriure olim sed ut.
+
+        Bene magna mos natu valetudo vel. Appellatio caecus duis incassum loquor ludus pneum secundum. Acsi aliquam conventio distineo gilvus ille premo suscipere. Aptent hos iaceo saluto. Aptent haero iriure meus neque volutpat wisi. Autem commodo distineo eligo interdico nostrud plaga utinam valde vicis. Abbas magna neque quadrum similis vero volutpat. Abluo brevitas consectetuer ibidem interdico magna praesent qui tincidunt.
+
+        Euismod exerci genitus proprius ratis rusticus tation typicus vindico. Dolor jumentum loquor sed tamen turpis valde vulpes. Abbas consequat magna nunc paulatim quadrum zelus. Hendrerit mos paulatim ut. Camur distineo fere secundum validus verto. Accumsan brevitas iaceo ibidem jugis luptatum saluto veniam. Erat jumentum roto. Haero lenis sudo. Comis pertineo utrum.
+
+        Caecus diam modo occuro patria ratis tation tum typicus velit. Eum ibidem jumentum letalis quidne zelus. Esca in iustum neo obruo persto refoveo velit veniam. Aliquam amet eum gemino gilvus quia. At commodo consectetuer dolor exerci oppeto patria premo tum.
+
+        Ad dolor eu in os premo ut. Abigo decet praemitto roto sit ut. Bene persto vulputate. Paulatim si tego. At erat macto quis sagaciter. Decet fere iusto lenis pertineo pneum si. Ibidem meus natu nisl premo. Dolus hos patria refero validus. Commodo metuo obruo paratus patria pneum ratis sino suscipit ut. Abdo caecus dolus hendrerit luctus nutus praesent sed validus.
+
+        Esse euismod melior quidem. Augue fere ibidem odio praesent quibus vero. Abluo gilvus humo luctus nisl nostrud nulla tation vero. Abigo pertineo premo probo turpis. Amet brevitas duis elit genitus huic importunus probo quibus rusticus. Eligo in jus persto. Ad esse ymo. Abigo ad gilvus pertineo praesent.
+
+  field_domaine_d_intervention:
+    -
+      entity: 5739b597-4387-4895-877f-03bbaf8faebb
+  field_realisation_avancement:
+    -
+      entity: 26751de6-15f9-4176-a57d-3185a4b1c0b7
+  field_realisation_date:
+    -
+      value: '2021-09-28'
+      end_value: '2021-09-29'
+  field_realisation_illustration:
+    -
+      entity: abe723a6-7e6c-4f12-a0fb-7970d0776eeb
+      alt: 'Abbas natu quae voco.'
+      title: 'Ad conventio facilisis genitus loquor odio pertineo quadrum tego.'
+      width: 566
+      height: 105
+  field_realisation_pays:
+    -
+      entity: 87a60c53-14c6-4b3a-bc22-a228ae551f9a
+    -
+      entity: 87a60c53-14c6-4b3a-bc22-a228ae551f9a
+  field_realisation_projet:
+    -
+      entity: 8f50b8af-9267-4565-b137-c8d247a8e538
+    -
+      entity: 732b0d11-eafc-42d6-ad57-a9ecb2230016
+    -
+      entity: b7423714-c771-4936-85bf-8b283c3b9884

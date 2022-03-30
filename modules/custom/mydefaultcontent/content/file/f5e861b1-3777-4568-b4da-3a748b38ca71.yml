@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: f5e861b1-3777-4568-b4da-3a748b38ca71
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_QYvVNr.jpg
+  uri:
+    -
+      value: 'public://2022-03/generateImage_QYvVNr.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 7498
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

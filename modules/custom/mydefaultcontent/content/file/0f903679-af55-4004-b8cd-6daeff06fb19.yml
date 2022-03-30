@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 0f903679-af55-4004-b8cd-6daeff06fb19
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_kZXXcm.gif
+  uri:
+    -
+      value: 'public://2022-03/generateImage_kZXXcm.gif'
+  filemime:
+    -
+      value: image/gif
+  filesize:
+    -
+      value: 1473
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910

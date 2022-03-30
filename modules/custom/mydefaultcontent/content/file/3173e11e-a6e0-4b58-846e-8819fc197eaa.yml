@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 3173e11e-a6e0-4b58-846e-8819fc197eaa
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: generateImage_uWkssK.jpeg
+  uri:
+    -
+      value: 'public://2022-03/generateImage_uWkssK.jpeg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 5431
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648582910
