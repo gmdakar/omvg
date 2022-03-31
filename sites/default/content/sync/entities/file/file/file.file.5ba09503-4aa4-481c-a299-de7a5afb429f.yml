@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 5ba09503-4aa4-481c-a299-de7a5afb429f
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: avatar-3.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/avatar-3.jpg'
+    url: /sites/default/files/gbb-uploads/avatar-3.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 81060
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-24T05:34:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-24T05:34:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

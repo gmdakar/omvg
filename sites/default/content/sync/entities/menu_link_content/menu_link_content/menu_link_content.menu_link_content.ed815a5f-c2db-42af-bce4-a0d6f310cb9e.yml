@@ -1,0 +1,66 @@
+uuid:
+  -
+    value: ed815a5f-c2db-42af-bce4-a0d6f310cb9e
+langcode:
+  -
+    value: fr
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2022-03-30T16:57:48+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'A venir'
+description: {  }
+menu_name:
+  -
+    value: menu-avancement-projets
+link:
+  -
+    uri: 'internal:/nosprojets/a-venir'
+    title: ''
+    options:
+      fa_icon: ''
+      fa_icon_prefix: fa
+      fa_icon_tag: i
+      fa_icon_appearance: before
+      attributes:
+        gva_class: fa-home
+        gva_layout: menu-grid
+        gva_layout_columns: '3'
+        gva_block: about
+        gva_block_en: about
+        gva_block_fr: about
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -48
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2022-03-30T19:28:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b9797d99-0782-480b-944c-28d7266dcb87
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/105
+alias:
+  -
+    value: /gallery
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

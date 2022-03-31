@@ -1,0 +1,65 @@
+uuid:
+  -
+    value: de01ccf9-7d38-4ca4-92d9-46c76a51209f
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2022-03-25T17:15:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Projets
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'internal:/nosprojets/termine'
+    title: ''
+    options:
+      fa_icon: ''
+      fa_icon_prefix: fa
+      fa_icon_tag: i
+      fa_icon_appearance: before
+      attributes:
+        gva_layout: menu-list
+        gva_layout_columns: '3'
+        gva_block: about
+        gva_block_en: about
+        gva_block_fr: about
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -57
+expanded:
+  -
+    value: true
+parent: {  }
+changed:
+  -
+    value: '2022-03-30T19:28:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

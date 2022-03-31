@@ -1,0 +1,49 @@
+uuid:
+  -
+    value: 61f17841-749f-436d-9799-1dfeefd7ad43
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2016-12-21T06:45:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: Copyright
+changed:
+  -
+    value: '2021-09-06T02:09:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"text-center\">\r\n© Copyright <a href=\"http://themeforest.net/user/gavias\">GaviasThemes</a> 2021. All Rights Reserved. \r\n</div>\r\n"
+    format: restricted_html
+    processed: |
+      <div class="text-center">
+      © Copyright <a href="http://themeforest.net/user/gavias">GaviasThemes</a> 2021. All Rights Reserved. 
+      </div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

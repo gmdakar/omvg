@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 371306ba-084c-4186-b840-97312fc90d2a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/23
+alias:
+  -
+    value: /box-ext-content
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

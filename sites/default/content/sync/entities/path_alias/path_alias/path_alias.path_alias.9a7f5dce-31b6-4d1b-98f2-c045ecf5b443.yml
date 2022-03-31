@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 9a7f5dce-31b6-4d1b-98f2-c045ecf5b443
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/19
+alias:
+  -
+    value: /moderats-eloquenti
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

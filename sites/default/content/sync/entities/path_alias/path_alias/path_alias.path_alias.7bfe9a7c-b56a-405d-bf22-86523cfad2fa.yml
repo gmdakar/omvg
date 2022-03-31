@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7bfe9a7c-b56a-405d-bf22-86523cfad2fa
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/74
+alias:
+  -
+    value: /our-awards
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

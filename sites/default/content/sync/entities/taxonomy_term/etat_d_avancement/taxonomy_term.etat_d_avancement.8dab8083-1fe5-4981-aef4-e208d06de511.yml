@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: 8dab8083-1fe5-4981-aef4-e208d06de511
+langcode:
+  -
+    value: fr
+vid:
+  -
+    target_id: etat_d_avancement
+    target_type: taxonomy_vocabulary
+    target_uuid: 6fdee57b-d777-424f-a702-215aff492903
+revision_created:
+  -
+    value: '2022-03-29T11:48:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: Terminé
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2022-03-29T11:48:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: fr
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

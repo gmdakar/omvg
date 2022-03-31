@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 44323386-5f73-4fa3-89b1-9e00746ffe42
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: banner-1.png
+uri:
+  -
+    value: 'public://gbb-uploads/banner-1.png'
+    url: /sites/default/files/gbb-uploads/banner-1.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 196835
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-14T13:53:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-14T13:53:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

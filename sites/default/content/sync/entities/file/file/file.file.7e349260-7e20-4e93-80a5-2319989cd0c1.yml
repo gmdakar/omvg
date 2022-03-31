@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 7e349260-7e20-4e93-80a5-2319989cd0c1
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: bg-hand-h2.png
+uri:
+  -
+    value: 'public://gbb-uploads/bg-hand-h2.png'
+    url: /sites/default/files/gbb-uploads/bg-hand-h2.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 88185
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-19T01:06:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-19T01:06:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

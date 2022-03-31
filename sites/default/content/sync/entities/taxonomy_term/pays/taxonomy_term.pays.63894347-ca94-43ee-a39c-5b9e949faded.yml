@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: 63894347-ca94-43ee-a39c-5b9e949faded
+langcode:
+  -
+    value: fr
+vid:
+  -
+    target_id: pays
+    target_type: taxonomy_vocabulary
+    target_uuid: 7bd66301-dc6d-48db-8bce-3fa895387252
+revision_created:
+  -
+    value: '2022-03-29T11:56:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: Gambie
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2022-03-29T11:56:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: fr
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

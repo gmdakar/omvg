@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 842df1de-4fae-40ac-997a-ed8b1836ca9b
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: image-26.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/image-26.jpg'
+    url: /sites/default/files/gbb-uploads/image-26.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 38862
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-21T01:56:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-21T01:56:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

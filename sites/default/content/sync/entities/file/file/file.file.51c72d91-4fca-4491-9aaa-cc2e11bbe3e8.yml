@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 51c72d91-4fca-4491-9aaa-cc2e11bbe3e8
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: gallery-2.jpg
+uri:
+  -
+    value: 'public://gallery/gallery-2.jpg'
+    url: /sites/default/files/gallery/gallery-2.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 110300
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:37:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:37:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

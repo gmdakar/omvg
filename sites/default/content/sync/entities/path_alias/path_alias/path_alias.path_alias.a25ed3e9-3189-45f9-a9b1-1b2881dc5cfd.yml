@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a25ed3e9-3189-45f9-a9b1-1b2881dc5cfd
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/9
+alias:
+  -
+    value: /attract-and-retain-quality-high-paying-customers
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

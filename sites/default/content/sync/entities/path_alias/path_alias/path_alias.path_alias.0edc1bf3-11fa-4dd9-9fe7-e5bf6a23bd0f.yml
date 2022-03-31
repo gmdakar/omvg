@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0edc1bf3-11fa-4dd9-9fe7-e5bf6a23bd0f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/20
+alias:
+  -
+    value: /flippin-bird
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

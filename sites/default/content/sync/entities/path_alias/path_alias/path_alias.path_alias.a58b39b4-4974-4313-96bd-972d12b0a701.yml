@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a58b39b4-4974-4313-96bd-972d12b0a701
+langcode:
+  -
+    value: fr
+path:
+  -
+    value: /node/151
+alias:
+  -
+    value: /propos-de-lomvg
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

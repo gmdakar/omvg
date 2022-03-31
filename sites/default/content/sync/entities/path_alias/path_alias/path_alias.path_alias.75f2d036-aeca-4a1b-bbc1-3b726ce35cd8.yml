@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 75f2d036-aeca-4a1b-bbc1-3b726ce35cd8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/98
+alias:
+  -
+    value: /features-image-content
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 210f046f-ee7b-4b7a-8e76-146a3e99df3d
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: brand-dark-8.png
+uri:
+  -
+    value: 'public://banner/brand-dark-8.png'
+    url: /sites/default/files/banner/brand-dark-8.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 2998
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:35:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:35:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

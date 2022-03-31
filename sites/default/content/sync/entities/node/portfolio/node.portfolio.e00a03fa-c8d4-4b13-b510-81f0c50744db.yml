@@ -1,0 +1,112 @@
+uuid:
+  -
+    value: e00a03fa-c8d4-4b13-b510-81f0c50744db
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: portfolio
+    target_type: node_type
+    target_uuid: 17bf6a64-89a2-4b5d-ab4a-906cfec64749
+revision_timestamp:
+  -
+    value: '2016-12-21T04:26:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'The summer'
+created:
+  -
+    value: '2016-12-21T04:24:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:26:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /summer
+body:
+  -
+    value: "<p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>\r\n\r\n<h3>Project Overview</h3>\r\n\r\n<p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet fermentum. Aenean sit amet massa eu velit commodo cursus fringilla a tellus. Morbi eros urna, mollis porta feugiat non, ornare eu augue. Sed rhoncus est sit amet diam tempus, et tristique est viverra. Etiam ex tellus, sectur at dapibus id, luctus at odio. Proin mattis congue tristique.</p>\r\n\r\n<h3>Proconstruction Services</h3>\r\n\r\n<p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>\r\n\r\n<ul>\r\n\t<li>Providing all materials, labor equipment.</li>\r\n\t<li>Eget Egestas. Aenean varius ex ut ex laoreet Aenean.</li>\r\n\t<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>\r\n\t<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>\r\n</ul>\r\n\r\n<h3>Reliable &amp; Experienced</h3>\r\n\r\n<p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>\r\n\r\n<ul>\r\n\t<li>Providing all materials, labor equipment.</li>\r\n\t<li>Eget Egestas. Aenean varius ex ut ex laoreet Aenean.</li>\r\n\t<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>\r\n\t<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>\r\n</ul>\r\n"
+    format: full_html
+    processed: |-
+      <p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>
+
+      <h3>Project Overview</h3>
+
+      <p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet fermentum. Aenean sit amet massa eu velit commodo cursus fringilla a tellus. Morbi eros urna, mollis porta feugiat non, ornare eu augue. Sed rhoncus est sit amet diam tempus, et tristique est viverra. Etiam ex tellus, sectur at dapibus id, luctus at odio. Proin mattis congue tristique.</p>
+
+      <h3>Proconstruction Services</h3>
+
+      <p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>
+
+      <ul><li>Providing all materials, labor equipment.</li>
+      	<li>Eget Egestas. Aenean varius ex ut ex laoreet Aenean.</li>
+      	<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>
+      	<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>
+      </ul><h3>Reliable &amp; Experienced</h3>
+
+      <p>Proin sagittis feugiat elit finibus pretium. Donec et tortor non purus vulputate tincidunt. Cras congue posuer eros eget egestas. Aenean varius ex ut ex laoreet Aenean the fermentum.</p>
+
+      <ul><li>Providing all materials, labor equipment.</li>
+      	<li>Eget Egestas. Aenean varius ex ut ex laoreet Aenean.</li>
+      	<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>
+      	<li>Aenean varius ex ut ex laoreet Aenean fermentum.</li>
+      </ul>
+    summary: ''
+    summary_processed: ''
+field_portfolio_images:
+  -
+    alt: ''
+    title: ''
+    width: 960
+    height: 720
+    target_type: file
+    target_uuid: cb5bbb73-a8d1-48a5-9a2d-a80a5bd71194
+field_portfolio_information: {  }
+field_portfolio_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: 9b18593f-28b4-4956-bd45-e517af58e103
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.cb5bbb73-a8d1-48a5-9a2d-a80a5bd71194
+    taxonomy_term:
+      - taxonomy_term.portfolio_tags.9b18593f-28b4-4956-bd45-e517af58e103

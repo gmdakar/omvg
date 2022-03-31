@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: e6738011-fe5b-4047-aadc-9fc2cbe41c00
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: banner
+    target_type: node_type
+    target_uuid: 71632fc0-1856-4be5-88c3-96ff64d1d8bd
+revision_timestamp:
+  -
+    value: '2016-12-21T04:35:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'banner 8'
+created:
+  -
+    value: '2016-12-21T04:35:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:35:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /banner-8
+body: {  }
+field_image:
+  -
+    alt: alt
+    title: ''
+    width: 126
+    height: 29
+    target_type: file
+    target_uuid: 210f046f-ee7b-4b7a-8e76-146a3e99df3d
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.210f046f-ee7b-4b7a-8e76-146a3e99df3d

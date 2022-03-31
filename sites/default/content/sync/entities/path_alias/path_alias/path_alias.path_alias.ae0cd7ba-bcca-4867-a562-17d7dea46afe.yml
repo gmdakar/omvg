@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ae0cd7ba-bcca-4867-a562-17d7dea46afe
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/83
+alias:
+  -
+    value: /features-call-action
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

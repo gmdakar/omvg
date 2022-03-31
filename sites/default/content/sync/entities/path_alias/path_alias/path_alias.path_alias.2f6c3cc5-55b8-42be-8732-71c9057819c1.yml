@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2f6c3cc5-55b8-42be-8732-71c9057819c1
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/79
+alias:
+  -
+    value: /features-icon-box
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

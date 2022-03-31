@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: e827215c-196d-425a-a3ca-ec6a41b7fc07
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/21
+alias:
+  -
+    value: /summer
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

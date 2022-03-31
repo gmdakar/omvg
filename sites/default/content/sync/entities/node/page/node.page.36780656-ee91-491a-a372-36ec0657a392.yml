@@ -1,0 +1,72 @@
+uuid:
+  -
+    value: 36780656-ee91-491a-a372-36ec0657a392
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: 18cdf974-0308-4973-9444-0ad78fb7671b
+revision_timestamp:
+  -
+    value: '2018-05-15T09:20:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Features - Image Content'
+created:
+  -
+    value: '2018-05-15T09:19:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-11-12T02:53:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout:
+  -
+    value: fw
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class:
+  -
+    value: hidden-title
+gva_box_layout: {  }
+gva_pagebuilder_content:
+  -
+    value: '[{"settings":{"class_css":"el-47829292","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"120","padding_bottom":"120","layout":"container","padding_top_lg":"70","padding_bottom_lg":"70"},"columns":[{"settings":{"element":"gva_column","class_css":"el-19978041","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","padding_right":"85","padding_right_lg":"15","padding_bottom_lg":"60","col_sm":"12"},"col_lg":6,"elements":[{"settings":{"class_css":"el-78433917","background_1":"/sites/default/files/gbb-uploads/image-5.jpeg","background_2":"/sites/default/files/gbb-uploads/image-6.jpeg","link":"#","target":"off","skin":"skin-v1","animate_delay":"0"},"editing":false,"element_name":"gva_image_content"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-85531188","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","margin_top":"-10","col_sm":"12"},"col_lg":6,"elements":[{"settings":{"class_css":"el-11150263","sub_title":"Ready to Go?","title":"We Help at Every Step From Concept to Market","desc":"<div>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.</div>","align":"align-left","style":"style-1","html_tags":"h2","button_style":"btn-theme","animate_delay":"0","dot_color":"theme-color-second"},"editing":false,"element_name":"gva_heading"},{"settings":{"class_css":"el-51185130"},"editing":false,"element_name":"gva_row","row":{"settings":{"element":"gva_row","class_css":"el-78000791","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","margin_bottom":"60","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-82961270","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","col_sm":"7"},"col_lg":7,"elements":[{"settings":{"class_css":"el-5012919","animate_delay":"0","icon_1":"fi flaticon-checked","title_1":" Nsectetur cing elit.","icon_2":"fi flaticon-checked","title_2":"Suspe ndisse suscipit sagittis leo.","icon_3":"fi flaticon-checked","title_3":" Entum estibulum dignissim posuere.","icon_4":"fi flaticon-checked","title_4":" If you are going to use a passage.","icon_5":"fi flaticon-checked","title_5":"Lorem Ipsum on the tend to repeat."},"editing":false,"element_name":"gva_icon_list"}],"editing":false,"element_name":"gva_column","column":12},{"settings":{"element":"gva_column","class_css":"el-1269408","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","col_sm":"5"},"col_lg":5,"elements":[{"settings":{"class_css":"el-41583248","title":"Years of Expeirence","number":"30","type":"icon-top v2","style_text":"text-light","animate_delay":"0","text_color":"text-light"},"editing":false,"element_name":"gva_counter"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},"create_edit_form":true},{"settings":{"class_css":"el-44228076","content":"<div><a class=\"btn-theme-second\" href=\"#\"><span class=\"btn-text\">Discover more</span></a></div>","animate_delay":"0"},"editing":false,"element_name":"gva_text"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"},{"settings":{"class_css":"el-41648114","element":"gva_row","bg_color":"#674df0","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-28078435"},"col_lg":6,"elements":[{"settings":{"class_css":"el-15972665","title":"Christine Eve","background":"/sites/default/files/gbb-uploads/image-1.jpeg","target":"off","skin":"skin-v2","animate_delay":"0","background_1":"/sites/default/files/gbb-uploads/image-1.jpeg","link":"#"},"editing":false,"element_name":"gva_image_content"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-11711957"},"col_lg":6,"elements":[{"settings":{"class_css":"el-76367312","title":"Christine Eve","background":"/sites/default/files/gbb-uploads/image-1.jpeg","target":"off","skin":"skin-v2","animate_delay":"0","background_1":"/sites/default/files/gbb-uploads/image-1.jpeg","link":"#"},"editing":false,"element_name":"gva_image_content"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"class_css":"el-30321653","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"75","padding_bottom":"75","padding_top_lg":"25","padding_bottom_lg":"40","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-19403734","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","padding_right":"75","padding_right_lg":"15","margin_bottom_md":"20"},"col_lg":6,"elements":[{"settings":{"class_css":"el-66979259","sub_title":"Our Introduction","title":"Learn About Our Companyre","align":"align-left","style":"style-1","html_tags":"h2","button_style":"btn-theme","animate_delay":"0","dot_color":"theme-color-second","desc":"<div>There are many variations of passages of available but the majority have suffered alteration in some form, by injected humou or randomised words.</div>"},"editing":false,"element_name":"gva_heading"},{"settings":{"class_css":"el-1082212","title":"Discover how to plan, create, and manage your crowdfunding campaign","icon":"fi flaticon-checkmark","icon_position":"left v1","target":"off","icon_width":"fa-2x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-small","animate_delay":"0s","icon_background":"#674df01a","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"},{"settings":{"class_css":"el-3268118","title":"Find our how to evaluate and back crowdfunding campaigns","icon":"fi flaticon-checkmark","icon_position":"left v1","target":"off","icon_width":"fa-2x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-small","animate_delay":"0s","icon_background":"#674df01a","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-73495660","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover"},"col_lg":6,"elements":[{"settings":{"class_css":"el-43388346","title":" 8,000","background_1":"/sites/default/files/gbb-uploads/image-8.jpeg","content":"<div>Satisfied Customers</div>","link":"#","target":"off","skin":"skin-v3","animate_delay":"0"},"editing":false,"element_name":"gva_image_content"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"}]'
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /features-image-content
+body: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

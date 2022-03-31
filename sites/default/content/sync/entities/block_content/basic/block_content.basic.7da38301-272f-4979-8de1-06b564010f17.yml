@@ -1,0 +1,56 @@
+uuid:
+  -
+    value: 7da38301-272f-4979-8de1-06b564010f17
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2016-12-21T06:45:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: About
+changed:
+  -
+    value: '2021-11-08T03:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"about-info\">\r\n <img  class=\"margin-bottom-40\" src=\"https://previewthemes.com/krowd/sites/default/files/inline-images/logo-footer.png\" alt=\"\">\r\n<div class=\"margin-bottom-40\">Lorem quas utamur delicata qui, vix ei prima mentitum omnesque. Duo corrumpit cotidieque ne.</div>\r\n<div class=\"socials-v1\">\r\n<a href=\"#\"><i class=\"fab fa-twitter\"></i></a>\r\n<a href=\"#\"><i class=\"fab fa-facebook-square\"></i></a>\r\n<a href=\"#\"><i class=\"fab fa-pinterest\"></i></a>\r\n<a href=\"#\"><i class=\"fab fa-instagram\"></i></a>\r\n</div>\r\n</div>"
+    format: restricted_html
+    processed: |-
+      <div class="about-info">
+       <img  class="margin-bottom-40" src="https://previewthemes.com/krowd/sites/default/files/inline-images/logo-footer.png" alt="">
+      <div class="margin-bottom-40">Lorem quas utamur delicata qui, vix ei prima mentitum omnesque. Duo corrumpit cotidieque ne.</div>
+      <div class="socials-v1">
+      <a href="#"><i class="fab fa-twitter"></i></a>
+      <a href="#"><i class="fab fa-facebook-square"></i></a>
+      <a href="#"><i class="fab fa-pinterest"></i></a>
+      <a href="#"><i class="fab fa-instagram"></i></a>
+      </div>
+      </div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

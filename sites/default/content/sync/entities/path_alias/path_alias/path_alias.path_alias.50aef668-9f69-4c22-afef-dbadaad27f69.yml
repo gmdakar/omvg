@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 50aef668-9f69-4c22-afef-dbadaad27f69
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/71
+alias:
+  -
+    value: /company-overview
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

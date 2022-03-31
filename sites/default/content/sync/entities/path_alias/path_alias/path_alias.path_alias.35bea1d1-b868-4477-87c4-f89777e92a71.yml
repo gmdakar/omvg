@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 35bea1d1-b868-4477-87c4-f89777e92a71
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/12
+alias:
+  -
+    value: /record-number-robots-were-employed-2018
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

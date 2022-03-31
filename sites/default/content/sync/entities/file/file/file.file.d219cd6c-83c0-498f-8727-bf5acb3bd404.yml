@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: d219cd6c-83c0-498f-8727-bf5acb3bd404
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: banner-tab3.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/banner-tab3.jpg'
+    url: /sites/default/files/gbb-uploads/banner-tab3.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 36844
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-18T07:16:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-18T07:16:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

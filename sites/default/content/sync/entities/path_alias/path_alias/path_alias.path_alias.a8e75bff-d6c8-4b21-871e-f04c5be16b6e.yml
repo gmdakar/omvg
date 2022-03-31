@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a8e75bff-d6c8-4b21-871e-f04c5be16b6e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/100
+alias:
+  -
+    value: /features-pricing
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

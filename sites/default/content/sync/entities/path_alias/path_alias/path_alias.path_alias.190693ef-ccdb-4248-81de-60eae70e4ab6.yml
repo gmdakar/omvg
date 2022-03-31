@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 190693ef-ccdb-4248-81de-60eae70e4ab6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/73
+alias:
+  -
+    value: /careers
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

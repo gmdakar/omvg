@@ -1,0 +1,97 @@
+uuid:
+  -
+    value: fa63267b-b18f-43ed-933a-629a6ffaf08d
+type:
+  -
+    target_id: default
+    target_type: commerce_order_type
+    target_uuid: 64a8bf8b-9d76-4a8c-b6a9-a2f8bc4104f7
+order_number: {  }
+version:
+  -
+    value: 58
+store_id:
+  -
+    target_type: commerce_store
+    target_uuid: f6eaa327-0e2e-48b1-9c21-6a1acbe9f988
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+mail:
+  -
+    value: demo@gmail.com
+ip_address:
+  -
+    value: '::1'
+billing_profile:
+  -
+    target_id: null
+    target_revision_id: null
+order_items:
+  -
+    target_type: commerce_order_item
+    target_uuid: dd3be16a-1c13-4b45-ab2a-94e45f59d7f2
+  -
+    target_type: commerce_order_item
+    target_uuid: dc85a2d8-c42b-4c70-aac5-7feaf26b5171
+  -
+    target_type: commerce_order_item
+    target_uuid: 8ad2def2-02ac-4d77-987d-c419ebe9f008
+adjustments: {  }
+total_price:
+  -
+    number: '60.000000'
+    currency_code: USD
+    formatted: "60\_$US"
+total_paid:
+  -
+    number: null
+    currency_code: null
+    formatted: null
+balance:
+  -
+    number: '60'
+    currency_code: USD
+    formatted: "60\_$US"
+state:
+  -
+    value: draft
+data:
+  -
+    paid_event_dispatched: false
+locked:
+  -
+    value: false
+created:
+  -
+    value: '2018-05-16T07:56:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-03-30T08:40:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+placed: {  }
+completed: {  }
+cart:
+  -
+    value: true
+checkout_flow:
+  -
+    target_id: default
+    target_type: commerce_checkout_flow
+    target_uuid: 052946e9-7594-4918-9485-2be1542a2734
+checkout_step: {  }
+payment_gateway: {  }
+payment_method: {  }
+_content_sync:
+  entity_type: commerce_order
+  entity_dependencies:
+    commerce_store:
+      - commerce_store.online.f6eaa327-0e2e-48b1-9c21-6a1acbe9f988
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    commerce_order_item:
+      - commerce_order_item.default.dd3be16a-1c13-4b45-ab2a-94e45f59d7f2
+      - commerce_order_item.default.dc85a2d8-c42b-4c70-aac5-7feaf26b5171
+      - commerce_order_item.default.8ad2def2-02ac-4d77-987d-c419ebe9f008

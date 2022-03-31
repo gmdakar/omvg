@@ -1,0 +1,76 @@
+uuid:
+  -
+    value: 76707931-2765-4aaa-abe8-03c8532f9743
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: banner
+    target_type: node_type
+    target_uuid: 71632fc0-1856-4be5-88c3-96ff64d1d8bd
+revision_timestamp:
+  -
+    value: '2016-12-21T04:35:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'banner 6'
+created:
+  -
+    value: '2016-12-21T04:34:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:35:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /banner-6
+body: {  }
+field_image:
+  -
+    alt: alt
+    title: ''
+    width: 123
+    height: 29
+    target_type: file
+    target_uuid: 959a6835-272f-44ea-9fd1-9523ed15f607
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.959a6835-272f-44ea-9fd1-9523ed15f607

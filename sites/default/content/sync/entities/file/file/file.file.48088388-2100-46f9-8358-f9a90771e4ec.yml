@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 48088388-2100-46f9-8358-f9a90771e4ec
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: banner2-h4.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/banner2-h4.jpg'
+    url: /sites/default/files/gbb-uploads/banner2-h4.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 60687
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-27T01:22:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-27T01:22:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

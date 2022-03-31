@@ -1,0 +1,49 @@
+uuid:
+  -
+    value: 5c0022bb-04a0-4f7e-bd3c-9c2702ac50e1
+langcode:
+  -
+    value: fr
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2022-03-30T19:33:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Introduction Nos projets'
+changed:
+  -
+    value: '2022-03-30T19:37:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<p>Il est signalé plus haut que l’Organisation pour la mise en valeur du fleuve Gambie a pour mission principale de promouvoir et d’entreprendre les études et les travaux d’aménagement des trois bassins versants des fleuves Gambie, Kayanga-Geba et Koliba-Corubal.</p>\r\n\r\n<p>L’adoption et la mise en œuvre du&nbsp;programme d’activités minimales&nbsp;par le&nbsp;8ème Sommet des Chefs d’État et de Gouvernement, tenu à&nbsp;Conakry&nbsp;(Guinée) le&nbsp;30 janvier 1991, a permis d’élaborer le Schéma Directeur d’Aménagement du bassin versant du fleuve Gambie et de sélectionner trois projets de coopération et d’intégration sous-régionales dans les secteurs stratégiques.</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Il est signalé plus haut que l’Organisation pour la mise en valeur du fleuve Gambie a pour mission principale de promouvoir et d’entreprendre les études et les travaux d’aménagement des trois bassins versants des fleuves Gambie, Kayanga-Geba et Koliba-Corubal.</p>
+
+      <p>L’adoption et la mise en œuvre du programme d’activités minimales par le 8ème Sommet des Chefs d’État et de Gouvernement, tenu à Conakry (Guinée) le 30 janvier 1991, a permis d’élaborer le Schéma Directeur d’Aménagement du bassin versant du fleuve Gambie et de sélectionner trois projets de coopération et d’intégration sous-régionales dans les secteurs stratégiques.</p>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

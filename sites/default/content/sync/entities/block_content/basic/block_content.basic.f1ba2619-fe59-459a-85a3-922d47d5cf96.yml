@@ -1,0 +1,56 @@
+uuid:
+  -
+    value: f1ba2619-fe59-459a-85a3-922d47d5cf96
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2016-12-21T06:45:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Useful Links'
+changed:
+  -
+    value: '2020-11-25T02:01:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"clearfix\">\r\n    <ul class=\"menu\">\r\n\t <li><a href=\"#\">Donation History</a></li>\r\n\t <li><a href=\"#\">Our Mission</a></li>\r\n\t <li><a href=\"#\">Help & Support</a></li>\r\n\t <li><a href=\"#\">Our Leadership</a></li>\r\n\t <li><a href=\"#\">Public Reporting</a></li>\r\n         <li><a href=\"#\">Media Library</a></li>\r\n     </ul>      \r\n</div>"
+    format: restricted_html
+    processed: |-
+      <div class="clearfix">
+          <ul class="menu">
+      	 <li><a href="#">Donation History</a></li>
+      	 <li><a href="#">Our Mission</a></li>
+      	 <li><a href="#">Help & Support</a></li>
+      	 <li><a href="#">Our Leadership</a></li>
+      	 <li><a href="#">Public Reporting</a></li>
+               <li><a href="#">Media Library</a></li>
+           </ul>      
+      </div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

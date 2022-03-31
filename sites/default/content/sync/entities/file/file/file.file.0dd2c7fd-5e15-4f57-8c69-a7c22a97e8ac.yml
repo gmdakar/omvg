@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 0dd2c7fd-5e15-4f57-8c69-a7c22a97e8ac
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: team-5.jpg
+uri:
+  -
+    value: 'public://team/team-5.jpg'
+    url: /sites/default/files/team/team-5.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 50195
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:44:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:53:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

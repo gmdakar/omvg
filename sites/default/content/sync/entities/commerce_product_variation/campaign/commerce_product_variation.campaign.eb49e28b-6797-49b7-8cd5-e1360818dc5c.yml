@@ -1,0 +1,62 @@
+uuid:
+  -
+    value: eb49e28b-6797-49b7-8cd5-e1360818dc5c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: campaign
+    target_type: commerce_product_variation_type
+    target_uuid: d70da0a1-42f1-4de1-bcfe-079b9e53f04f
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+status:
+  -
+    value: true
+product_id:
+  -
+    target_type: commerce_product
+    target_uuid: 877548e9-9260-49e9-9388-56b79769bb6c
+sku:
+  -
+    value: SKU_31
+title:
+  -
+    value: 'Project: Move to Japan!!! - Pledge $10.00'
+list_price:
+  -
+    number: null
+    currency_code: null
+    formatted: null
+price:
+  -
+    number: '10.000000'
+    currency_code: USD
+    formatted: "10\_$US"
+created:
+  -
+    value: '2018-05-15T01:28:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-15T01:29:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+attribute_donation_price:
+  -
+    target_type: commerce_product_attribute_value
+    target_uuid: 480bba70-a0f4-4b10-9a75-93cc04f2a6b8
+_content_sync:
+  entity_type: commerce_product_variation
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    commerce_product:
+      - commerce_product.campaign.877548e9-9260-49e9-9388-56b79769bb6c
+    commerce_product_attribute_value:
+      - commerce_product_attribute_value.donation_price.480bba70-a0f4-4b10-9a75-93cc04f2a6b8

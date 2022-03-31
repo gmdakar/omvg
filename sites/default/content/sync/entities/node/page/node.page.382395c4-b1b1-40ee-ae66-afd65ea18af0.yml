@@ -1,0 +1,72 @@
+uuid:
+  -
+    value: 382395c4-b1b1-40ee-ae66-afd65ea18af0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: 18cdf974-0308-4973-9444-0ad78fb7671b
+revision_timestamp:
+  -
+    value: '2016-12-21T09:54:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Features - Quote'
+created:
+  -
+    value: '2016-12-21T09:52:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-11-12T02:53:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout:
+  -
+    value: fw
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class:
+  -
+    value: hidden-title
+gva_box_layout: {  }
+gva_pagebuilder_content:
+  -
+    value: '[{"settings":{"class_css":"el-56332755"},"columns":[{"settings":{"element":"gva_column","class_css":"el-36206384"},"col_lg":12,"elements":[{"settings":{"content":"<p>I have found that, in the composition of the human body as compared with the bodies of animals, the organs of sense are duller and coarser. Thus, it is composed of less ingenious instruments, and of spaces less capacious for receiving the faculties of sense.</p>","width":"80%","border":"has-border","animate":"fade-up","animate_delay":"0","class_css":"el-4232380"},"editing":false,"element_name":"gva_quote_text"},{"settings":{"content":"<p>I have found that, in the composition of the human body as compared with the bodies of animals, the organs of sense are duller and coarser. Thus, it is composed of less ingenious instruments, and of spaces less capacious for receiving the faculties of sense.</p>","width":"80%","border":"has-border","animate":"fade-up","animate_delay":"300","background":"#FEB800","color":"#fff","class_css":"el-68782387"},"editing":false,"element_name":"gva_quote_text"},{"settings":{"content":"<p>I have found that, in the composition of the human body as compared with the bodies of animals, the organs of sense are duller and coarser. Thus, it is composed of less ingenious instruments, and of spaces less capacious for receiving the faculties of sense.</p>","width":"80%","border":"has-border","animate":"fade-up","animate_delay":"600","background":"#222","class_css":"el-43985292"},"editing":false,"element_name":"gva_quote_text"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"}]'
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /features-quote
+body: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

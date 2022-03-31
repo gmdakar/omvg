@@ -1,0 +1,74 @@
+uuid:
+  -
+    value: 2ca19726-9197-44e2-a9ba-637c98c0c7e6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: 18cdf974-0308-4973-9444-0ad78fb7671b
+revision_timestamp:
+  -
+    value: '2021-09-08T16:24:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Contact Us'
+created:
+  -
+    value: '2021-09-08T16:24:24+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-09-19T17:10:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout:
+  -
+    value: fw
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class:
+  -
+    value: hidden-title
+gva_box_layout: {  }
+gva_pagebuilder_content:
+  -
+    value: '[{"settings":{"class_css":"el-60746233","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"65","padding_bottom":"120","padding_top_lg":"25","padding_bottom_lg":"70","layout":"container"},"columns":[{"settings":{"element":"gva_column","class_css":"el-56784025"},"col_lg":2,"elements":[],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-15210161"},"col_lg":8,"elements":[{"settings":{"class_css":"el-99306559","sub_title":"Contact With Us Now ","title":"Write a Message","align":"align-center","dot_color":"theme-color-second","html_tags":"h2","button_style":"btn-theme","animate_delay":"0"},"editing":false,"element_name":"gva_heading"},{"settings":{"class_css":"el-13968240","title_admin":"Webform - Contact","block_drupal":"krowd_sub_webform","hidden_title":"on","align_title":"title-align-left","remove_margin":"on","style_text":"text-dark","animate_delay":"0"},"editing":false,"element_name":"gva_drupal_block"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-54330844"},"col_lg":2,"elements":[],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"class_css":"el-40854811","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container-fw","padding_top":"0","padding_bottom":"0"},"columns":[{"settings":{"element":"gva_column","class_css":"el-99664255","bg_color":"#674df0","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","padding_top":"80","padding_right":"50","padding_bottom":"50","padding_left":"50","col_lg_2":"6","col_md":"12"},"col_lg":4,"elements":[{"settings":{"class_css":"el-99519986","title":"About Krowd","content":"<div>Morbi ut tellus ac leo molestie luctus nec vehicula sed justo onec tempor rhoncus volutpat ras lorem.</div>","icon":"fi flaticon-entrepreneur","icon_position":"left v3","target":"off","icon_width":"fa-4x","title_font_size":"24","title_line_height":"0","title_color":"text-white","desc_color":"text-gray-light","vertical_align_content":"top","margin":"box-margin-small","animate_delay":"0s","icon_color_available":"color-white","icon_radius":"radius-5x","effect":"effect","icon_background":"#1b1f2e1a"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-27979357","bg_color":"#1b1f2e","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","padding_top":"80","padding_right":"50","padding_bottom":"50","padding_left":"50","col_lg_2":"6","col_md":"12"},"col_lg":4,"elements":[{"settings":{"class_css":"el-85168303","title":"Our Address","content":"<div>66 Road Broklyn Street, 600 New York. United States of America</div>\r\n<div>P.O Box 0000</div>","icon":"fi flaticon-location-1","icon_position":"left v3","target":"off","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-white","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-small","animate_delay":"0s","icon_color_available":"color-white","icon_radius":"radius-5x","effect":"effect","icon_background":"#29f0b4"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-24297195","bg_color":"#29f0b4","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","padding_top":"80","padding_right":"50","padding_bottom":"50","padding_left":"50","col_lg_2":"6","col_md":"12"},"col_lg":4,"elements":[{"settings":{"class_css":"el-83119897","title":"Call Or Email","content":"<div>needhelp@krowd.com</div>\r\n<div>info@krowd.com</div>\r\n<div>666 888 0000</div>","icon":"fi flaticon-contact","icon_position":"left v3","target":"off","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-black","vertical_align_content":"top","margin":"box-margin-small","animate_delay":"0s","icon_color_available":"color-white","icon_radius":"radius-5x","effect":"effect","icon_background":"#1b1f2e1a"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},{"settings":{"class_css":"el-61368749","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container-fw","padding_top":"0","padding_bottom":"0"},"columns":[{"settings":{"element":"gva_column","class_css":"el-15447584"},"col_lg":12,"elements":[{"settings":{"class_css":"el-98827186","map_type":"ROADMAP","link":"40.72109066264248, -74.01542543342424","height":"560px","animate_delay":"0"},"editing":false,"element_name":"gva_gmap"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"}]'
+gva_pagebuilder_enable:
+  -
+    value: enable
+path:
+  -
+    alias: /contact-us
+body: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

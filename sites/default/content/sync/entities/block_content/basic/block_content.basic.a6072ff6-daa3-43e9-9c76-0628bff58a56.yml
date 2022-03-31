@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: a6072ff6-daa3-43e9-9c76-0628bff58a56
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2020-03-09T03:10:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Header support'
+changed:
+  -
+    value: '2021-09-06T07:35:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"header-info\">\r\n        <div class=\"header-icon\"><i class=\"fi flaticon-chat\"></i></div>  \r\n        <div class=\"header-content\">              \r\n            <h3 class=\"title\"><a href=\"tel:666888000\">Call Anytime</a></h3>\r\n            <div class=\"text\">666 888 000</div>\r\n        </div>\r\n    </div> "
+    format: restricted_html
+    processed: |-
+      <div class="header-info">
+              <div class="header-icon"><i class="fi flaticon-chat"></i></div>  
+              <div class="header-content">              
+                  <h3 class="title"><a href="tel:666888000">Call Anytime</a></h3>
+                  <div class="text">666 888 000</div>
+              </div>
+          </div> 
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

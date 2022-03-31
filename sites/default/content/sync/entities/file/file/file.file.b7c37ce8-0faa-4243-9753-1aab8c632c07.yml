@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: b7c37ce8-0faa-4243-9753-1aab8c632c07
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: icon-monthly.png
+uri:
+  -
+    value: 'public://gbb-uploads/icons/icon-monthly.png'
+    url: /sites/default/files/gbb-uploads/icons/icon-monthly.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1386
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-20T03:13:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-20T03:13:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

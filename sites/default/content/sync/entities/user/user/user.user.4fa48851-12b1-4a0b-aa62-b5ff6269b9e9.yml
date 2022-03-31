@@ -1,0 +1,48 @@
+uuid:
+  -
+    value: 4fa48851-12b1-4a0b-aa62-b5ff6269b9e9
+langcode:
+  -
+    value: en
+preferred_langcode:
+  -
+    value: en
+preferred_admin_langcode: {  }
+name:
+  -
+    value: ''
+mail:
+  value: null
+timezone:
+  -
+    value: ''
+created:
+  -
+    value: '2016-12-21T03:39:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T03:39:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+customer_profiles: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+commerce_remote_id: {  }
+user_picture: {  }
+_content_sync:
+  entity_type: user
+  is_anonymous: true
+pass:
+  -
+    value: null
+    pre_hashed: true
+status:
+  value: '0'
+roles:
+  - anonymous

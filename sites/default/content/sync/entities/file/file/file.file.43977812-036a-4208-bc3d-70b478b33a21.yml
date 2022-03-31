@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 43977812-036a-4208-bc3d-70b478b33a21
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: image-9.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/image-9.jpg'
+    url: /sites/default/files/gbb-uploads/image-9.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 150299
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-26T03:25:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-26T03:25:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

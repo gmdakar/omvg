@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 152e910d-b758-45ae-9f10-7363d90d31e7
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: team-8.jpg
+uri:
+  -
+    value: 'public://team/team-8.jpg'
+    url: /sites/default/files/team/team-8.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 25869
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:44:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:55:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

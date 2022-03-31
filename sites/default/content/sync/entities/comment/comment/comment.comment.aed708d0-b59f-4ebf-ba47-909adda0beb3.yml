@@ -1,0 +1,66 @@
+uuid:
+  -
+    value: aed708d0-b59f-4ebf-ba47-909adda0beb3
+langcode:
+  -
+    value: en
+comment_type:
+  -
+    target_id: comment
+    target_type: comment_type
+    target_uuid: caa413a0-8728-403b-8d57-71b42c577a2c
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+pid:
+  -
+    target_type: comment
+    target_uuid: 1d80cd2a-184a-41b2-9ffd-53575c21a098
+entity_id:
+  -
+    target_type: node
+    target_uuid: fdea2f51-b1fd-4272-9aa2-8d7cb3cd0d02
+subject:
+  -
+    value: 'Good job'
+name: {  }
+homepage: {  }
+created:
+  -
+    value: '2021-09-20T22:39:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-09-20T22:39:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+thread:
+  -
+    value: 01.00/
+entity_type:
+  -
+    value: node
+field_name:
+  -
+    value: comment
+default_langcode:
+  -
+    value: true
+comment_body:
+  -
+    value: "<p>Etiam vulputate erat a quam ullamcorper volutpat. Vestibulum vel feugiat sem, non molestie purus. Duis sit amet faucibus ipsum, ac aliquet urna. In hendrerit sit amet dolor vitae semper.&nbsp;</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Etiam vulputate erat a quam ullamcorper volutpat. Vestibulum vel feugiat sem, non molestie purus. Duis sit amet faucibus ipsum, ac aliquet urna. In hendrerit sit amet dolor vitae semper. </p>
+_content_sync:
+  entity_type: comment
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    comment:
+      - comment.comment.1d80cd2a-184a-41b2-9ffd-53575c21a098
+    node:
+      - node.article.fdea2f51-b1fd-4272-9aa2-8d7cb3cd0d02

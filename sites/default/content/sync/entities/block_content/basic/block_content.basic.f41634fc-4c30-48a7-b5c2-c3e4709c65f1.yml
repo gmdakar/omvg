@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: f41634fc-4c30-48a7-b5c2-c3e4709c65f1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2016-12-21T06:44:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'How can we help you ?'
+changed:
+  -
+    value: '2021-09-08T15:39:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"contact-link\">\r\n  <div class=\"title\">How can we help you ?</div>\r\n  <div class=\"desc\">Contact our Drupal gurus via our support channel</div>\r\n  <div class=\"action\"><a class=\"btn-white\" href=\"#\"><span>Contact us</span></a></div>\r\n</div>"
+    format: restricted_html
+    processed: |-
+      <div class="contact-link">
+        <div class="title">How can we help you ?</div>
+        <div class="desc">Contact our Drupal gurus via our support channel</div>
+        <div class="action"><a class="btn-white" href="#"><span>Contact us</span></a></div>
+      </div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

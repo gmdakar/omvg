@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '4b7ad9f48685be618a960c14a82fca8584022510',
+        'reference' => 'ef89592f2900b0660809a596dcecffc8243397a4',
         'name' => 'drupal/legacy-project',
         'dev' => true,
     ),
@@ -877,7 +877,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '4b7ad9f48685be618a960c14a82fca8584022510',
+            'reference' => 'ef89592f2900b0660809a596dcecffc8243397a4',
             'dev_requirement' => false,
         ),
         'drupal/link' => array(
@@ -920,6 +920,15 @@
             'install_path' => __DIR__ . '/../../modules/contrib/media_library_theme_reset',
             'aliases' => array(),
             'reference' => '8.x-1.1',
+            'dev_requirement' => false,
+        ),
+        'drupal/menu_breadcrumb' => array(
+            'pretty_version' => '1.16.0',
+            'version' => '1.16.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/menu_breadcrumb',
+            'aliases' => array(),
+            'reference' => '8.x-1.16',
             'dev_requirement' => false,
         ),
         'drupal/menu_link_content' => array(

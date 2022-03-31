@@ -1,0 +1,62 @@
+uuid:
+  -
+    value: bedbdf4f-a8ac-44b9-8cf0-e5fa1087bcda
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: campaign
+    target_type: commerce_product_variation_type
+    target_uuid: d70da0a1-42f1-4de1-bcfe-079b9e53f04f
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+status:
+  -
+    value: true
+product_id:
+  -
+    target_type: commerce_product
+    target_uuid: 3885517b-a7dd-4ec2-b377-f2c0ac9e87ab
+sku:
+  -
+    value: SKU_102
+title:
+  -
+    value: 'Build school for children - Pledge $20.00'
+list_price:
+  -
+    number: null
+    currency_code: null
+    formatted: null
+price:
+  -
+    number: '20.000000'
+    currency_code: USD
+    formatted: "20\_$US"
+created:
+  -
+    value: '2018-05-15T01:45:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-15T01:47:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+attribute_donation_price:
+  -
+    target_type: commerce_product_attribute_value
+    target_uuid: 4d33e01e-ec37-46fe-80cb-a5af1ddb126d
+_content_sync:
+  entity_type: commerce_product_variation
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    commerce_product:
+      - commerce_product.campaign.3885517b-a7dd-4ec2-b377-f2c0ac9e87ab
+    commerce_product_attribute_value:
+      - commerce_product_attribute_value.donation_price.4d33e01e-ec37-46fe-80cb-a5af1ddb126d

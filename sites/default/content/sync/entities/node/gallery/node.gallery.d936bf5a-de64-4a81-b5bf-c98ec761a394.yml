@@ -1,0 +1,78 @@
+uuid:
+  -
+    value: d936bf5a-de64-4a81-b5bf-c98ec761a394
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: gallery
+    target_type: node_type
+    target_uuid: 97d0f53c-88a8-4856-a826-d96a8e5ac6c3
+revision_timestamp:
+  -
+    value: '2016-12-21T04:38:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'gallery 11'
+created:
+  -
+    value: '2016-12-21T04:38:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:38:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+body: {  }
+field_gallery_image:
+  -
+    alt: ''
+    title: ''
+    width: 1170
+    height: 658
+    target_type: file
+    target_uuid: 2b034c1c-83de-46c4-ab94-fa2133a60327
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.2b034c1c-83de-46c4-ab94-fa2133a60327

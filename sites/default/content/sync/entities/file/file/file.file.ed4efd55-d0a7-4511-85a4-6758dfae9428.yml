@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: ed4efd55-d0a7-4511-85a4-6758dfae9428
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: partners-3.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/partners-3.jpg'
+    url: /sites/default/files/gbb-uploads/partners-3.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 31162
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-08-02T02:50:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-08-02T02:50:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

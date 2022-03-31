@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ecc33f5c-a92a-42ac-95f9-0316a26cc41d
+langcode:
+  -
+    value: fr
+path:
+  -
+    value: /node/149
+alias:
+  -
+    value: /node-149-realisation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

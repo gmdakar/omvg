@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 41b35fdb-9d1b-401f-9400-5489d0e6286c
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: slider-42.jpg
+uri:
+  -
+    value: 'public://realisation/2022-03/slider-42.jpg'
+    url: /sites/default/files/realisation/2022-03/slider-42.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 324181
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-03-29T12:13:40+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-03-29T12:14:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

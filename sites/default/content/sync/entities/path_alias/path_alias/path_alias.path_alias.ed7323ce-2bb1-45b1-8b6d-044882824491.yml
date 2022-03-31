@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ed7323ce-2bb1-45b1-8b6d-044882824491
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/28
+alias:
+  -
+    value: /mobile-weather-app
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

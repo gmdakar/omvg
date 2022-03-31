@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ee9ec011-cccc-4c7e-8000-2dcaa0de10fa
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/75
+alias:
+  -
+    value: /partners
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

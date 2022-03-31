@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 959eb6ff-2b68-41ee-b354-b30488b76fa0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/78
+alias:
+  -
+    value: /features-piechart-skillbar
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

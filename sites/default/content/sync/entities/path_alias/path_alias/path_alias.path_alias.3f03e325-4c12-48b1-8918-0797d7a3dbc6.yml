@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3f03e325-4c12-48b1-8918-0797d7a3dbc6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/6
+alias:
+  -
+    value: /our-mission
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

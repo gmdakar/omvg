@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: d532d822-28e1-495e-b1db-5624bd2a6f63
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: bg-icon-3-h1.png
+uri:
+  -
+    value: 'public://gbb-uploads/bg-icon-3-h1.png'
+    url: /sites/default/files/gbb-uploads/bg-icon-3-h1.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 11345
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-14T14:35:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-14T14:35:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ec7a3075-a4e9-48fb-9b72-a50eb690b24c
+langcode:
+  -
+    value: fr
+path:
+  -
+    value: /node/117
+alias:
+  -
+    value: /node-117-projet
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

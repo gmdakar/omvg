@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 59bac68b-086a-4e95-b423-2b4bafeb6ebc
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/76
+alias:
+  -
+    value: /features-quote
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

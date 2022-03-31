@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 5e31f51e-7d31-43d3-ae47-325b5af910c9
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: generateImage_29vH5m.jpeg
+uri:
+  -
+    value: 'public://2022-03/generateImage_29vH5m.jpeg'
+    url: /sites/default/files/2022-03/generateImage_29vH5m.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 8043
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

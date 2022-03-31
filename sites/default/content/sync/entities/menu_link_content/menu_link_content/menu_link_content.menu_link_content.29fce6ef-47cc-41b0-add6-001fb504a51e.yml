@@ -1,0 +1,67 @@
+uuid:
+  -
+    value: 29fce6ef-47cc-41b0-add6-001fb504a51e
+langcode:
+  -
+    value: fr
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2022-03-28T13:17:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Accueil
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'internal:/'
+    title: ''
+    options:
+      fa_icon: ''
+      fa_icon_prefix: fa
+      fa_icon_tag: i
+      fa_icon_appearance: only
+      attributes:
+        gva_class: accueil
+        gva_icon: fa-home
+        gva_layout: menu-list
+        gva_layout_columns: '3'
+        gva_block: about
+        gva_block_en: about
+        gva_block_fr: about
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -59
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2022-03-29T21:23:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

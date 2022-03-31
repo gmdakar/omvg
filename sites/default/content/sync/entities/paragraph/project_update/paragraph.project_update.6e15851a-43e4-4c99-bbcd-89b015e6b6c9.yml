@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: 6e15851a-43e4-4c99-bbcd-89b015e6b6c9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: project_update
+    target_type: paragraphs_type
+    target_uuid: 66f2601f-3b77-42c5-a562-ad26b4678f6b
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-11-08T02:53:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: commerce_product
+parent_field_name:
+  -
+    value: field_campaign_update
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+field_update_content:
+  -
+    value: "<p>Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+field_update_date:
+  -
+    value: 25-09-2020
+field_update_title:
+  -
+    value: ' First stretch goal announced!'
+_content_sync:
+  entity_type: paragraph
+  entity_dependencies: {  }

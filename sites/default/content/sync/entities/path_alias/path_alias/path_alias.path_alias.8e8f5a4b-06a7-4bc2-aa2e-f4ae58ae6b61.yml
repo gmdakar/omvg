@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 8e8f5a4b-06a7-4bc2-aa2e-f4ae58ae6b61
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/27
+alias:
+  -
+    value: /mountain-drift
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

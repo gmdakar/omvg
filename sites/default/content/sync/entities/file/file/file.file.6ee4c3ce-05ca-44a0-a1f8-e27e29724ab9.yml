@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 6ee4c3ce-05ca-44a0-a1f8-e27e29724ab9
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: team-4.jpg
+uri:
+  -
+    value: 'public://team/team-4.jpg'
+    url: /sites/default/files/team/team-4.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 35321
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:44:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:53:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

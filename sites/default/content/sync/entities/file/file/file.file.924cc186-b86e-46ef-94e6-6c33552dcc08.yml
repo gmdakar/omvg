@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 924cc186-b86e-46ef-94e6-6c33552dcc08
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: bg-video-2.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/bg-video-2.jpg'
+    url: /sites/default/files/gbb-uploads/bg-video-2.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 128416
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-26T06:36:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-26T06:36:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

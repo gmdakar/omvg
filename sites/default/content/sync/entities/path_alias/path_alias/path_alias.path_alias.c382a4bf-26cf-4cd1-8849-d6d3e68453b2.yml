@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c382a4bf-26cf-4cd1-8849-d6d3e68453b2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/25
+alias:
+  -
+    value: /application-mobile
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

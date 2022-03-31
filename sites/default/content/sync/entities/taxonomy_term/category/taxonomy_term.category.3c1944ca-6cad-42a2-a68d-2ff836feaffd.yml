@@ -1,0 +1,49 @@
+uuid:
+  -
+    value: 3c1944ca-6cad-42a2-a68d-2ff836feaffd
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: category
+    target_type: taxonomy_vocabulary
+    target_uuid: 7c8c7433-0499-4a74-95ed-9762151a7486
+revision_created: {  }
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: Music
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2016-12-21T03:59:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

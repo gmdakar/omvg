@@ -1,0 +1,102 @@
+uuid:
+  -
+    value: d6a5acce-c055-4369-bb8f-dac2e9d47a18
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: testimonial
+    target_type: node_type
+    target_uuid: 2806010c-161c-48fd-90ee-223801db238c
+revision_timestamp:
+  -
+    value: '2016-12-21T04:56:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Testimonial 2'
+created:
+  -
+    value: '2016-12-21T04:55:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-09-01T07:13:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+body:
+  -
+    value: 'There are many variations of available, but the majority have sufferd in some form by injected or randomised words which don''t look even believable. If you are to lorem ipsum is simply going to use a passage. '
+    format: restricted_html
+    processed: 'There are many variations of available, but the majority have sufferd in some form by injected or randomised words which don''t look even believable. If you are to lorem ipsum is simply going to use a passage. '
+    summary: 'There are many variations of passages of lorem ipsum available but the majority have suffered alteration in some form.'
+    summary_processed: 'There are many variations of passages of lorem ipsum available but the majority have suffered alteration in some form.'
+field_testimonial_avatar:
+  -
+    alt: 'Mike Hardson'
+    title: ''
+    width: 200
+    height: 200
+    target_type: file
+    target_uuid: 1c1df18b-a485-4e96-907c-cfe6847e7fb9
+field_testimonial_image:
+  -
+    alt: ''
+    title: ''
+    width: 700
+    height: 400
+    target_type: file
+    target_uuid: a054f1cc-0695-4ce1-9db5-89b1eafa6427
+field_testimonial_job:
+  -
+    value: Customer
+field_testimonial_name:
+  -
+    value: 'Mike Hardson'
+field_testimonial_video:
+  -
+    value: 'https://www.youtube.com/watch?v=dnpZ9SDWJy0'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.1c1df18b-a485-4e96-907c-cfe6847e7fb9
+      - file.file.a054f1cc-0695-4ce1-9db5-89b1eafa6427

@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: a13c09ac-809a-4fb0-a76a-28913f107cbd
+langcode:
+  -
+    value: fr
+vid:
+  -
+    target_id: domaine_d_intervention
+    target_type: taxonomy_vocabulary
+    target_uuid: 84ac7539-8cac-4131-ab52-7b04a72602f8
+revision_created:
+  -
+    value: '2022-03-29T11:50:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: Energie
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2022-03-29T11:50:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: fr
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

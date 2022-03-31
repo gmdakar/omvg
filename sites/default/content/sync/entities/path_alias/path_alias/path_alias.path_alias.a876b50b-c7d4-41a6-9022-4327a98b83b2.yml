@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a876b50b-c7d4-41a6-9022-4327a98b83b2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/17
+alias:
+  -
+    value: /what-average-office-worker-will-look-20-years
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

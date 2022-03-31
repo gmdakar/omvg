@@ -1,0 +1,74 @@
+uuid:
+  -
+    value: de2a205f-845d-4913-8429-009698d9b417
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: 18cdf974-0308-4973-9444-0ad78fb7671b
+revision_timestamp:
+  -
+    value: '2016-12-21T03:55:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Our Mission'
+created:
+  -
+    value: '2016-12-21T03:55:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-09-30T17:55:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout:
+  -
+    value: fw
+gva_breadcrumb:
+  -
+    value: enable
+gva_header: {  }
+gva_node_class:
+  -
+    value: hidden-title
+gva_box_layout: {  }
+gva_pagebuilder_content:
+  -
+    value: '[{"settings":{"element":"gva_row","bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","style_bg_absolute":"default","class_css":"el-61191642","padding_top":"65","padding_bottom":"60","padding_top_lg":"25","padding_bottom_lg":"10","padding_bottom_md":"40"},"columns":[{"settings":{"element":"gva_column","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","col_md":"12","col_sm":"12","col_xs":"12","animate_delay":"0","class_css":"el-39173027"},"col_lg":12,"elements":[{"settings":{"sub_title":"Were helping hand on","title":"80.593 Children in 125 Countries.","align":"align-center","style":"style-1","html_tags":"h2","button_style":"btn-theme","animate_delay":"0","class_css":"el-62927858","max_width":"500px","dot_color":"theme-color-second"},"editing":false,"element_name":"gva_heading"},{"settings":{"class_css":"el-77540600"},"editing":false,"element_name":"gva_row","row":{"settings":{"element":"gva_row","class_css":"el-26561099"},"columns":[{"settings":{"element":"gva_column","class_css":"el-60384481","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","col_sm":"6"},"col_lg":3,"elements":[{"settings":{"title":"Education","content":"<p>Praesent vestibulum aenean nommy eros hendrerit mauris. Cum sociis natoqueing patibuset mgnis parturient.</p>","icon":"fi flaticon-scrum","icon_position":"top-center","target":"off","icon_color_available":"color-white","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-medium","animate_delay":"0s","class_css":"el-74543647","icon_bg_available":"bg-theme","icon_radius":"radius-5x","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column","column":12},{"settings":{"element":"gva_column","class_css":"el-14706289","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","col_sm":"6"},"col_lg":3,"elements":[{"settings":{"title":"Help & Support","content":"<p>Praesent vestibulum aenean nommy eros hendrerit mauris. Cum sociis natoqueing patibuset mgnis parturient.</p>","icon":"fi flaticon-translation","icon_position":"top-center","target":"off","icon_color_available":"color-white","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-medium","animate_delay":"0s","class_css":"el-89031844","icon_bg_available":"bg-theme","icon_radius":"radius-5x","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-35199501","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","col_sm":"6"},"col_lg":3,"elements":[{"settings":{"title":"Volunteering","content":"<p>Praesent vestibulum aenean nommy eros hendrerit mauris. Cum sociis natoqueing patibuset mgnis parturient.</p>","icon":"fi flaticon-thumbs-up","icon_position":"top-center","target":"off","icon_color_available":"color-white","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-medium","animate_delay":"0s","class_css":"el-63326589","effect":"effect","icon_bg_available":"bg-theme","icon_radius":"radius-5x"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-32668901","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","col_sm":"6"},"col_lg":3,"elements":[{"settings":{"title":"Adoption","content":"<p>Praesent vestibulum aenean nommy eros hendrerit mauris. Cum sociis natoqueing patibuset mgnis parturient.</p>","icon":"fi flaticon-computer","icon_position":"top-center","target":"off","icon_color_available":"color-white","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-medium","animate_delay":"0s","class_css":"el-50901092","effect":"effect","icon_bg_available":"bg-theme","icon_radius":"radius-5x"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"},"create_edit_form":true}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"},{"settings":{"element":"gva_row","bg_image":"/sites/default/files/gbb-uploads/bg-1.jpeg","bg_particles":"off","bg_position":"center center","bg_repeat":"no-repeat","bg_attachment":"fixed","bg_size":"cover","style_space":"default","layout":"container","class_css":"el-97649016","padding_top":"110","padding_bottom":"120","padding_top_lg":"60","padding_bottom_lg":"70"},"columns":[{"settings":{"element":"gva_column","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","animate":"fade-up","animate_delay":"200","class_css":"el-35617255"},"col_lg":12,"elements":[{"settings":{"class_css":"el-4600409","sub_title":"Join Our Campaign","title":"Together We can Bring More Creativity into the World","align":"align-center","max_width":"800px","title_color":"#fff","html_tags":"h2","subtitle_color":"#29f0b4","button_link":"#","button_text":"Join now","button_style":"btn-theme-second","animate_delay":"0","style":"style-large","remove_padding":"padding-bottom-0"},"editing":false,"element_name":"gva_heading"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"},{"settings":{"element":"gva_row","bg_particles":"off","bg_position":"center center","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","bg_image_right":"/sites/default/files/gbb-uploads/bg-icon-3-h1.png","style_bg_absolute":"style-v3","class_css":"el-58599013","padding_top":"110","padding_bottom":"110","padding_top_lg":"60","padding_bottom_lg":"60"},"columns":[{"settings":{"element":"gva_column","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","animate":"fade-up","animate_delay":"200","class_css":"el-37402576"},"col_lg":12,"elements":[{"settings":{"title":"News & Articles","align":"align-center","style":"style-1","style_text":"text-dark","animate_delay":"0","image":"/sites/default/files/gbb-uploads/icons/icon-heading.svg","html_tags":"h2","button_style":"btn-theme","class_css":"el-9251151","sub_title":"All From the Blog ","dot_color":"theme-color-second"},"editing":false,"element_name":"gva_heading"},{"settings":{"title_admin":"Post || Block - Carousel I","view":"post_other-----block_3","show_title":"hidden","style_text":"text-dark","align_title":"title-align-left","remove_margin":"off","animate_delay":"0","class_css":"el-20091289"},"editing":false,"element_name":"gva_view"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"}]'
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /our-mission
+body: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

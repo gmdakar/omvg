@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7ec90851-286e-46c9-9920-3d4c2c36b6d6
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/18
+alias:
+  -
+    value: /pick-device-actually-suits-your-needs
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

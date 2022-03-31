@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a67cb97d-7cc2-4ba5-855f-be2ad8228324
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/10
+alias:
+  -
+    value: /solutions-all-small-and-large-business-people
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

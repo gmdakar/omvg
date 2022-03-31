@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: e51c3542-97c0-4bf3-a891-57963c29dc38
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: icon-heading.svg
+uri:
+  -
+    value: 'public://gbb-uploads/icons/icon-heading.svg'
+    url: /sites/default/files/gbb-uploads/icons/icon-heading.svg
+filemime:
+  -
+    value: image/svg+xml
+filesize:
+  -
+    value: 1256
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-10T09:55:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-10T09:55:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

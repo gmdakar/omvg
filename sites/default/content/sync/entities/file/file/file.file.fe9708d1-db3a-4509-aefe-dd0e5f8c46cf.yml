@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: fe9708d1-db3a-4509-aefe-dd0e5f8c46cf
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: team-2.jpg
+uri:
+  -
+    value: 'public://team/team-2.jpg'
+    url: /sites/default/files/team/team-2.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 30773
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:44:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:51:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

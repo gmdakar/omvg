@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: caeae8b2-fdf7-4080-888c-6195daf51deb
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: bg-campaign.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/bg-campaign.jpg'
+    url: /sites/default/files/gbb-uploads/bg-campaign.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 262938
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-12-03T03:55:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-12-03T03:55:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

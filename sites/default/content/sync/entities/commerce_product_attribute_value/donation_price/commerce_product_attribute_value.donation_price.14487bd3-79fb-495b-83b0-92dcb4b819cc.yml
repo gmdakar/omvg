@@ -1,0 +1,31 @@
+uuid:
+  -
+    value: 14487bd3-79fb-495b-83b0-92dcb4b819cc
+langcode:
+  -
+    value: en
+attribute:
+  -
+    target_id: donation_price
+    target_type: commerce_product_attribute
+    target_uuid: eaf178a4-a4de-4d16-a193-3b12bfeddd7a
+name:
+  -
+    value: 'Pledge $30.00'
+weight:
+  -
+    value: 3
+created:
+  -
+    value: '2018-05-14T08:01:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-14T08:01:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: commerce_product_attribute_value
+  entity_dependencies: {  }

@@ -1,0 +1,56 @@
+uuid:
+  -
+    value: b2c364e4-ae56-485c-b856-9c18c3f102e9
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created: {  }
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Teams
+description: {  }
+menu_name:
+  -
+    value: menu-second
+link:
+  -
+    uri: 'internal:/team-grid'
+    title: ''
+    options:
+      attributes:
+        gva_layout: menu-list
+        gva_layout_columns: '3'
+        gva_block: gavias_funzi_companypresentation
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -46
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2018-03-26T08:40:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

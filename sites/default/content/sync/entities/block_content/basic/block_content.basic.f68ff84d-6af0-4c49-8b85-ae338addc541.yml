@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: f68ff84d-6af0-4c49-8b85-ae338addc541
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2016-12-21T06:44:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: Company
+changed:
+  -
+    value: '2020-03-03T08:10:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"clearfix\">\r\n    <ul class=\"menu\">\r\n\t <li><a href=\"#\">About Us</a></li>\r\n\t <li><a href=\"#\">How It Works</a></li>\r\n\t <li><a href=\"#\">Knowledge hub</a></li>\r\n\t <li><a href=\"#\">Success Stories</a></li>\r\n\t <li><a href=\"#\">Contact</a></li>\r\n     </ul>      \r\n</div>"
+    format: restricted_html
+    processed: |-
+      <div class="clearfix">
+          <ul class="menu">
+      	 <li><a href="#">About Us</a></li>
+      	 <li><a href="#">How It Works</a></li>
+      	 <li><a href="#">Knowledge hub</a></li>
+      	 <li><a href="#">Success Stories</a></li>
+      	 <li><a href="#">Contact</a></li>
+           </ul>      
+      </div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

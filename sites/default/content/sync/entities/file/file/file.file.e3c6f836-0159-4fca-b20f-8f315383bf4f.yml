@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: e3c6f836-0159-4fca-b20f-8f315383bf4f
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: donation-6.jpg
+uri:
+  -
+    value: 'public://campaigns/donation-6.jpg'
+    url: /sites/default/files/campaigns/donation-6.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 100120
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-05-15T01:37:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-15T01:37:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

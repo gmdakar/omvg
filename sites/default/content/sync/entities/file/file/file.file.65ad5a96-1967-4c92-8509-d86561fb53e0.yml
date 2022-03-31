@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 65ad5a96-1967-4c92-8509-d86561fb53e0
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: bg-2.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/bg-2.jpg'
+    url: /sites/default/files/gbb-uploads/bg-2.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 134292
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-11-25T01:31:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-11-25T01:31:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0113a29e-5c3d-4ae8-895e-82eb9ca8e2ee
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/15
+alias:
+  -
+    value: /higher-education-germany-welcome-center-germany
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

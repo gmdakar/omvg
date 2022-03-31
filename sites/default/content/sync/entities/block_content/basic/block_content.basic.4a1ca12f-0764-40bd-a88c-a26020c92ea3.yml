@@ -1,0 +1,47 @@
+uuid:
+  -
+    value: 4a1ca12f-0764-40bd-a88c-a26020c92ea3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2016-12-21T06:43:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Image footer'
+changed:
+  -
+    value: '2020-11-27T03:30:49+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div><a href=\"#\"><img alt=\"alt\"  src=\"/private/charityplus/sites/default/files/inline-images/image-footer.jpg\" /></a></div>\r\n"
+    format: restricted_html
+    processed: |
+      <div><a href="#"><img alt="alt"  src="/private/charityplus/sites/default/files/inline-images/image-footer.jpg" /></a></div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

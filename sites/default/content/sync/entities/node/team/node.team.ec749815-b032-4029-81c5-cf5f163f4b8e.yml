@@ -1,0 +1,134 @@
+uuid:
+  -
+    value: ec749815-b032-4029-81c5-cf5f163f4b8e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: team
+    target_type: node_type
+    target_uuid: 2f621ebd-3c0f-4c66-b518-d2ed93dea7dd
+revision_timestamp:
+  -
+    value: '2016-12-21T04:44:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: ' Laurie Laforest'
+created:
+  -
+    value: '2016-12-21T04:43:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-12-26T08:23:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+body:
+  -
+    value: "<p>Based in London, he is a business transformation expert and 25-year veteran at the firm, working with major corporate and private equity clients in Australia, Japan, China, Europe and North America. He is a leading contributor to Bain’s Results Delivery®, Organization, Consumer Products, Retail and Air Transportation &amp; Services practices.</p>\r\n\r\n<p>He joined Financial Solutions in London at graduate entry level in 1987. Prior to moving to Australia in 1991 with Bain, he spent two years in the UK in a senior sales and marketing role.</p>\r\n\r\n<p>Peter was the managing partner of Bain’s Australian business between 1998 and 2005 followed by a two-year posting to Japan where he served as managing partner of Bain’s Tokyo office. From 2008 to 2013, he was in the role of regional managing director for Asia Pacific based out of Hong Kong.</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Based in London, he is a business transformation expert and 25-year veteran at the firm, working with major corporate and private equity clients in Australia, Japan, China, Europe and North America. He is a leading contributor to Bain’s Results Delivery®, Organization, Consumer Products, Retail and Air Transportation &amp; Services practices.</p>
+
+      <p>He joined Financial Solutions in London at graduate entry level in 1987. Prior to moving to Australia in 1991 with Bain, he spent two years in the UK in a senior sales and marketing role.</p>
+
+      <p>Peter was the managing partner of Bain’s Australian business between 1998 and 2005 followed by a two-year posting to Japan where he served as managing partner of Bain’s Tokyo office. From 2008 to 2013, he was in the role of regional managing director for Asia Pacific based out of Hong Kong.</p>
+    summary: ''
+    summary_processed: ''
+field_team_contact:
+  -
+    value: 'Phone : 61 3 8376 6284'
+  -
+    value: 'Email : sanbro@gmail.com'
+field_team_description:
+  -
+    value: "<p>Peter Stumbles is a partner at Financial solutions based in the Sydney office. He is the head of the Asia-Pacific Financial Services practice and is also a leader in the Global Performance Improvement practice.</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Peter Stumbles is a partner at Financial solutions based in the Sydney office. He is the head of the Asia-Pacific Financial Services practice and is also a leader in the Global Performance Improvement practice.</p>
+field_team_education:
+  -
+    value: 'BS, engineering, Technical University of Denmark'
+  -
+    value: 'MBA, Rotterdam School of Management, Erasmus University'
+  -
+    value: 'BS, engineering, Technical University of Denmark'
+field_team_email:
+  -
+    value: your_email@gmail.com
+field_team_facebook:
+  -
+    value: '#'
+field_team_google:
+  -
+    value: '#'
+field_team_image:
+  -
+    alt: ''
+    title: ''
+    width: 550
+    height: 550
+    target_type: file
+    target_uuid: 152e910d-b758-45ae-9f10-7363d90d31e7
+field_team_linkedin:
+  -
+    value: '#'
+field_team_name:
+  -
+    value: ' Laurie Laforest'
+field_team_pinterest:
+  -
+    value: '#'
+field_team_position:
+  -
+    value: Supervisor
+field_team_quote:
+  -
+    value: 'Infuse your life with action. Don''t wait for it to happen. Make it happen. Make your own future. Make your own hope. Make your own love. And whatever your beliefs, honor your creator, not by passively waiting for grace to come down from upon high, but by doing what you can to make grace happen... yourself, right now, right down here on Earth.'
+field_team_twitter:
+  -
+    value: '#'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.152e910d-b758-45ae-9f10-7363d90d31e7

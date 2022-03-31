@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 16169e72-6e24-4fb2-8407-aaf6c30708c8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/8
+alias:
+  -
+    value: /money-markets-rates-finding-best-accounts
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

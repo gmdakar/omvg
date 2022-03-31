@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 97f3aa54-d447-47c2-a0c6-0dc23115bad9
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: generateImage_sFbtNv.jpg
+uri:
+  -
+    value: 'public://2022-03/generateImage_sFbtNv.jpg'
+    url: /sites/default/files/2022-03/generateImage_sFbtNv.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 7314
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

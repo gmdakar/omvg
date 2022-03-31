@@ -1,0 +1,128 @@
+uuid:
+  -
+    value: fdea2f51-b1fd-4272-9aa2-8d7cb3cd0d02
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 12ac40c0-086f-4a18-ad36-57ec8f7100d2
+revision_timestamp:
+  -
+    value: '2020-04-20T02:18:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Solutions for all small and large business people'
+created:
+  -
+    value: '2016-12-21T04:08:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-09-11T16:11:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /solutions-all-small-and-large-business-people
+body:
+  -
+    value: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac neque at mi elementum gravida et vitae elit. Etiam ullamcorper auctor orci, id luctus felis laoreet a. Nam nec nulla sit amet tellus pretium rhoncus. Integer interdum, nibh sed posuere aliquet, enim ante lacinia augue, ut ultricies augue erat vel lorem. Vestibulum bibendum dolor sit amet tincidunt lacinia. Nunc sapien libero, condimentum et turpis eget, eleifend hendrerit augue. Duis molestie volutpat feugiat.</p>\r\n\r\n<ul>\r\n\t<li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>\r\n\t<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>\r\n\t<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>\r\n</ul>\r\n\r\n<ol>\r\n\t<li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>\r\n\t<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>\r\n\t<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>\r\n</ol>\r\n\r\n<p>Donec vel libero ullamcorper, faucibus augue auctor, imperdiet diam. Duis quis nibh eget urna convallis blandit. Fusce iaculis purus vitae convallis aliquet. Ut auctor nunc sed odio bibendum fringilla. Quisque egestas non magna ac tincidunt. Aenean laoreet commodo nulla, sed ultrices odio vehicula sit amet. Suspendisse erat tellus, porta et facilisis sit amet, adipiscing sed diam. Nulla condimentum arcu a pellentesque pretium. Pellentesque pharetra odio eu auctor suscipit.</p>\r\n\r\n<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras congue, felis in congue iaculis, elit enim molestie urna, ut accumsan augue magna aliquet nisi. Nullam interdum bibendum magna, eu sagittis metus convallis quis. Pellentesque vehicula purus sit amet tellus pellentesque suscipit.&nbsp;</p>\r\n\r\n<p>Ut dolor elit, ullamcorper quis ornare vel, congue id orci. In et orci in dolor dapibus sodales ac nec diam. Etiam vulputate erat a quam ullamcorper volutpat. Vestibulum vel feugiat sem, non molestie purus. Duis sit amet faucibus ipsum, ac aliquet urna. In hendrerit sit amet dolor vitae semper.&nbsp;</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac neque at mi elementum gravida et vitae elit. Etiam ullamcorper auctor orci, id luctus felis laoreet a. Nam nec nulla sit amet tellus pretium rhoncus. Integer interdum, nibh sed posuere aliquet, enim ante lacinia augue, ut ultricies augue erat vel lorem. Vestibulum bibendum dolor sit amet tincidunt lacinia. Nunc sapien libero, condimentum et turpis eget, eleifend hendrerit augue. Duis molestie volutpat feugiat.</p>
+
+      <ul><li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>
+      	<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>
+      	<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>
+      </ul><ol><li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>
+      	<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>
+      	<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>
+      </ol><p>Donec vel libero ullamcorper, faucibus augue auctor, imperdiet diam. Duis quis nibh eget urna convallis blandit. Fusce iaculis purus vitae convallis aliquet. Ut auctor nunc sed odio bibendum fringilla. Quisque egestas non magna ac tincidunt. Aenean laoreet commodo nulla, sed ultrices odio vehicula sit amet. Suspendisse erat tellus, porta et facilisis sit amet, adipiscing sed diam. Nulla condimentum arcu a pellentesque pretium. Pellentesque pharetra odio eu auctor suscipit.</p>
+
+      <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras congue, felis in congue iaculis, elit enim molestie urna, ut accumsan augue magna aliquet nisi. Nullam interdum bibendum magna, eu sagittis metus convallis quis. Pellentesque vehicula purus sit amet tellus pellentesque suscipit. </p>
+
+      <p>Ut dolor elit, ullamcorper quis ornare vel, congue id orci. In et orci in dolor dapibus sodales ac nec diam. Etiam vulputate erat a quam ullamcorper volutpat. Vestibulum vel feugiat sem, non molestie purus. Duis sit amet faucibus ipsum, ac aliquet urna. In hendrerit sit amet dolor vitae semper. </p>
+    summary: 'Pellentesque placerat eget euismod. Mauris tempor cursus dolor. Ut dolor elit, ullamcorper quis ornare congue.'
+    summary_processed: 'Pellentesque placerat eget euismod. Mauris tempor cursus dolor. Ut dolor elit, ullamcorper quis ornare congue.'
+comment:
+  -
+    status: 2
+    cid: 2
+    last_comment_timestamp: 1632177553
+    last_comment_name: ''
+    last_comment_uid: 1
+    comment_count: 2
+field_image:
+  -
+    alt: alt
+    title: ''
+    width: 800
+    height: 742
+    target_type: file
+    target_uuid: 3438560b-e056-4dfc-ab66-5828c6246672
+field_post_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: d27ddad2-713a-4d97-82be-9dd500260828
+field_post_embed: {  }
+field_post_format:
+  -
+    value: standard
+field_post_gallery: {  }
+field_post_type: {  }
+field_tags:
+  -
+    target_type: taxonomy_term
+    target_uuid: bf7e9eee-223b-46d7-95cb-222f7087dd48
+  -
+    target_type: taxonomy_term
+    target_uuid: e2c1bf4c-05f4-44c4-8bc6-d6f9d1b7323d
+  -
+    target_type: taxonomy_term
+    target_uuid: 7da55829-ef70-4b5d-8d59-1730049b90ac
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.3438560b-e056-4dfc-ab66-5828c6246672
+    taxonomy_term:
+      - taxonomy_term.category.d27ddad2-713a-4d97-82be-9dd500260828
+      - taxonomy_term.tags.bf7e9eee-223b-46d7-95cb-222f7087dd48
+      - taxonomy_term.tags.e2c1bf4c-05f4-44c4-8bc6-d6f9d1b7323d
+      - taxonomy_term.tags.7da55829-ef70-4b5d-8d59-1730049b90ac

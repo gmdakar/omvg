@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: e1ad747c-3fee-4aa1-bb6a-c39d93b8a78d
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: donation-8.jpg
+uri:
+  -
+    value: 'public://campaigns/donation-8.jpg'
+    url: /sites/default/files/campaigns/donation-8.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 38543
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-05-15T01:27:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-15T01:27:25+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

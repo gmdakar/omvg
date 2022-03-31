@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fa453503-33a0-498a-81d9-0d9a889b0c60
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/13
+alias:
+  -
+    value: /xiaomi-mijia-smart-ip-camera-review-where-buy-2020
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

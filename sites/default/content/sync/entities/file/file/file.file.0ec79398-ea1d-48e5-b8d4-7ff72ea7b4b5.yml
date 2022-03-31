@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 0ec79398-ea1d-48e5-b8d4-7ff72ea7b4b5
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: post-6.jpg
+uri:
+  -
+    value: 'public://articles/post-6.jpg'
+    url: /sites/default/files/articles/post-6.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 313416
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:10:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:10:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

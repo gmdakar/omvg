@@ -1,0 +1,68 @@
+uuid:
+  -
+    value: b1e960fe-9115-44ed-a5af-0bc66bb5dfc6
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created: {  }
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: false
+title:
+  -
+    value: 'Heading Style'
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'entity:node/81'
+    title: ''
+    options:
+      attributes:
+        gva_layout: menu-list
+        gva_layout_columns: '3'
+        gva_block: about
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -57
+expanded:
+  -
+    value: false
+parent:
+  -
+    value: 'menu_link_content:9766b8e0-930c-4917-b178-4c51fd8b7989'
+  -
+    target_type: menu_link_content
+    target_uuid: 9766b8e0-930c-4917-b178-4c51fd8b7989
+changed:
+  -
+    value: '2022-03-28T13:29:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
+  menu_entity_link:
+    node: 13069309-da42-46f7-8bff-be66cf5d6158
+  entity_dependencies:
+    node:
+      - node.page.13069309-da42-46f7-8bff-be66cf5d6158
+    menu_link_content:
+      - menu_link_content.menu_link_content.9766b8e0-930c-4917-b178-4c51fd8b7989

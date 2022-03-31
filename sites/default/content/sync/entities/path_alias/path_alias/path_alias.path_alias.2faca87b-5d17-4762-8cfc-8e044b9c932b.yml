@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 2faca87b-5d17-4762-8cfc-8e044b9c932b
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/14
+alias:
+  -
+    value: /15-simple-ways-become-more-productive-person
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 11780b03-a751-4f2b-a8a1-491fa970fa9f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/26
+alias:
+  -
+    value: /business-card-0
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

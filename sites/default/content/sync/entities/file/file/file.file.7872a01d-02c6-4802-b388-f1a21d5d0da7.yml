@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 7872a01d-02c6-4802-b388-f1a21d5d0da7
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: generateImage_Ilcjpe.png
+uri:
+  -
+    value: 'public://2022-03/generateImage_Ilcjpe.png'
+    url: /sites/default/files/2022-03/generateImage_Ilcjpe.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 677
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

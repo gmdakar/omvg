@@ -1,0 +1,55 @@
+uuid:
+  -
+    value: f23b91f5-7aba-4752-9f3d-d2dda98888e1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2020-03-03T08:12:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: Fundraising
+changed:
+  -
+    value: '2021-08-17T23:13:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"clearfix\">\r\n    <ul class=\"menu\">\r\n\t <li><a href=\"#\">Education</a></li>\r\n\t <li><a href=\"#\">Design</a></li>\r\n\t <li><a href=\"#\">Film & Video</a></li>\r\n\t <li><a href=\"#\">Technology</a></li>\r\n\t <li><a href=\"#\">Games</a></li>\r\n     </ul>      \r\n</div>"
+    format: restricted_html
+    processed: |-
+      <div class="clearfix">
+          <ul class="menu">
+      	 <li><a href="#">Education</a></li>
+      	 <li><a href="#">Design</a></li>
+      	 <li><a href="#">Film & Video</a></li>
+      	 <li><a href="#">Technology</a></li>
+      	 <li><a href="#">Games</a></li>
+           </ul>      
+      </div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

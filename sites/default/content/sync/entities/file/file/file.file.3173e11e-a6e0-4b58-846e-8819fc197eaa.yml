@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 3173e11e-a6e0-4b58-846e-8819fc197eaa
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: generateImage_uWkssK.jpeg
+uri:
+  -
+    value: 'public://2022-03/generateImage_uWkssK.jpeg'
+    url: /sites/default/files/2022-03/generateImage_uWkssK.jpeg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 5431
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

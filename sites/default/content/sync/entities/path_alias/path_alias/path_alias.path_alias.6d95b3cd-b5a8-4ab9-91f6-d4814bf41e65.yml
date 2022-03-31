@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6d95b3cd-b5a8-4ab9-91f6-d4814bf41e65
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/24
+alias:
+  -
+    value: /business-card-red
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

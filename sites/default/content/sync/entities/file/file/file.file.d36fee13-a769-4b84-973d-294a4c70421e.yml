@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: d36fee13-a769-4b84-973d-294a4c70421e
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: portfolio-8.jpg
+uri:
+  -
+    value: 'public://portfolio/portfolio-8.jpg'
+    url: /sites/default/files/portfolio/portfolio-8.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 355499
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:27:11+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:27:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

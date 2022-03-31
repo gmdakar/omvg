@@ -1,0 +1,163 @@
+uuid:
+  -
+    value: 436c0495-0889-4819-be3f-e98052496225
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: campaign
+    target_type: commerce_product_type
+    target_uuid: 0b4c584e-fe2d-4c6e-89e6-cd74aee8f2bc
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+status:
+  -
+    value: true
+stores:
+  -
+    target_type: commerce_store
+    target_uuid: f6eaa327-0e2e-48b1-9c21-6a1acbe9f988
+title:
+  -
+    value: 'Education for the Children'
+variations:
+  -
+    target_type: commerce_product_variation
+    target_uuid: 6016940b-630e-481d-9982-3f2627ef41ed
+  -
+    target_type: commerce_product_variation
+    target_uuid: 920207d1-01d4-4f7a-8bd9-f674616b0580
+  -
+    target_type: commerce_product_variation
+    target_uuid: dce065dc-f762-4123-98ca-56a2e194fdf7
+  -
+    target_type: commerce_product_variation
+    target_uuid: da5f8003-ec7b-46d8-95ca-46abea178e2c
+  -
+    target_type: commerce_product_variation
+    target_uuid: a9f73bcc-e2cb-41c9-96a3-8fdd125a1c72
+default_variation:
+  -
+    target_type: commerce_product_variation
+    target_uuid: 6016940b-630e-481d-9982-3f2627ef41ed
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+created:
+  -
+    value: '2018-05-15T01:41:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-11-08T02:55:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+body:
+  -
+    value: "<h2>Story</h2>\r\n\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vulputate sed mauris vitae pellentesque. Nunc ut ullamcorper libero. Aenean fringilla mauris quis risus laoreet interdum. Quisque imperdiet orci in metus aliquam egestas. Fusce elit libero, imperdiet nec orci quis, convallis hendrerit nisl. Cras auctor nec purus at placerat.</p>\r\n\r\n<ul class=\"feature-list list-unstyled margin-bottom-30\">\r\n\t<li>Nsectetur cing mauris quis risus laoreet elit.</li>\r\n\t<li>Suspe ndisse dolor sit amet suscipit sagittis leo.</li>\r\n\t<li>Entum estibulum metus aliquam egestas dignissim posuere.</li>\r\n\t<li>If you are going to use a auctor nec purus passage.</li>\r\n\t<li>Lorem Ipsum on the tend to repeat.</li>\r\n</ul>\r\n\r\n<div class=\"row\">\r\n<div class=\"col-6 margin-bottom-30\"><img alt=\"campain image 2\" src=\"https://previewthemes.com/krowd/sites/default/files/inline-images/single-campain2.jpg\" /></div>\r\n\r\n<div class=\"col-6 margin-bottom-30\"><img alt=\"campain image 3\" src=\"https://previewthemes.com/krowd/sites/default/files/inline-images/single-campain3.jpg\" /></div>\r\n</div>\r\n\r\n<p>Nulla in ex at mi viverra sagittis ut non erat raesent nec congue elit. Nunc arcu odio, convallis a lacinia ut, tristique id eros. Suspendisse leo erat, pellentesque et commodo vel, varius in felis. Nulla mollis turpis porta justo eleifend volutpat. Cras malesuada nec magna eu blandit. Nam sed efficitur ante. Quisque lobortis sodales risus, eu dapibus dolor porta vitae. Vestibulum eu ex auctor, scelerisque velit amet.</p>\r\n"
+    format: full_html
+    processed: |
+      <h2>Story</h2>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent vulputate sed mauris vitae pellentesque. Nunc ut ullamcorper libero. Aenean fringilla mauris quis risus laoreet interdum. Quisque imperdiet orci in metus aliquam egestas. Fusce elit libero, imperdiet nec orci quis, convallis hendrerit nisl. Cras auctor nec purus at placerat.</p>
+
+      <ul class="feature-list list-unstyled margin-bottom-30"><li>Nsectetur cing mauris quis risus laoreet elit.</li>
+      	<li>Suspe ndisse dolor sit amet suscipit sagittis leo.</li>
+      	<li>Entum estibulum metus aliquam egestas dignissim posuere.</li>
+      	<li>If you are going to use a auctor nec purus passage.</li>
+      	<li>Lorem Ipsum on the tend to repeat.</li>
+      </ul><div class="row">
+      <div class="col-6 margin-bottom-30"><img alt="campain image 2" src="https://previewthemes.com/krowd/sites/default/files/inline-images/single-campain2.jpg" /></div>
+
+      <div class="col-6 margin-bottom-30"><img alt="campain image 3" src="https://previewthemes.com/krowd/sites/default/files/inline-images/single-campain3.jpg" /></div>
+      </div>
+
+      <p>Nulla in ex at mi viverra sagittis ut non erat raesent nec congue elit. Nunc arcu odio, convallis a lacinia ut, tristique id eros. Suspendisse leo erat, pellentesque et commodo vel, varius in felis. Nulla mollis turpis porta justo eleifend volutpat. Cras malesuada nec magna eu blandit. Nam sed efficitur ante. Quisque lobortis sodales risus, eu dapibus dolor porta vitae. Vestibulum eu ex auctor, scelerisque velit amet.</p>
+    summary: 'Maecenas diam eget blandi amet ullamcorper lorem ipsum amet consectetur.'
+    summary_processed: 'Maecenas diam eget blandi amet ullamcorper lorem ipsum amet consectetur.'
+field_campaign_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 89b74268-3361-4682-9280-54fce5b02a17
+field_campaign_comment: {  }
+field_campaign_featured:
+  -
+    value: false
+field_campaign_goal:
+  -
+    number: '75000.000000'
+    currency_code: USD
+    formatted: "75 000\_$US"
+field_campaign_images:
+  -
+    alt: ''
+    title: ''
+    width: 1100
+    height: 950
+    target_type: file
+    target_uuid: dede93f8-3b9e-4932-8ad2-d5d1777a3a3f
+  -
+    alt: ''
+    title: ''
+    width: 1100
+    height: 950
+    target_type: file
+    target_uuid: e1ad747c-3fee-4aa1-bb6a-c39d93b8a78d
+  -
+    alt: ''
+    title: ''
+    width: 1100
+    height: 950
+    target_type: file
+    target_uuid: 0bf90fa5-cfea-4576-ac24-4bfe88642421
+field_campaign_start:
+  -
+    number: '12000.000000'
+    currency_code: USD
+    formatted: "12 000\_$US"
+field_campaign_time:
+  -
+    value: '2023-05-09T22:00:00+00:00'
+field_campaign_update:
+  -
+    target_type: paragraph
+    target_uuid: 0bac2a16-3bf2-49c4-9579-49258871911d
+  -
+    target_type: paragraph
+    target_uuid: 1532f344-01b4-49de-8abc-b204adad4c37
+  -
+    target_type: paragraph
+    target_uuid: 9d4a1353-a318-4c9e-a2f0-3050daa83232
+field_campaign_video:
+  -
+    value: 'https://www.youtube.com/watch?v=womIxQqO2tE'
+_content_sync:
+  entity_type: commerce_product
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    commerce_store:
+      - commerce_store.online.f6eaa327-0e2e-48b1-9c21-6a1acbe9f988
+    commerce_product_variation:
+      - commerce_product_variation.campaign.6016940b-630e-481d-9982-3f2627ef41ed
+      - commerce_product_variation.campaign.920207d1-01d4-4f7a-8bd9-f674616b0580
+      - commerce_product_variation.campaign.dce065dc-f762-4123-98ca-56a2e194fdf7
+      - commerce_product_variation.campaign.da5f8003-ec7b-46d8-95ca-46abea178e2c
+      - commerce_product_variation.campaign.a9f73bcc-e2cb-41c9-96a3-8fdd125a1c72
+    taxonomy_term:
+      - taxonomy_term.campaign_category.89b74268-3361-4682-9280-54fce5b02a17
+    file:
+      - file.file.dede93f8-3b9e-4932-8ad2-d5d1777a3a3f
+      - file.file.e1ad747c-3fee-4aa1-bb6a-c39d93b8a78d
+      - file.file.0bf90fa5-cfea-4576-ac24-4bfe88642421
+    paragraph:
+      - paragraph.project_update.0bac2a16-3bf2-49c4-9579-49258871911d
+      - paragraph.project_update.1532f344-01b4-49de-8abc-b204adad4c37
+      - paragraph.project_update.9d4a1353-a318-4c9e-a2f0-3050daa83232

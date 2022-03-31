@@ -1,0 +1,26 @@
+uuid:
+  -
+    value: 200c977f-f1ad-4d52-9c6f-9e1482c48bed
+langcode:
+  -
+    value: en
+shortcut_set:
+  -
+    target_id: default
+    target_type: shortcut_set
+    target_uuid: a5f937dd-a197-4ee3-ac4f-063156fb0a1c
+title:
+  -
+    value: 'Manage form display'
+weight: {  }
+link:
+  -
+    uri: 'internal:/admin/commerce/config/product-types/campaign/edit/form-display'
+    title: null
+    options: {  }
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: shortcut
+  entity_dependencies: {  }

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: d30f655a-0efb-420a-9b0e-ba9d4ab6628c
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/106
+alias:
+  -
+    value: /contact-us
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

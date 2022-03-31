@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6e3072d5-7bdd-42c1-b548-f993d992b6e2
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/3
+alias:
+  -
+    value: /accueil
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

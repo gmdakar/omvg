@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 688ddc5a-5b6f-4138-94fc-54ad7102c47d
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: icon3-h3.svg
+uri:
+  -
+    value: 'public://gbb-uploads/icons/icon3-h3.svg'
+    url: /sites/default/files/gbb-uploads/icons/icon3-h3.svg
+filemime:
+  -
+    value: image/svg+xml
+filesize:
+  -
+    value: 4295
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-24T09:50:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-24T09:50:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

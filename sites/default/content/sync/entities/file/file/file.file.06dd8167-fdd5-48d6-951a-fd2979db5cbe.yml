@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 06dd8167-fdd5-48d6-951a-fd2979db5cbe
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: bg-map-h2.png
+uri:
+  -
+    value: 'public://gbb-uploads/bg-map-h2.png'
+    url: /sites/default/files/gbb-uploads/bg-map-h2.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 30729
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-19T00:41:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-19T00:41:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

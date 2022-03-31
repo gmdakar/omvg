@@ -31,4 +31,4 @@ visibility:
   request_path:
     id: request_path
     negate: false
-    pages: "/nosprojets/termine\r\n/nosprojets/en-cours\r\n/nosprojets/a-venir"
+    pages: "/nosprojets/termine\r\n/nosprojets/en-cours_save\r\n/nosprojets/a-venir_save"

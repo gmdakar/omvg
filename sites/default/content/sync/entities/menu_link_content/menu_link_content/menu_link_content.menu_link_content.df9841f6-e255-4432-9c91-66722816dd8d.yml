@@ -1,0 +1,68 @@
+uuid:
+  -
+    value: df9841f6-e255-4432-9c91-66722816dd8d
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created: {  }
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: false
+title:
+  -
+    value: 'Home 1'
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'entity:node/1'
+    title: ''
+    options:
+      attributes:
+        gva_layout: menu-list
+        gva_layout_columns: '3'
+        gva_block: about
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -57
+expanded:
+  -
+    value: false
+parent:
+  -
+    value: 'menu_link_content:94a4de27-81db-4e54-8897-3958f3d60ca9'
+  -
+    target_type: menu_link_content
+    target_uuid: 94a4de27-81db-4e54-8897-3958f3d60ca9
+changed:
+  -
+    value: '2022-03-28T11:53:45+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
+  menu_entity_link:
+    node: a13e4fbb-a09d-4a29-87bf-6b85f24e12ca
+  entity_dependencies:
+    node:
+      - node.page.a13e4fbb-a09d-4a29-87bf-6b85f24e12ca
+    menu_link_content:
+      - menu_link_content.menu_link_content.94a4de27-81db-4e54-8897-3958f3d60ca9

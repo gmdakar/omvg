@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b1d0b15e-f699-41ac-b916-44427e761164
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/107
+alias:
+  -
+    value: /faqs
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

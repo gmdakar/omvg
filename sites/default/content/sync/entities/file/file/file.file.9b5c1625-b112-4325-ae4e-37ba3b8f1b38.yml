@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 9b5c1625-b112-4325-ae4e-37ba3b8f1b38
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: service-6.jpg
+uri:
+  -
+    value: 'public://services/service-6.jpg'
+    url: /sites/default/files/services/service-6.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 452350
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-07-17T07:06:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-17T07:06:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

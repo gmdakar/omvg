@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: df98f0c0-0fe5-4a99-b184-e9f11ce36695
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: event-3.jpg
+uri:
+  -
+    value: 'public://events/event-3.jpg'
+    url: /sites/default/files/events/event-3.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 83145
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-14T03:39:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-14T03:39:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

@@ -1,0 +1,59 @@
+uuid:
+  -
+    value: f6eaa327-0e2e-48b1-9c21-6a1acbe9f988
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: online
+    target_type: commerce_store_type
+    target_uuid: 3abe9410-88f3-435e-928d-800ad9de2001
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+name:
+  -
+    value: 'Default Store'
+mail:
+  -
+    value: youremail@gmail.com
+default_currency:
+  -
+    target_id: USD
+    target_type: commerce_currency
+    target_uuid: 0099de3b-f622-4a68-b9e9-f5a9d52feebb
+timezone:
+  -
+    value: Europe/Berlin
+address:
+  -
+    langcode: null
+    country_code: AU
+    administrative_area: QLD
+    locality: California
+    dependent_locality: null
+    postal_code: '4800'
+    sorting_code: null
+    address_line1: '2 Queen Street, California'
+    address_line2: ''
+billing_countries: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+is_default:
+  -
+    value: true
+created: {  }
+changed: {  }
+default_langcode:
+  -
+    value: true
+_content_sync:
+  entity_type: commerce_store
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

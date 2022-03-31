@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 0d5db05d-0914-4872-abe5-dfb519613b96
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: avatar-1.jpg
+uri:
+  -
+    value: 'public://testimonial/avatar-1.jpg'
+    url: /sites/default/files/testimonial/avatar-1.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 11862
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:56:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:56:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

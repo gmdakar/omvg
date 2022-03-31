@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: c71f7a94-54fe-4b3d-bc33-8c7ed2332089
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/37
+alias:
+  -
+    value: /banner-7
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

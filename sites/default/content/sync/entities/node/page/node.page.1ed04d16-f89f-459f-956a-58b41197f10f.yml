@@ -1,0 +1,93 @@
+uuid:
+  -
+    value: 1ed04d16-f89f-459f-956a-58b41197f10f
+langcode:
+  -
+    value: fr
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: 18cdf974-0308-4973-9444-0ad78fb7671b
+revision_timestamp:
+  -
+    value: '2022-03-29T21:15:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'A propos de l''OMVG'
+created:
+  -
+    value: '2022-03-29T21:14:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-03-29T21:15:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content:
+  -
+    value: '[{"settings":{"class_css":"el-42831161"},"columns":[],"editing":false,"element_name":"gva_row"}]'
+gva_pagebuilder_enable:
+  -
+    value: enable
+path:
+  -
+    alias: /propos-de-lomvg
+body:
+  -
+    value: "<p>Commodo conventio duis laoreet ludus pala persto quibus. Capto exerci natu pecus. Ad damnum dolor imputo iustum. At distineo elit praemitto uxor.</p>\r\n\r\n<p>Accumsan eu euismod meus neo pertineo premo secundum tamen tum. Luptatum nunc quadrum refero tation tum. Adipiscing camur defui gilvus gravis hos humo immitto ullamcorper. Commodo damnum dolore eu iustum pagus paratus vicis. Distineo laoreet pecus quibus te tego. Abdo abigo antehabeo consequat ille rusticus vicis. Dolor jus pala sino venio. Abbas antehabeo decet eu feugiat nostrud paratus suscipere tamen veniam.</p>\r\n\r\n<p>Abico jus melior te ulciscor volutpat. Decet proprius scisco. Abdo causa defui facilisis nimis tum ulciscor. Duis laoreet pecus pertineo similis tation. Ad comis erat ille illum ratis te typicus valde virtus.</p>\r\n\r\n<p>Commodo conventio duis laoreet ludus pala persto quibus. Capto exerci natu pecus. Ad damnum dolor imputo iustum. At distineo elit praemitto uxor.</p>\r\n\r\n<p>Accumsan eu euismod meus neo pertineo premo secundum tamen tum. Luptatum nunc quadrum refero tation tum. Adipiscing camur defui gilvus gravis hos humo immitto ullamcorper. Commodo damnum dolore eu iustum pagus paratus vicis. Distineo laoreet pecus quibus te tego. Abdo abigo antehabeo consequat ille rusticus vicis. Dolor jus pala sino venio. Abbas antehabeo decet eu feugiat nostrud paratus suscipere tamen veniam.</p>\r\n\r\n<p>Abico jus melior te ulciscor volutpat. Decet proprius scisco. Abdo causa defui facilisis nimis tum ulciscor. Duis laoreet pecus pertineo similis tation. Ad comis erat ille illum ratis te typicus valde virtus.</p>\r\n\r\n<p>Commodo conventio duis laoreet ludus pala persto quibus. Capto exerci natu pecus. Ad damnum dolor imputo iustum. At distineo elit praemitto uxor.</p>\r\n\r\n<p>Accumsan eu euismod meus neo pertineo premo secundum tamen tum. Luptatum nunc quadrum refero tation tum. Adipiscing camur defui gilvus gravis hos humo immitto ullamcorper. Commodo damnum dolore eu iustum pagus paratus vicis. Distineo laoreet pecus quibus te tego. Abdo abigo antehabeo consequat ille rusticus vicis. Dolor jus pala sino venio. Abbas antehabeo decet eu feugiat nostrud paratus suscipere tamen veniam.</p>\r\n\r\n<p>Abico jus melior te ulciscor volutpat. Decet proprius scisco. Abdo causa defui facilisis nimis tum ulciscor. Duis laoreet pecus pertineo similis tation. Ad comis erat ille illum ratis te typicus valde virtus.</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Commodo conventio duis laoreet ludus pala persto quibus. Capto exerci natu pecus. Ad damnum dolor imputo iustum. At distineo elit praemitto uxor.</p>
+
+      <p>Accumsan eu euismod meus neo pertineo premo secundum tamen tum. Luptatum nunc quadrum refero tation tum. Adipiscing camur defui gilvus gravis hos humo immitto ullamcorper. Commodo damnum dolore eu iustum pagus paratus vicis. Distineo laoreet pecus quibus te tego. Abdo abigo antehabeo consequat ille rusticus vicis. Dolor jus pala sino venio. Abbas antehabeo decet eu feugiat nostrud paratus suscipere tamen veniam.</p>
+
+      <p>Abico jus melior te ulciscor volutpat. Decet proprius scisco. Abdo causa defui facilisis nimis tum ulciscor. Duis laoreet pecus pertineo similis tation. Ad comis erat ille illum ratis te typicus valde virtus.</p>
+
+      <p>Commodo conventio duis laoreet ludus pala persto quibus. Capto exerci natu pecus. Ad damnum dolor imputo iustum. At distineo elit praemitto uxor.</p>
+
+      <p>Accumsan eu euismod meus neo pertineo premo secundum tamen tum. Luptatum nunc quadrum refero tation tum. Adipiscing camur defui gilvus gravis hos humo immitto ullamcorper. Commodo damnum dolore eu iustum pagus paratus vicis. Distineo laoreet pecus quibus te tego. Abdo abigo antehabeo consequat ille rusticus vicis. Dolor jus pala sino venio. Abbas antehabeo decet eu feugiat nostrud paratus suscipere tamen veniam.</p>
+
+      <p>Abico jus melior te ulciscor volutpat. Decet proprius scisco. Abdo causa defui facilisis nimis tum ulciscor. Duis laoreet pecus pertineo similis tation. Ad comis erat ille illum ratis te typicus valde virtus.</p>
+
+      <p>Commodo conventio duis laoreet ludus pala persto quibus. Capto exerci natu pecus. Ad damnum dolor imputo iustum. At distineo elit praemitto uxor.</p>
+
+      <p>Accumsan eu euismod meus neo pertineo premo secundum tamen tum. Luptatum nunc quadrum refero tation tum. Adipiscing camur defui gilvus gravis hos humo immitto ullamcorper. Commodo damnum dolore eu iustum pagus paratus vicis. Distineo laoreet pecus quibus te tego. Abdo abigo antehabeo consequat ille rusticus vicis. Dolor jus pala sino venio. Abbas antehabeo decet eu feugiat nostrud paratus suscipere tamen veniam.</p>
+
+      <p>Abico jus melior te ulciscor volutpat. Decet proprius scisco. Abdo causa defui facilisis nimis tum ulciscor. Duis laoreet pecus pertineo similis tation. Ad comis erat ille illum ratis te typicus valde virtus.</p>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

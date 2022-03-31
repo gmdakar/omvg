@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: a054f1cc-0695-4ce1-9db5-89b1eafa6427
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: image-1.jpg
+uri:
+  -
+    value: 'public://testimonial/image-1.jpg'
+    url: /sites/default/files/testimonial/image-1.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 164343
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-07-18T03:56:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-18T03:56:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

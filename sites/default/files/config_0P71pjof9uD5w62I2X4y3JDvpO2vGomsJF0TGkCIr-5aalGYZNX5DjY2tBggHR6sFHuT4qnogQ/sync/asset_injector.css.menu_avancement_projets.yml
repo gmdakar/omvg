@@ -17,7 +17,7 @@ code: |-
       display: block;
       width: 100%;
       height: 100%;
-      border-bottom: 5px solid #979595;
+      border-bottom: 1px solid #909090;
       background-color: #ebebeb;
       color: #6c6c6c;
       font-size: 1.5rem;
@@ -27,15 +27,21 @@ code: |-
       display: block;
       width: 100%;
       height: 100%;
-      border-bottom: 5px solid #979595;
-      background-color: #2b689c;
+      background-color: #0b5aa9;
       color: #fff;
       font-size: 1.5rem;
   }
 
-  #block-menuavancementprojets ul li a::hover {
-      border-bottom: 5px solid #2b689c !important;
+  #block-menuavancementprojets ul li::hover a {
+      display: block;
+      width: 100%;
+      height: 100%;
+      border-bottom: 2px solid #e71a24 !important;
       color: #2b689c !important;
+  }
+
+  #block-menuavancementprojets ul li .svg-inline--fa {
+      color: #e71a24;
   }
 media: all
 preprocess: true

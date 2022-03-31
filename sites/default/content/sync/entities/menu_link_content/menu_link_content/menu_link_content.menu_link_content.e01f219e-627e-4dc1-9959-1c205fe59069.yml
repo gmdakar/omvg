@@ -1,0 +1,66 @@
+uuid:
+  -
+    value: e01f219e-627e-4dc1-9959-1c205fe59069
+langcode:
+  -
+    value: fr
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2022-03-30T16:58:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: 'En cours'
+description: {  }
+menu_name:
+  -
+    value: menu-avancement-projets
+link:
+  -
+    uri: 'internal:/nosprojets/en-cours'
+    title: ''
+    options:
+      fa_icon: ''
+      fa_icon_prefix: fa
+      fa_icon_tag: i
+      fa_icon_appearance: before
+      attributes:
+        gva_class: fa-home
+        gva_layout: menu-grid
+        gva_layout_columns: '3'
+        gva_block: about
+        gva_block_en: about
+        gva_block_fr: about
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -49
+expanded:
+  -
+    value: false
+parent: {  }
+changed:
+  -
+    value: '2022-03-30T19:27:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

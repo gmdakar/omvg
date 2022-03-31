@@ -1,0 +1,59 @@
+uuid:
+  -
+    value: 6faaf68e-4958-4937-b4fd-f41056bdfed7
+type:
+  -
+    target_id: customer
+    target_type: profile_type
+    target_uuid: 74342ad7-911f-4479-8d6f-0d34076f82b1
+revision_created:
+  -
+    value: '2018-05-16T07:30:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 4fa48851-12b1-4a0b-aa62-b5ff6269b9e9
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+    target_uuid: 4fa48851-12b1-4a0b-aa62-b5ff6269b9e9
+is_default:
+  -
+    value: true
+data:
+  - {  }
+created:
+  -
+    value: '2018-05-16T07:30:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-05-16T07:30:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+address:
+  -
+    langcode: null
+    country_code: AU
+    administrative_area: QLD
+    locality: gavias
+    dependent_locality: null
+    postal_code: '4800'
+    sorting_code: null
+    address_line1: gavias
+    address_line2: gav
+    organization: gavias
+    given_name: gaviasthemes
+    additional_name: null
+    family_name: gavias
+_content_sync:
+  entity_type: profile
+  entity_dependencies:
+    user:
+      - user.user.4fa48851-12b1-4a0b-aa62-b5ff6269b9e9

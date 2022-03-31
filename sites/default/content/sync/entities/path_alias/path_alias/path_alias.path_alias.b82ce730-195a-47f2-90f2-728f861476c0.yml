@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: b82ce730-195a-47f2-90f2-728f861476c0
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/104
+alias:
+  -
+    value: /campaigns-list
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

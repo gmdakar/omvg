@@ -1,0 +1,64 @@
+uuid:
+  -
+    value: 15e84baa-5199-4e61-b974-18205a11fc4e
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created: {  }
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: false
+title:
+  -
+    value: 'Our Awards'
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'entity:node/74'
+    title: null
+    options: {  }
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -50
+expanded:
+  -
+    value: false
+parent:
+  -
+    value: 'menu_link_content:d64be6ad-c680-4524-83ed-175655ce10b8'
+  -
+    target_type: menu_link_content
+    target_uuid: d64be6ad-c680-4524-83ed-175655ce10b8
+changed:
+  -
+    value: '2022-03-28T12:07:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
+  menu_entity_link:
+    node: 4a659de3-39a7-4af3-a409-2e41478e2744
+  entity_dependencies:
+    node:
+      - node.page.4a659de3-39a7-4af3-a409-2e41478e2744
+    menu_link_content:
+      - menu_link_content.menu_link_content.d64be6ad-c680-4524-83ed-175655ce10b8

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1781110b-fa0e-4c48-a5af-0b355593aa4d
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/77
+alias:
+  -
+    value: /features-button
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

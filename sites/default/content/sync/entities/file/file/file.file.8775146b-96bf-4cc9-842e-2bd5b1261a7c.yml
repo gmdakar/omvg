@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 8775146b-96bf-4cc9-842e-2bd5b1261a7c
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: bg-manage.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/bg-manage.jpg'
+    url: /sites/default/files/gbb-uploads/bg-manage.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 177240
+status:
+  -
+    value: true
+created:
+  -
+    value: '2020-02-18T07:47:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-02-18T07:47:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

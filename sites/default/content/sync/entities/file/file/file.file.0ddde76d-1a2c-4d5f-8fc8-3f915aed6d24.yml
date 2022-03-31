@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 0ddde76d-1a2c-4d5f-8fc8-3f915aed6d24
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: portfolio-2.jpg
+uri:
+  -
+    value: 'public://portfolio/portfolio-2.jpg'
+    url: /sites/default/files/portfolio/portfolio-2.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 286769
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:25:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:26:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

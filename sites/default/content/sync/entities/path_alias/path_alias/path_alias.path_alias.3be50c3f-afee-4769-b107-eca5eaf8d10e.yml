@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3be50c3f-afee-4769-b107-eca5eaf8d10e
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/30
+alias:
+  -
+    value: /lowpoly-social
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

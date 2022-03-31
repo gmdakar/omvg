@@ -1,0 +1,72 @@
+uuid:
+  -
+    value: 08fde8b3-a955-4dc3-8b4d-e129d0b665e4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: 18cdf974-0308-4973-9444-0ad78fb7671b
+revision_timestamp:
+  -
+    value: '2016-12-21T09:57:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Features - Tabs'
+created:
+  -
+    value: '2016-12-21T09:57:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-11-12T02:53:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout:
+  -
+    value: fw
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class:
+  -
+    value: hidden-title
+gva_box_layout: {  }
+gva_pagebuilder_content:
+  -
+    value: '[{"settings":{"element":"gva_row","bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","style_bg_absolute":"default","class_css":"el-54585309","padding_top":"0","padding_bottom":"70"},"columns":[{"settings":{"element":"gva_column","class_css":"el-6884935"},"col_lg":12,"elements":[{"settings":{"type":"horizontal","animate_delay":"0","title_1":"What is Crowdfunding?","title_content_1":"Crowdfunding is an Entirely New<span class=\"text-second\"> Way of Financing</span>","content_1":"<p><strong>Many entrepreneurs are turning to crowdfunding to connect with the community and raise money for new ventures.</strong></p>\r\n<p>&nbsp;</p>\r\n<p>There are many variations of passages of available, but the majority have suffered alteration in some form, by injected or randomised words which don''t look even slightly. If you are going to use a passage of you need to be sure there isn''t hidden in the middle of text.&nbsp;</p>","title_2":"How Can I Invest?","title_content_2":"Investing in robotics is a cyclical exercise","content_2":"<p><strong>The robotics and automation industries have some peculiarities about them that we should note right from the start.</strong></p>\r\n<p>&nbsp;</p>\r\n<p>First, spending in the industry tends to be driven by what the business community calls expansionary or growth capital spending, which is distinct from maintenance capital spending. In other words, when the economy is doing well and manufacturing companies...</p>","title_3":"Where Can I Invest?","title_content_3":"Robotics Investing Table of Contents","content_3":"<p><strong>Robotics has been tipped to be an integral component of the fourth industrial revolution with predictions claiming it</strong></p>\r\n<p>&nbsp;</p>\r\n<p>With that in mind, here the Investing News Network provides a comprehensive look at robotics with an overview of the subject and where it is headed in the future.&nbsp;However, it has to be noted that researchers have often given diverse opinions on the topic of whether robotics ...</p>","class_css":"el-14251944"},"editing":false,"element_name":"gva_tabs"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_content_builder_copy070301":"on"},{"settings":{"element":"gva_row","bg_color":"#f5f5f5","bg_particles":"off","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container","class_css":"el-92744253"},"columns":[{"settings":{"element":"gva_column","class_css":"el-42207093"},"col_lg":12,"elements":[{"settings":{"type":"vertical","animate_delay":"0","title_1":"Section 1","content_1":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit metus erat, quis varius nibh malesuada ut. In et nunc massa. Pellentesque augue dolor, bibendum id leo sit amet, viverra aliquam sapien. Sed vitae tellus facilisis. stra, per inceptos himenaeos.</p>\r\n<p>There are many variations of passages of available, but the majority have suffered alteration in some form, by injected or randomised words which don''t look even slightly. If you are going to use a passage of you need to be sure there isn''t hidden in the middle of text.</p>","title_2":"Section 2","content_2":"<p>There are many variations of passages of available, but the majority have suffered alteration in some form, by injected or randomised words which don''t look even slightly. If you are going to use a passage of you need to be sure there isn''t hidden in the middle of text.</p>\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit metus erat, quis varius nibh malesuada ut. In et nunc massa. Pellentesque augue dolor, bibendum id leo sit amet, viverra aliquam sapien. Sed vitae tellus facilisis. stra, per inceptos himenaeos.</p>","title_3":"Section 3","content_3":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit metus erat, quis varius nibh malesuada ut. In et nunc massa. Pellentesque augue dolor, bibendum id leo sit amet, viverra aliquam sapien. Sed vitae tellus facilisis. stra, per inceptos himenaeos.</p>\r\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed blandit metus erat, quis varius nibh malesuada ut. In et nunc massa. Pellentesque augue dolor, bibendum id leo sit amet, viverra aliquam sapien. Sed vitae tellus facilisis. stra, per inceptos himenaeos.</p>","class_css":"el-11774368"},"editing":false,"element_name":"gva_tabs"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row"}]'
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /features-tabs
+body: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

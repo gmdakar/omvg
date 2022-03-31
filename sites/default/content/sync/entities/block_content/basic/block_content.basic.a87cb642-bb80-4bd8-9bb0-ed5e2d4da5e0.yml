@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: a87cb642-bb80-4bd8-9bb0-ed5e2d4da5e0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2016-12-21T06:43:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Topbar social'
+changed:
+  -
+    value: '2021-09-30T18:08:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<ul class=\"inline social\">\r\n           <li><a href=\"#\"><i class=\"fab fa-facebook\"></i></a></li>\r\n           <li><a href=\"#\"> <i class=\"fab fa-twitter\"></i></a></li>\r\n          <li><a href=\"#\"><i class=\"fab fa-pinterest-p\"></i></a></li>\r\n          <li><a href=\"#\"><i class=\"fab fa-instagram\"></i></a></li>\r\n</ul>\r\n"
+    format: restricted_html
+    processed: |
+      <ul class="inline social">
+                 <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                 <li><a href="#"> <i class="fab fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fab fa-pinterest-p"></i></a></li>
+                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+      </ul>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

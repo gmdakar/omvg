@@ -1,0 +1,73 @@
+uuid:
+  -
+    value: 8b060820-59f8-4fad-a160-4d14e454085f
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2022-03-25T17:24:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: true
+title:
+  -
+    value: Documentation
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'internal:#'
+    title: ''
+    options:
+      fa_icon: ''
+      fa_icon_prefix: fa
+      fa_icon_tag: i
+      fa_icon_appearance: before
+      attributes:
+        gva_layout: menu-list
+        gva_layout_columns: '3'
+        gva_block: about
+        gva_block_en: about
+        gva_block_fr: about
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -59
+expanded:
+  -
+    value: false
+parent:
+  -
+    value: 'menu_link_content:2b719902-e8b9-4fd9-938d-14ade3f5a33d'
+  -
+    target_type: menu_link_content
+    target_uuid: 2b719902-e8b9-4fd9-938d-14ade3f5a33d
+changed:
+  -
+    value: '2022-03-28T14:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
+  entity_dependencies:
+    menu_link_content:
+      - menu_link_content.menu_link_content.2b719902-e8b9-4fd9-938d-14ade3f5a33d

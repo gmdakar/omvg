@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: ec152da2-bb99-4a64-ac6d-9c0e368161e9
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/82
+alias:
+  -
+    value: /typography
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

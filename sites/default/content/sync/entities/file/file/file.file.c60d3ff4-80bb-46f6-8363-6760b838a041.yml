@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: c60d3ff4-80bb-46f6-8363-6760b838a041
+langcode:
+  -
+    value: fr
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: generateImage_MoVpG9.png
+uri:
+  -
+    value: 'public://2022-03/generateImage_MoVpG9.png'
+    url: /sites/default/files/2022-03/generateImage_MoVpG9.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 1662
+status:
+  -
+    value: true
+created:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2022-03-29T19:41:50+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

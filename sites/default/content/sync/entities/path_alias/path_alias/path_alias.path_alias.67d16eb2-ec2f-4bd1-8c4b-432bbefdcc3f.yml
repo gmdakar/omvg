@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 67d16eb2-ec2f-4bd1-8c4b-432bbefdcc3f
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/80
+alias:
+  -
+    value: /features-tabs
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

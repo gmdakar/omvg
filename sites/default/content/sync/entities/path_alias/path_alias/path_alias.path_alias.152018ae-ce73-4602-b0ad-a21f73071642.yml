@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 152018ae-ce73-4602-b0ad-a21f73071642
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/7
+alias:
+  -
+    value: /future-where-technology-creates-good-jobs
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

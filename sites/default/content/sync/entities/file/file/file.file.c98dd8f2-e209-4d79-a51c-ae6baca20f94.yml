@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: c98dd8f2-e209-4d79-a51c-ae6baca20f94
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: image-3.png
+uri:
+  -
+    value: 'public://gbb-uploads/icons/image-3.png'
+    url: /sites/default/files/gbb-uploads/icons/image-3.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 160502
+status:
+  -
+    value: true
+created:
+  -
+    value: '2017-07-20T03:17:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2017-07-20T03:17:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

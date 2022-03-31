@@ -1,0 +1,52 @@
+uuid:
+  -
+    value: caef049c-db0c-4d8f-a9b6-ae2b6deb73a1
+type:
+  -
+    value: payment_default
+payment_gateway:
+  -
+    target_id: paypal
+    target_type: commerce_payment_gateway
+    target_uuid: 2238ee49-0cbf-42fb-bdf8-fec8d56737a1
+payment_gateway_mode:
+  -
+    value: test
+payment_method: {  }
+order_id:
+  - {  }
+remote_id:
+  -
+    value: 6SD54096T88896212
+remote_state:
+  -
+    value: Completed
+amount:
+  -
+    number: '70.000000'
+    currency_code: USD
+    formatted: "70\_$US"
+refunded_amount:
+  -
+    number: '0.000000'
+    currency_code: USD
+    formatted: "0\_$US"
+state:
+  -
+    value: completed
+authorized: {  }
+expires:
+  -
+    value: '1970-01-01T00:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+completed:
+  -
+    value: '2018-05-16T07:32:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+avs_response_code: {  }
+avs_response_code_label: {  }
+test: {  }
+captured: {  }
+_content_sync:
+  entity_type: commerce_payment
+  entity_dependencies: {  }

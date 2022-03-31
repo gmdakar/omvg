@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 3f850000-12db-491c-a4a5-80de66005862
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/11
+alias:
+  -
+    value: /what-you-do-today-can-improve-your-tomorrows
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 5e40efbe-0105-4d55-93f5-259758cb0967
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: icon-donate.png
+uri:
+  -
+    value: 'public://gbb-uploads/icons/icon-donate.png'
+    url: /sites/default/files/gbb-uploads/icons/icon-donate.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 2294
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-20T03:13:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-20T03:13:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

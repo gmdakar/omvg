@@ -1,0 +1,61 @@
+uuid:
+  -
+    value: aee383c7-8f7b-4180-bdd3-5d53a869f526
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2020-04-17T08:32:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Contact info'
+changed:
+  -
+    value: '2022-03-28T15:19:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"contact-info\">\r\n\t<ul class=\"icon-list-items\">\r\n\t\t<li>\r\n\t\t\t<i aria-hidden=\"true\" class=\"fi flaticon-call\"></i>\t\r\n\t\t\t<span class=\"list-text\">+221 33 888 0000</span>\r\n\t\t</li>\r\n\t\t<li>\r\n\t\t\t<i aria-hidden=\"true\" class=\"fi flaticon-email-2\"></i>\r\n\t\t\t<span class=\"list-text\">information@omvg.org</span></li>\r\n<li>\r\n\t\t\t<i aria-hidden=\"true\" class=\"fi flaticon-check\"></i>\t\r\n\t\t\t<span class=\"list-text\"><a class=\"contact\" href=\"#\">contact</a></span>\r\n\t\t</li>\r\n\t</ul>\r\n</div>"
+    format: restricted_html
+    processed: |-
+      <div class="contact-info">
+      	<ul class="icon-list-items">
+      		<li>
+      			<i aria-hidden="true" class="fi flaticon-call"></i>	
+      			<span class="list-text">+221 33 888 0000</span>
+      		</li>
+      		<li>
+      			<i aria-hidden="true" class="fi flaticon-email-2"></i>
+      			<span class="list-text">information@omvg.org</span></li>
+      <li>
+      			<i aria-hidden="true" class="fi flaticon-check"></i>	
+      			<span class="list-text"><a class="contact" href="#">contact</a></span>
+      		</li>
+      	</ul>
+      </div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

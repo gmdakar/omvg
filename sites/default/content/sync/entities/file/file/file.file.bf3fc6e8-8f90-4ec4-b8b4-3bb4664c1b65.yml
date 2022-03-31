@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: bf3fc6e8-8f90-4ec4-b8b4-3bb4664c1b65
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: bg-9.jpg
+uri:
+  -
+    value: 'public://gbb-uploads/bg-9.jpg'
+    url: /sites/default/files/gbb-uploads/bg-9.jpg
+filemime:
+  -
+    value: image/jpeg
+filesize:
+  -
+    value: 223172
+status:
+  -
+    value: true
+created:
+  -
+    value: '2018-03-21T07:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2018-03-21T07:26:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

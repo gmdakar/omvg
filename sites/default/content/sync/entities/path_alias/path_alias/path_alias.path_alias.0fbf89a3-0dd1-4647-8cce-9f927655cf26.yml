@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 0fbf89a3-0dd1-4647-8cce-9f927655cf26
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/96
+alias:
+  -
+    value: /features-animation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

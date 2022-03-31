@@ -1,0 +1,51 @@
+uuid:
+  -
+    value: a24038be-c281-437e-9974-3a8d078c619b
+langcode:
+  -
+    value: en
+name:
+  -
+    value: admin
+created:
+  -
+    value: '2016-12-21T03:39:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-16T03:03:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+customer_profiles: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+commerce_remote_id: {  }
+user_picture:
+  -
+    alt: ''
+    title: ''
+    width: 550
+    height: 550
+    target_type: file
+    target_uuid: 0dd2c7fd-5e15-4f57-8c69-a7c22a97e8ac
+_content_sync:
+  entity_type: user
+  entity_dependencies:
+    file:
+      - file.file.0dd2c7fd-5e15-4f57-8c69-a7c22a97e8ac
+pass:
+  -
+    value: $S$EnKNVrum0La23ws.tsRPIr/3R5ECufETLKVAmk.tOt/4sur5OcGD
+    pre_hashed: true
+mail:
+  value: demo@gmail.com
+status:
+  value: '1'
+roles:
+  - authenticated
+  - administrator

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 6cf21f4a-205d-457d-ae8a-192a3cfb3cba
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/70
+alias:
+  -
+    value: /about
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

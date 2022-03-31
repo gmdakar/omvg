@@ -1,0 +1,53 @@
+uuid:
+  -
+    value: f1d586a4-4ec8-4a2b-922c-104e3215b17b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: basic
+    target_type: block_content_type
+    target_uuid: c0c71acc-1d8d-40f7-a36a-9869f63b1c2e
+revision_created:
+  -
+    value: '2021-09-06T07:42:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log: {  }
+status:
+  -
+    value: true
+info:
+  -
+    value: 'Topbar Information'
+changed:
+  -
+    value: '2022-03-28T15:20:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+reusable:
+  -
+    value: true
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+body:
+  -
+    value: "<div class=\"topbar-information\">\r\n<ul class=\"infor-list\">\r\n\t<li class=\"email\"><i class=\"fi flaticon-email-1\">&nbsp;</i>informations@omvg.org</li>\r\n\t<li class=\"phone\"><i class=\"fi flaticon-pin\">&nbsp;</i>11, Avenue OMVG, Dakar, Senegal</li>\r\n        <li class=\"email\"><i class=\"fi flaticon-email-2\">&nbsp;</i><a class=\"contact\" href=\"#\">Contact</a></li>\r\n</ul>\r\n</div>\r\n"
+    format: restricted_html
+    processed: |
+      <div class="topbar-information">
+      <ul class="infor-list">
+      	<li class="email"><i class="fi flaticon-email-1">&nbsp;</i>informations@omvg.org</li>
+      	<li class="phone"><i class="fi flaticon-pin">&nbsp;</i>11, Avenue OMVG, Dakar, Senegal</li>
+              <li class="email"><i class="fi flaticon-email-2">&nbsp;</i><a class="contact" href="#">Contact</a></li>
+      </ul>
+      </div>
+    summary: ''
+    summary_processed: ''
+_content_sync:
+  entity_type: block_content
+  entity_dependencies: {  }

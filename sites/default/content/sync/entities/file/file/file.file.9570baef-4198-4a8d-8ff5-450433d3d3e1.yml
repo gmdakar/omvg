@@ -1,0 +1,39 @@
+uuid:
+  -
+    value: 9570baef-4198-4a8d-8ff5-450433d3d3e1
+langcode:
+  -
+    value: en
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+filename:
+  -
+    value: brand-dark-3.png
+uri:
+  -
+    value: 'public://banner/brand-dark-3.png'
+    url: /sites/default/files/banner/brand-dark-3.png
+filemime:
+  -
+    value: image/png
+filesize:
+  -
+    value: 2910
+status:
+  -
+    value: true
+created:
+  -
+    value: '2016-12-21T04:34:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2016-12-21T04:34:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: file
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b

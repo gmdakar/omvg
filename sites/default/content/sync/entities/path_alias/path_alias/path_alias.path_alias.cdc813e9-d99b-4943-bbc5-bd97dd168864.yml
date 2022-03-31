@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: cdc813e9-d99b-4943-bbc5-bd97dd168864
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/16
+alias:
+  -
+    value: /day-life-entrepreneur-co-founders
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

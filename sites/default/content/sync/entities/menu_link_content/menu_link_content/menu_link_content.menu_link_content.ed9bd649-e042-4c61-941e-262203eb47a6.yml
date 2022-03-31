@@ -1,0 +1,71 @@
+uuid:
+  -
+    value: ed9bd649-e042-4c61-941e-262203eb47a6
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created:
+  -
+    value: '2020-12-03T04:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: false
+title:
+  -
+    value: 'Campaigns List'
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'entity:node/104'
+    title: ''
+    options:
+      attributes:
+        gva_layout: menu-list
+        gva_layout_columns: '3'
+        gva_block: breadcrumbs
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: false
+weight:
+  -
+    value: -49
+expanded:
+  -
+    value: false
+parent:
+  -
+    value: 'menu_link_content:80d63001-2341-4d2f-b35f-d6afaeb5afde'
+  -
+    target_type: menu_link_content
+    target_uuid: 80d63001-2341-4d2f-b35f-d6afaeb5afde
+changed:
+  -
+    value: '2022-03-25T17:09:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content
+  menu_entity_link:
+    node: 1c89ac73-49af-487c-b45e-bd59847a6851
+  entity_dependencies:
+    node:
+      - node.page.1c89ac73-49af-487c-b45e-bd59847a6851
+    menu_link_content:
+      - menu_link_content.menu_link_content.80d63001-2341-4d2f-b35f-d6afaeb5afde

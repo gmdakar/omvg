@@ -1,0 +1,99 @@
+uuid:
+  -
+    value: a9fc3ac8-a6c2-4a1c-a6af-d042c4dc6a36
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: event
+    target_type: node_type
+    target_uuid: b38a887d-2484-47b9-8a1c-cf0ff1bd41be
+revision_timestamp:
+  -
+    value: '2018-03-14T03:35:38+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Leaner Responsive Images With Client Hints'
+created:
+  -
+    value: '2018-03-14T03:35:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2019-03-14T16:06:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+body:
+  -
+    value: "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.</p>\r\n\r\n<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.</p>
+
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+    summary: ''
+    summary_processed: ''
+field_event_address:
+  -
+    value: ' 2 Queen Street,California, USA'
+field_event_image:
+  -
+    alt: ''
+    title: ''
+    width: 1000
+    height: 668
+    target_type: file
+    target_uuid: a7f4508a-887b-4a4c-b6f8-f05d955bdb09
+field_event_map:
+  -
+    value: '21.0173222,105.78405279999993'
+field_event_start:
+  -
+    value: '2019-08-14'
+field_event_time:
+  -
+    value: '7:00 - 13:00'
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.a7f4508a-887b-4a4c-b6f8-f05d955bdb09

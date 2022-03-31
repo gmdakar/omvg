@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 1da02317-4d1c-47d4-b595-bdf4a7417d1a
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/29
+alias:
+  -
+    value: /special-bikes
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

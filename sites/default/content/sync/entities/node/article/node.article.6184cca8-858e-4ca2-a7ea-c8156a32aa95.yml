@@ -1,0 +1,116 @@
+uuid:
+  -
+    value: 6184cca8-858e-4ca2-a7ea-c8156a32aa95
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: article
+    target_type: node_type
+    target_uuid: 12ac40c0-086f-4a18-ad36-57ec8f7100d2
+revision_timestamp:
+  -
+    value: '2020-04-20T02:18:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'What you do today can improve your tomorrows'
+created:
+  -
+    value: '2016-12-21T04:08:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-08-25T08:42:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: true
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout: {  }
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class: {  }
+gva_box_layout: {  }
+gva_pagebuilder_content: {  }
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /what-you-do-today-can-improve-your-tomorrows
+body:
+  -
+    value: "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac neque at mi elementum gravida et vitae elit. Etiam ullamcorper auctor orci, id luctus felis laoreet a. Nam nec nulla sit amet tellus pretium rhoncus. Integer interdum, nibh sed posuere aliquet, enim ante lacinia augue, ut ultricies augue erat vel lorem. Vestibulum bibendum dolor sit amet tincidunt lacinia. Nunc sapien libero, condimentum et turpis eget, eleifend hendrerit augue. Duis molestie volutpat feugiat.</p>\r\n\r\n<ul>\r\n\t<li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>\r\n\t<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>\r\n\t<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>\r\n</ul>\r\n\r\n<ol>\r\n\t<li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>\r\n\t<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>\r\n\t<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>\r\n</ol>\r\n\r\n<p>Donec vel libero ullamcorper, faucibus augue auctor, imperdiet diam. Duis quis nibh eget urna convallis blandit. Fusce iaculis purus vitae convallis aliquet. Ut auctor nunc sed odio bibendum fringilla. Quisque egestas non magna ac tincidunt. Aenean laoreet commodo nulla, sed ultrices odio vehicula sit amet. Suspendisse erat tellus, porta et facilisis sit amet, adipiscing sed diam. Nulla condimentum arcu a pellentesque pretium. Pellentesque pharetra odio eu auctor suscipit.</p>\r\n\r\n<p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras congue, felis in congue iaculis, elit enim molestie urna, ut accumsan augue magna aliquet nisi. Nullam interdum bibendum magna, eu sagittis metus convallis quis. Pellentesque vehicula purus sit amet tellus pellentesque suscipit.&nbsp;</p>\r\n\r\n<p>Ut dolor elit, ullamcorper quis ornare vel, congue id orci. In et orci in dolor dapibus sodales ac nec diam. Etiam vulputate erat a quam ullamcorper volutpat. Vestibulum vel feugiat sem, non molestie purus. Duis sit amet faucibus ipsum, ac aliquet urna. In hendrerit sit amet dolor vitae semper.&nbsp;</p>\r\n"
+    format: full_html
+    processed: |
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac neque at mi elementum gravida et vitae elit. Etiam ullamcorper auctor orci, id luctus felis laoreet a. Nam nec nulla sit amet tellus pretium rhoncus. Integer interdum, nibh sed posuere aliquet, enim ante lacinia augue, ut ultricies augue erat vel lorem. Vestibulum bibendum dolor sit amet tincidunt lacinia. Nunc sapien libero, condimentum et turpis eget, eleifend hendrerit augue. Duis molestie volutpat feugiat.</p>
+
+      <ul><li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>
+      	<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>
+      	<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>
+      </ul><ol><li>Proin id lacus non dolor viverra hendrerit vel vel magna.</li>
+      	<li>Duis iaculis varius urna, nec feugiat enim suscipit vitae.</li>
+      	<li>Nulla nec enim eget dui posuere tincidunt sit amet venenatis lorem.</li>
+      </ol><p>Donec vel libero ullamcorper, faucibus augue auctor, imperdiet diam. Duis quis nibh eget urna convallis blandit. Fusce iaculis purus vitae convallis aliquet. Ut auctor nunc sed odio bibendum fringilla. Quisque egestas non magna ac tincidunt. Aenean laoreet commodo nulla, sed ultrices odio vehicula sit amet. Suspendisse erat tellus, porta et facilisis sit amet, adipiscing sed diam. Nulla condimentum arcu a pellentesque pretium. Pellentesque pharetra odio eu auctor suscipit.</p>
+
+      <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras congue, felis in congue iaculis, elit enim molestie urna, ut accumsan augue magna aliquet nisi. Nullam interdum bibendum magna, eu sagittis metus convallis quis. Pellentesque vehicula purus sit amet tellus pellentesque suscipit. </p>
+
+      <p>Ut dolor elit, ullamcorper quis ornare vel, congue id orci. In et orci in dolor dapibus sodales ac nec diam. Etiam vulputate erat a quam ullamcorper volutpat. Vestibulum vel feugiat sem, non molestie purus. Duis sit amet faucibus ipsum, ac aliquet urna. In hendrerit sit amet dolor vitae semper. </p>
+    summary: 'Pellentesque placerat eget euismod. Mauris tempor cursus dolor. Ut dolor elit, ullamcorper quis ornare congue.'
+    summary_processed: 'Pellentesque placerat eget euismod. Mauris tempor cursus dolor. Ut dolor elit, ullamcorper quis ornare congue.'
+comment:
+  -
+    status: 2
+    cid: 0
+    last_comment_timestamp: 1482293398
+    last_comment_name: null
+    last_comment_uid: 1
+    comment_count: 0
+field_image:
+  -
+    alt: alt
+    title: ''
+    width: 800
+    height: 742
+    target_type: file
+    target_uuid: 3cd71d29-eba6-4b3c-889b-6fbaef23dada
+field_post_category:
+  -
+    target_type: taxonomy_term
+    target_uuid: 3c1944ca-6cad-42a2-a68d-2ff836feaffd
+field_post_embed: {  }
+field_post_format:
+  -
+    value: standard
+field_post_gallery: {  }
+field_post_type: {  }
+field_tags: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
+    file:
+      - file.file.3cd71d29-eba6-4b3c-889b-6fbaef23dada
+    taxonomy_term:
+      - taxonomy_term.category.3c1944ca-6cad-42a2-a68d-2ff836feaffd

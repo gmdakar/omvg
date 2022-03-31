@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: a3802ae1-cadb-468b-879b-28135a2c1e42
+langcode:
+  -
+    value: fr
+path:
+  -
+    value: /node/136
+alias:
+  -
+    value: /node-136-realisation
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: 7a7a7ce1-060d-4a44-8cff-34dc69d0f709
+langcode:
+  -
+    value: fr
+path:
+  -
+    value: /node/120
+alias:
+  -
+    value: /node-120-projet
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

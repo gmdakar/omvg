@@ -1,0 +1,50 @@
+uuid:
+  -
+    value: b0baeef0-1e44-4d3b-a3a2-0f9d0defaebc
+langcode:
+  -
+    value: en
+name:
+  -
+    value: demo
+created:
+  -
+    value: '2020-04-16T02:26:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-16T02:46:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+customer_profiles: {  }
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+commerce_remote_id: {  }
+user_picture:
+  -
+    alt: ''
+    title: ''
+    width: 85
+    height: 85
+    target_type: file
+    target_uuid: b6725b46-6e87-4776-834f-02f735eb694d
+_content_sync:
+  entity_type: user
+  entity_dependencies:
+    file:
+      - file.file.b6725b46-6e87-4776-834f-02f735eb694d
+pass:
+  -
+    value: $S$EbSJKSBpwgzYPXjusrnWKJ1CoaStx5UnbMXklHu.VW.mKNuq2/1m
+    pre_hashed: true
+mail:
+  value: demo_user@gmail.com
+status:
+  value: '1'
+roles:
+  - authenticated

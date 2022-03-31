@@ -1,0 +1,58 @@
+uuid:
+  -
+    value: dc85a2d8-c42b-4c70-aac5-7feaf26b5171
+type:
+  -
+    target_id: default
+    target_type: commerce_order_item_type
+    target_uuid: e4292914-ca45-4069-b862-b22191bd96d8
+order_id:
+  -
+    target_type: commerce_order
+    target_uuid: fa63267b-b18f-43ed-933a-629a6ffaf08d
+purchased_entity:
+  -
+    target_type: commerce_product_variation
+    target_uuid: dda7e533-06fa-4b80-a755-6b7c5117100c
+title:
+  -
+    value: 'Cane to Candy from an 1800''s farm to you. - Pledge $10.00'
+quantity:
+  -
+    value: '1.00'
+unit_price:
+  -
+    number: '10.000000'
+    currency_code: USD
+    formatted: "10\_$US"
+overridden_unit_price:
+  -
+    value: false
+total_price:
+  -
+    number: '10.000000'
+    currency_code: USD
+    formatted: "10\_$US"
+adjustments: {  }
+uses_legacy_adjustments:
+  -
+    value: false
+data: {  }
+locked:
+  -
+    value: false
+created:
+  -
+    value: '2020-04-15T04:02:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2020-04-15T04:02:42+00:00'
+    format: 'Y-m-d\TH:i:sP'
+_content_sync:
+  entity_type: commerce_order_item
+  entity_dependencies:
+    commerce_order:
+      - commerce_order.default.fa63267b-b18f-43ed-933a-629a6ffaf08d
+    commerce_product_variation:
+      - commerce_product_variation.campaign.dda7e533-06fa-4b80-a755-6b7c5117100c

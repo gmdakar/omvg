@@ -1,0 +1,49 @@
+uuid:
+  -
+    value: b697245c-1e26-47ee-b633-300aca25f31c
+langcode:
+  -
+    value: en
+vid:
+  -
+    target_id: campaign_category
+    target_type: taxonomy_vocabulary
+    target_uuid: 018d9e5c-d785-4736-9c0f-083a64b91fa1
+revision_created: {  }
+revision_user: {  }
+revision_log_message: {  }
+status:
+  -
+    value: true
+name:
+  -
+    value: 'Water Charity'
+description:
+  -
+    value: null
+    format: null
+    processed: ''
+weight:
+  -
+    value: 0
+parent:
+  -
+    target_id: 0
+changed:
+  -
+    value: '2018-05-14T07:57:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+path:
+  -
+    alias: null
+    pid: null
+    langcode: en
+_content_sync:
+  entity_type: taxonomy_term
+  entity_dependencies: {  }

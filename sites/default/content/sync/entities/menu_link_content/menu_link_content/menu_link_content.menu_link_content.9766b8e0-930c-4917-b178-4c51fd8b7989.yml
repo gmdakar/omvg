@@ -1,0 +1,56 @@
+uuid:
+  -
+    value: 9766b8e0-930c-4917-b178-4c51fd8b7989
+langcode:
+  -
+    value: en
+bundle:
+  -
+    value: menu_link_content
+revision_created: {  }
+revision_user: {  }
+revision_log_message: {  }
+enabled:
+  -
+    value: false
+title:
+  -
+    value: Features
+description: {  }
+menu_name:
+  -
+    value: main
+link:
+  -
+    uri: 'internal:/'
+    title: ''
+    options:
+      attributes:
+        gva_layout: menu-list
+        gva_layout_columns: '4'
+        gva_block: about
+external:
+  -
+    value: false
+rediscover:
+  -
+    value: true
+weight:
+  -
+    value: -50
+expanded:
+  -
+    value: true
+parent: {  }
+changed:
+  -
+    value: '2022-03-28T13:29:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+_content_sync:
+  entity_type: menu_link_content

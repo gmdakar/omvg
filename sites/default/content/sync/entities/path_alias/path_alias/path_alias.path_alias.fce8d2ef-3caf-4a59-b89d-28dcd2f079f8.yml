@@ -1,0 +1,17 @@
+uuid:
+  -
+    value: fce8d2ef-3caf-4a59-b89d-28dcd2f079f8
+langcode:
+  -
+    value: en
+path:
+  -
+    value: /node/99
+alias:
+  -
+    value: /features-testimonial
+status:
+  -
+    value: true
+_content_sync:
+  entity_type: path_alias

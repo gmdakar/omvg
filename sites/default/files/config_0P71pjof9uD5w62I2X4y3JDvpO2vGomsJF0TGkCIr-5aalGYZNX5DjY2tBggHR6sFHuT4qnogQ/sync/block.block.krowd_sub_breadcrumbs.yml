@@ -11,7 +11,7 @@ third_party_settings:
   gaviasthemer:
     breadcrumb_background_image_path: ''
     breadcrumb_background_color: ''
-    breadcrumb_background_position: 'center top'
+    breadcrumb_background_position: 'left top'
     breadcrumb_background_repeat: no-repeat
     breadcrumb_color_style: text-light
     classes: ''

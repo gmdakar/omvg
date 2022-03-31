@@ -37,6 +37,7 @@
         "drupal/layout_builder_component_attributes": "^2.0",
         "drupal/layout_builder_operation_link": "^1.0",
         "drupal/layout_builder_save_and_edit": "^1.0",
+        "drupal/menu_breadcrumb": "^1.16",
         "drupal/native_lazy_loading": "^1.1@RC",
         "drupal/pathauto": "^1.9",
         "drupal/taxonomy_manager": "^2.0",

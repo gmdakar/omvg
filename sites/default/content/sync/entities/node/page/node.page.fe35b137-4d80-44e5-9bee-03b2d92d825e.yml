@@ -1,0 +1,72 @@
+uuid:
+  -
+    value: fe35b137-4d80-44e5-9bee-03b2d92d825e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: page
+    target_type: node_type
+    target_uuid: 18cdf974-0308-4973-9444-0ad78fb7671b
+revision_timestamp:
+  -
+    value: '2016-12-21T10:00:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+revision_log: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_type: user
+    target_uuid: a24038be-c281-437e-9974-3a8d078c619b
+title:
+  -
+    value: 'Features - Call To Action'
+created:
+  -
+    value: '2016-12-21T09:59:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-11-12T02:53:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+promote:
+  -
+    value: false
+sticky:
+  -
+    value: false
+default_langcode:
+  -
+    value: true
+revision_translation_affected:
+  -
+    value: true
+gva_node_layout:
+  -
+    value: fw
+gva_breadcrumb: {  }
+gva_header: {  }
+gva_node_class:
+  -
+    value: hidden-title
+gva_box_layout: {  }
+gva_pagebuilder_content:
+  -
+    value: '[{"settings":{"class_css":"el-39608648","element":"gva_row","bg_position":"left center","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"0","layout":"container","padding_bottom":"70","width":"1170px"},"columns":[{"settings":{"element":"gva_column","class_css":"el-3965928","bg_image":"/sites/default/files/gbb-uploads/bg-lines-transparent.png","bg_color":"#29f0b4","bg_position":"left center","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","padding_top":"80","padding_right":"80","padding_bottom":"80","padding_left":"80","padding_top_lg":"70","padding_right_lg":"15","padding_bottom_lg":"70","padding_left_lg":"15"},"col_lg":12,"elements":[{"settings":{"class_css":"el-34579001","title":"Ready to Raise Funds for Idea?","link":"#","button_title":"Make it happen","button_align":"button-right","style_text":"text-dark","style_button":"btn-black","target":"off","animate_delay":"0"},"editing":false,"element_name":"gva_call_to_action"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"},{"settings":{"class_css":"el-73897096","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","layout":"container-fw","padding_top":"0","padding_bottom":"60"},"columns":[{"settings":{"element":"gva_column","class_css":"el-34202854","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","padding_top":"60","padding_right":"0","style_class":"column-style-1","vertical_align":"vertical-end","col_sm":"12"},"col_lg":6,"elements":[{"settings":{"class_css":"el-48240146","title":"InDemand Superstars","content":"<div>Discover creative projects limited editions of 100 from artists, designers, and more.</div>","icon":"fi flaticon-thumbs-up","icon_position":"left v2","target":"off","icon_width":"fa-4x","title_font_size":"0","title_line_height":"0","title_color":"text-black","desc_color":"text-gray","vertical_align_content":"top","margin":"box-margin-0","animate_delay":"0s","icon_bg_available":"bg-theme","icon_color_available":"color-white","icon_radius":"radius-5x","effect":"effect"},"editing":false,"element_name":"gva_icon_box_classic"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-23967556","bg_image":"/sites/default/files/gbb-uploads/bg-square-2.jpeg","bg_color":"#674df0","bg_position":"left top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"default","vertical_align":"vertical-center","style_class":"column-style-2","padding_left":"43","padding_left_md":"0","margin_top_md":"70","col_sm":"12"},"col_lg":6,"elements":[{"settings":{"class_css":"el-24224651","title":"Find it first on Krowd","content":"<p>Krowd is where early adopters and innovation seekers find lively, imaginative tech before it hits the mainstream.</p>","link":"#","button_title":"Sign up now","button_align":"button-bottom v1","style_text":"text-light","style_button":"btn-theme-second","target":"off","animate_delay":"0"},"editing":false,"element_name":"gva_call_to_action"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"},{"settings":{"class_css":"el-23745504","element":"gva_row","bg_position":"center top","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover","style_space":"default","padding_top":"0","padding_bottom":"70","layout":"container","width":"1170px"},"columns":[{"settings":{"element":"gva_column","class_css":"el-36207673","bg_image":"/sites/default/files/gbb-uploads/bg-7.jpeg","bg_position":"center center","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover"},"col_lg":6,"elements":[{"settings":{"class_css":"el-77828111","title":"Ready? Explore","content":"<p>There are not is many variations of passages of lorem available.</p>","link":"#","button_title":"Discover projects","button_align":"button-bottom v2","style_text":"text-light","style_button":"btn-theme-second","target":"off","animate_delay":"0"},"editing":false,"element_name":"gva_call_to_action"}],"editing":false,"element_name":"gva_column"},{"settings":{"element":"gva_column","class_css":"el-53273846","bg_image":"/sites/default/files/gbb-uploads/bg-8.jpeg","bg_position":"center center","bg_repeat":"no-repeat","bg_attachment":"scroll","bg_size":"cover"},"col_lg":6,"elements":[{"settings":{"class_css":"el-98501234","title":"Feeling Inspired?","content":"<p>There are not is many variations of passages of lorem available.</p>","link":"#","button_title":"Join our team","button_align":"button-bottom v2","style_text":"text-dark","style_button":"btn-white","target":"off","animate_delay":"0"},"editing":false,"element_name":"gva_call_to_action"}],"editing":false,"element_name":"gva_column"}],"editing":false,"element_name":"gva_row","gavias_pagebuilder_copy070301":"on"}]'
+gva_pagebuilder_enable: {  }
+path:
+  -
+    alias: /features-call-action
+body: {  }
+_content_sync:
+  entity_type: node
+  entity_dependencies:
+    user:
+      - user.user.a24038be-c281-437e-9974-3a8d078c619b
