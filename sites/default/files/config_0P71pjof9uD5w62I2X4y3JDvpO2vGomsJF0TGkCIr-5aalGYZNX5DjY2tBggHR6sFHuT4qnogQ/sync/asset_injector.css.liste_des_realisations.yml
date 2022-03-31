@@ -1,0 +1,67 @@
+uuid: 03dbfc9a-5724-4f71-9ebb-34c9b8f26359
+langcode: fr
+status: true
+dependencies: {  }
+id: liste_des_realisations
+label: 'Liste des réalisations'
+code: |-
+  .subtitle_view {
+      font-size: 2rem;
+      text-transform: uppercase;
+  }
+
+  .subtitle_view::before {
+      content: "◈";
+      color: #e71a24;
+  }
+
+
+  .path-nos-realisations #block-krowd-sub-mainpagecontent {
+      background-color: #fdfdfd;
+      padding: 0.15rem 2rem;
+  }
+
+  .path-nos-realisations .field--label-inline div,
+  .path-nos-realisations .field--label-above div{
+      display: inline-block;
+  }
+
+  .path-nos-realisations .field--label-inline .field__label, 
+  .path-nos-realisations .field--label-above .field__label {
+      display: inline-block;
+      margin-right: 0.35rem;
+      font-weight: 700;
+      font-size: 1.15em;
+      color: #5fc6e3;
+  }
+
+  .path-nos-realisations .node__content ul.links {
+      margin-top: 5px; 
+      float: right;
+  }
+
+  .path-nos-realisations .node__content ul.links a {
+      margin-top: 5px;
+      float: right;
+      color: #e71a24;
+      font-size: 1.15em;
+      padding: 0 0.75rem;
+      border: 1px solid #e71a24;
+  }
+
+  .path-nos-realisations .node__content ul.links a::hover {
+      color: #2b689c !important;
+  }
+
+  .path-nos-realisations .node__content ul.links a{
+     font-family: "Font Awesome 5 Free";
+  }
+
+  .path-nos-realisations .node__content ul.links a::before{
+   
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

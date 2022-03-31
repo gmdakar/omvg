@@ -1,0 +1,18 @@
+uuid: 7f419a86-b0b8-472e-b7e7-94b64084820c
+langcode: fr
+status: true
+dependencies: {  }
+id: media_queries
+label: 'Media queries'
+code: |-
+  /* Extra extra small devices (portrait phones, less than 320px: galaxy fold)*/
+  @media (max-width: 576px) {
+    #block-menuavancementprojets ul li span{
+        font-size: .8rem !important;
+    }
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

@@ -1,0 +1,8 @@
+uuid: 4a48eeb5-debf-4ac7-b276-1a6f46ab4164
+langcode: und
+status: true
+dependencies: {  }
+id: date_simple
+label: 'Date simple'
+locked: false
+pattern: 'j F Y'

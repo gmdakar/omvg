@@ -1,0 +1,25 @@
+uuid: 4096e91a-e55c-4906-b5a7-4354ab046da8
+langcode: fr
+status: true
+dependencies: {  }
+id: breadcrumb_
+label: 'Breadcrumb '
+code: |-
+  .breadcrumb-content-inner .gva-breadcrumb-content .breadcrumb-links nav.breadcrumb li:nth-child(4),
+  .breadcrumb-content-inner .gva-breadcrumb-content .breadcrumb-links nav.breadcrumb li:nth-child(5),
+  .breadcrumb-links .dot{
+    display: none;
+  }
+
+  .breadcrumb li:nth-child(1)::after {
+       content: ">";
+  }
+
+  .breadcrumb li {
+       padding: 0 0.1rem;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

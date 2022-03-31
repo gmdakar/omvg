@@ -7,10 +7,22 @@ label: 'Menu avancement projets'
 code: |-
   #block-menuavancementprojets ul li {
       display: inline-block;
-      width: 32%;
+      width: 23%;
       text-align: center;
       margin: 0 auto;
       padding: .5rem 0;
+  }
+
+  #block-menuavancementprojets ul li span{
+      font-size: 1.25rem;
+      text-transform: uppercase;
+  }
+
+  #block-menuavancementprojets ul li.menu-item--active-trail span {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: #1b1f2e;
+      text-decoration: underline;
   }
 
   #block-menuavancementprojets ul li a {
@@ -20,16 +32,14 @@ code: |-
       border-bottom: 1px solid #909090;
       background-color: #ebebeb;
       color: #6c6c6c;
-      font-size: 1.5rem;
   }
 
   #block-menuavancementprojets ul li.menu-item--active-trail a {
       display: block;
       width: 100%;
       height: 100%;
-      background-color: #0b5aa9;
+      background-color: #5fc6e3;
       color: #fff;
-      font-size: 1.5rem;
   }
 
   #block-menuavancementprojets ul li::hover a {
@@ -42,6 +52,7 @@ code: |-
 
   #block-menuavancementprojets ul li .svg-inline--fa {
       color: #e71a24;
+      padding-bottom: 0.1rem;
   }
 media: all
 preprocess: true

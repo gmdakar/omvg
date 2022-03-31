@@ -19,7 +19,7 @@ default:
       uri: 'internal:/nosprojets/a-venir'
       title: ''
       options:
-        fa_icon: ''
+        fa_icon: fa-hourglass-1
         fa_icon_prefix: fa
         fa_icon_tag: i
         fa_icon_appearance: before

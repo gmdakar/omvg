@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 8ea55092-28d6-4f22-83ad-417c21b991d5
+  default_langcode: en
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: service-3.jpg
+  uri:
+    -
+      value: 'public://services/service-3.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 379020
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1500275022

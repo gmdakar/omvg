@@ -5,9 +5,45 @@ dependencies: {  }
 id: liste_des_projets_dans_les_onglets
 label: 'Liste des projets dans les onglets'
 code: |-
-  #block-krowd-sub-mainpagecontent {
+  .path-nosprojets #block-krowd-sub-mainpagecontent {
       background-color: #fdfdfd;
       padding: 0.15rem 2rem;
+  }
+
+  .path-nosprojets .field--label-inline div,
+  .path-nosprojets .field--label-above div{
+      display: inline-block;
+  }
+
+  .path-nosprojets .field--label-inline .field__label, 
+  .path-nosprojets .field--label-above .field__label {
+      display: inline-block;
+      margin-right: 0.35rem;
+      font-weight: 700;
+      font-size: 1.15em;
+      color: #5fc6e3;
+  }
+
+  .path-nosprojets .node__content ul.links {
+      margin-top: 5px; 
+      float: right;
+  }
+
+  .path-nosprojets .node__content ul.links a {
+      margin-top: 5px;
+      float: right;
+      color: #e71a24;
+      font-size: 1.15em;
+      padding: 0 0.75rem;
+      border: 1px solid #e71a24;
+  }
+
+  .path-nosprojets .node__content ul.links a::hover {
+      color: #2b689c !important;
+  }
+
+  .node__content ul.links a::before{
+   content: " ➜ ";
   }
 media: all
 preprocess: true

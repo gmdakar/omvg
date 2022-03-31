@@ -19,7 +19,7 @@ default:
       uri: 'internal:/nosprojets/en-cours'
       title: ''
       options:
-        fa_icon: ''
+        fa_icon: fa-hourglass-2
         fa_icon_prefix: fa
         fa_icon_tag: i
         fa_icon_appearance: before

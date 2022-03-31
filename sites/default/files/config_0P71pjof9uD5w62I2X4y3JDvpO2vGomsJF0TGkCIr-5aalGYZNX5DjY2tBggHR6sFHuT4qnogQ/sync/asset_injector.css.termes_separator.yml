@@ -1,0 +1,20 @@
+uuid: 06b52019-7c10-494b-97ce-a669911a9825
+langcode: fr
+status: true
+dependencies: {  }
+id: termes_separator
+label: 'Termes separator'
+code: |-
+  .field--name-field-realisation-pays.field--type-entity-reference .field__items .field__item a::before {
+    content: "◆ "; 
+    color: #e71a24;
+  }
+
+  .field--name-field-realisation-pays.field--type-entity-reference .field__items .field__item:first-child a::before {
+    content: "";
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

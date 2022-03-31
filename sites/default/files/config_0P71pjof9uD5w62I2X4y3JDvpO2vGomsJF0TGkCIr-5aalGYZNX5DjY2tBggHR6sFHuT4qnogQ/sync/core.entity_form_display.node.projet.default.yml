@@ -8,9 +8,11 @@ dependencies:
     - field.field.node.projet.field_realisation_avancement
     - field.field.node.projet.field_realisation_date
     - field.field.node.projet.field_realisation_pays
+    - field.field.node.projet.field_site_projet_web
     - node.type.projet
   module:
     - datetime_range
+    - link
     - path
     - text
 id: node.projet.default
@@ -69,6 +71,14 @@ content:
       match_limit: 10
       size: 60
       placeholder: ''
+    third_party_settings: {  }
+  field_site_projet_web:
+    type: link_default
+    weight: 126
+    region: content
+    settings:
+      placeholder_url: ''
+      placeholder_title: ''
     third_party_settings: {  }
   gva_box_layout:
     type: options_select

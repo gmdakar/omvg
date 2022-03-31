@@ -9,9 +9,11 @@ dependencies:
     - field.field.node.projet.field_realisation_avancement
     - field.field.node.projet.field_realisation_date
     - field.field.node.projet.field_realisation_pays
+    - field.field.node.projet.field_site_projet_web
     - node.type.projet
   module:
     - datetime_range
+    - link
     - text
     - user
 id: node.projet.teaser
@@ -31,7 +33,7 @@ content:
     type: entity_reference_label
     label: inline
     settings:
-      link: true
+      link: false
     third_party_settings: {  }
     weight: 3
     region: content
@@ -45,10 +47,10 @@ content:
     region: content
   field_realisation_date:
     type: daterange_default
-    label: above
+    label: inline
     settings:
       timezone_override: ''
-      format_type: medium
+      format_type: date_simple
       separator: '-'
     third_party_settings: {  }
     weight: 2
@@ -57,14 +59,26 @@ content:
     type: entity_reference_label
     label: inline
     settings:
-      link: true
+      link: false
     third_party_settings: {  }
     weight: 4
+    region: content
+  field_site_projet_web:
+    type: link
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: nofollow
+      target: _blank
+    third_party_settings: {  }
+    weight: 5
     region: content
   links:
     settings: {  }
     third_party_settings: {  }
-    weight: 5
+    weight: 6
     region: content
 hidden:
   langcode: true

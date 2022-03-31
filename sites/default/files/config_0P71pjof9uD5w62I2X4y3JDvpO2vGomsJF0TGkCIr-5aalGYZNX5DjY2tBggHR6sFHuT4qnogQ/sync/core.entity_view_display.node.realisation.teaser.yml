@@ -29,7 +29,7 @@ content:
     settings:
       trim_length: 250
     third_party_settings: {  }
-    weight: 2
+    weight: 4
     region: content
   field_domaine_d_intervention:
     type: entity_reference_label
@@ -37,25 +37,25 @@ content:
     settings:
       link: true
     third_party_settings: {  }
-    weight: 4
+    weight: 6
     region: content
   field_realisation_avancement:
     type: entity_reference_label
     label: inline
     settings:
-      link: false
+      link: true
     third_party_settings: {  }
-    weight: 1
+    weight: 2
     region: content
   field_realisation_date:
     type: daterange_default
     label: inline
     settings:
       timezone_override: ''
-      format_type: medium
+      format_type: date_simple
       separator: '-'
     third_party_settings: {  }
-    weight: 3
+    weight: 5
     region: content
   field_realisation_illustration:
     type: image
@@ -64,7 +64,7 @@ content:
       image_link: content
       image_style: medium
     third_party_settings: {  }
-    weight: 0
+    weight: 1
     region: content
   field_realisation_pays:
     type: entity_reference_label
@@ -72,7 +72,7 @@ content:
     settings:
       link: true
     third_party_settings: {  }
-    weight: 5
+    weight: 0
     region: content
   field_realisation_projet:
     type: entity_reference_label
@@ -80,7 +80,7 @@ content:
     settings:
       link: true
     third_party_settings: {  }
-    weight: 6
+    weight: 3
     region: content
   links:
     settings: {  }
