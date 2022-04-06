@@ -16,7 +16,7 @@ default:
       value: main
   link:
     -
-      uri: 'internal:/realisations'
+      uri: 'internal:/nos-realisations'
       title: ''
       options:
         fa_icon: ''

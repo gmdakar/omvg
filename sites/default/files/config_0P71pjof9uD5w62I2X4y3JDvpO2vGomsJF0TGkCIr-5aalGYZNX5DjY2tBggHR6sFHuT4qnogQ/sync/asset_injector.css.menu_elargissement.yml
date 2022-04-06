@@ -3,7 +3,7 @@ langcode: fr
 status: true
 dependencies: {  }
 id: menu_elargissement
-label: 'menu elargissement'
+label: 'menu main'
 code: |-
   header.header-default .main-menu {
       max-width: 100%;
@@ -16,6 +16,10 @@ code: |-
       text-align: left !important;
       text-transform: uppercase !important;
       /* font-weight: 400 !important; */
+  }
+
+  .navigation .gva_menu_main a[href=''] {
+      cursor: default;
   }
 media: all
 preprocess: true

@@ -44,6 +44,10 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
     );
 
     public static $prefixLengthsPsr4 = array (
+        'l' => 
+        array (
+            'lsolesen\\pel\\' => 13,
+        ),
         'W' => 
         array (
             'Webmozart\\PathUtil\\' => 19,
@@ -87,6 +91,7 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
             'Symfony\\Component\\Console\\' => 26,
             'Symfony\\Cmf\\Component\\Routing\\' => 30,
             'Symfony\\Bridge\\PsrHttpMessage\\' => 30,
+            'Spatie\\PdfToImage\\' => 18,
             'SelfUpdate\\' => 11,
         ),
         'R' => 
@@ -122,6 +127,11 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
             'Grasmash\\YamlExpander\\' => 22,
             'Grasmash\\Expander\\' => 18,
         ),
+        'F' => 
+        array (
+            'FontLib\\' => 8,
+            'FileEye\\MimeMap\\' => 16,
+        ),
         'E' => 
         array (
             'Enlightn\\SecurityChecker\\' => 25,
@@ -131,6 +141,7 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
         array (
             'Drush\\Internal\\' => 15,
             'Drush\\' => 6,
+            'Drupal\\sophron\\' => 15,
             'Drupal\\Driver\\' => 14,
             'Drupal\\Core\\' => 12,
             'Drupal\\Composer\\Plugin\\VendorHardening\\' => 39,
@@ -167,6 +178,10 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
     );
 
     public static $prefixDirsPsr4 = array (
+        'lsolesen\\pel\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/lsolesen/pel/src',
+        ),
         'Webmozart\\PathUtil\\' => 
         array (
             0 => __DIR__ . '/..' . '/webmozart/path-util/src',
@@ -307,6 +322,10 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
         array (
             0 => __DIR__ . '/..' . '/symfony/psr-http-message-bridge',
         ),
+        'Spatie\\PdfToImage\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/spatie/pdf-to-image/src',
+        ),
         'SelfUpdate\\' => 
         array (
             0 => __DIR__ . '/..' . '/consolidation/self-update/src',
@@ -384,6 +403,14 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
         array (
             0 => __DIR__ . '/..' . '/grasmash/expander/src',
         ),
+        'FontLib\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/phenx/php-font-lib/src/FontLib',
+        ),
+        'FileEye\\MimeMap\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/fileeye/mimemap/src',
+        ),
         'Enlightn\\SecurityChecker\\' => 
         array (
             0 => __DIR__ . '/..' . '/enlightn/security-checker/src',
@@ -399,6 +426,10 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
         'Drush\\' => 
         array (
             0 => __DIR__ . '/..' . '/drush/drush/src',
+        ),
+        'Drupal\\sophron\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/modules/contrib/sophron/src',
         ),
         'Drupal\\Driver\\' => 
         array (

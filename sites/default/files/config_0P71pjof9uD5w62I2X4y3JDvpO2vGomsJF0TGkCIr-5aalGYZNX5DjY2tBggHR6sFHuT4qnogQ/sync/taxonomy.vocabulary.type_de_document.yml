@@ -1,0 +1,8 @@
+uuid: 3dc6b1df-9b2f-41ab-becd-5c96ba4e19fd
+langcode: und
+status: true
+dependencies: {  }
+name: 'Type de document'
+vid: type_de_document
+description: ''
+weight: 0

@@ -1,0 +1,23 @@
+uuid: c6e5debe-494d-4752-90e8-746b6b23911f
+langcode: fr
+status: true
+dependencies:
+  module:
+    - file
+    - node
+id: node.field_document_fichier
+field_name: field_document_fichier
+entity_type: node
+type: file
+settings:
+  target_type: file
+  display_field: false
+  display_default: false
+  uri_scheme: public
+module: file
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

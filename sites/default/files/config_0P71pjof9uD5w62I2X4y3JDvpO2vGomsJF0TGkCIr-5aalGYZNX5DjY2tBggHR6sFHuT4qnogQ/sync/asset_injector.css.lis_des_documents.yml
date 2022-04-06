@@ -1,0 +1,115 @@
+uuid: d612de23-edab-4e0b-812d-ff16c0ec9439
+langcode: fr
+status: true
+dependencies: {  }
+id: lis_des_documents
+label: 'Liste des documents'
+code: |-
+  .path-documents .form-item-combine,
+  .path-documents .form-item-field-document-type-target-id {
+      max-width: 50%;
+      display: inline-block;
+      margin: .5rem;
+  }
+
+  .node--type-document .field--name-field-document-type.field__item,
+  .path-documents .field--name-field-document-type.field__item {
+      color: #e71a24;
+      font-size: 1.15rem;
+      background-color: #f7f6f5;
+      padding: 0.2rem 0.5rem;
+      font-weight: 400;
+      display: inline-block;
+      margin-bottom: 0.5rem;
+  }
+
+  .path-documents .form-actions {
+      margin: 1.15rem;
+  }
+
+  .path-documents .form-actions input {
+      margin: 0 .5rem;
+  }
+
+  .path-documents #views-exposed-form-documents-page-1 {
+      text-align: center;
+      margin: 1rem 0 2rem 0;
+  }
+
+  .path-documents .form-item-combine input{
+      text-align: center;
+      border-radius: 45px;
+      padding: 8px 2rem;
+  }
+
+  .path-documents #block-krowd-sub-mainpagecontent {
+      background-color: #fdfdfd;
+      padding: 0.15rem 2rem;
+  }
+
+  .path-documents .node.node--type-document.node--view-mode-teaser {
+      margin: 1rem 0;
+      background-color: #ffff;
+      padding: 0.5rem 1rem;
+      border: 1px solid #f3f2f2;
+  }
+
+  .path-documents .field--label-inline div,
+  .path-documents .field--label-above div{
+      display: inline-block;
+  }
+
+  .path-documents .field--label-inline .field__label, 
+  .path-documents .field--label-above .field__label {
+      display: inline-block;
+      margin-right: 0.35rem;
+      font-weight: 700;
+      font-size: 1.15em;
+      color: #5fc6e3;
+  }
+
+  .path-documents .node__content ul.links {
+      margin-top: 5px; 
+      float: right;
+  }
+
+  .path-documents .node__content ul.links a {
+      margin-top: 5px;
+      float: right;
+      color: #e71a24;
+      font-size: 1.15em;
+      padding: 0 0.75rem;
+      border: 1px solid #e71a24;
+  }
+
+  .path-documents .node__content ul.links a::hover {
+      color: #2b689c !important;
+  }
+
+  .path-documents .node__content ul.links a::before{
+   content: " ➜ ";
+  }
+
+  .path-documents .ds-2col-fluid > .group-left {
+      max-width: 30%;
+  }
+
+  .path-documents .ds-2col-fluid > .group-right {
+      min-width: 66%;
+  }
+
+  .path-documents .field__item {
+      line-height: 1.45;
+  }
+  .node--type-document .file--mime-application-pdf.file--application-pdf::before {
+      content: "\f1c1";
+      font-family: 'FontAwesome';
+      color: #e71a24 !important;
+      font-size: 1.5rem;
+      margin: 0 0.35rem;
+  }
+media: all
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

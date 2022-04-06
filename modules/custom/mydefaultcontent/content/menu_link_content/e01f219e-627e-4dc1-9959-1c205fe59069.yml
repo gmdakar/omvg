@@ -16,7 +16,7 @@ default:
       value: menu-avancement-projets
   link:
     -
-      uri: 'internal:/nosprojets/en-cours'
+      uri: 'internal:/nosprojets/en%20cours'
       title: ''
       options:
         fa_icon: fa-hourglass-2
@@ -38,7 +38,7 @@ default:
       value: true
   weight:
     -
-      value: -49
+      value: -48
   expanded:
     -
       value: false

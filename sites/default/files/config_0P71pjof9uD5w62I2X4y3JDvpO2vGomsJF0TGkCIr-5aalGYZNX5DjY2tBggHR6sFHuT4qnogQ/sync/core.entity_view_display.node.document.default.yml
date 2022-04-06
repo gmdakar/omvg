@@ -1,0 +1,67 @@
+uuid: 4c63c803-a8ed-4786-bb25-4a94426752d4
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.field.node.document.body
+    - field.field.node.document.field_document_apercu_image
+    - field.field.node.document.field_document_fichier
+    - field.field.node.document.field_document_type
+    - image.style.format_a4
+    - node.type.document
+  module:
+    - ds
+    - file_download_link
+    - image
+    - text
+    - user
+id: node.document.default
+targetEntityType: node
+bundle: document
+mode: default
+content:
+  body:
+    type: text_default
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    weight: 1
+    region: content
+  field_document_apercu_image:
+    type: image
+    label: hidden
+    settings:
+      image_link: file
+      image_style: format_a4
+    third_party_settings: {  }
+    weight: 2
+    region: content
+  field_document_fichier:
+    type: file_download_link
+    label: hidden
+    settings:
+      link_text: 'Télécharger [node:field_document_fichier:description] - [file:size]'
+      link_title: ''
+      new_tab: true
+      force_download: true
+      custom_classes: dwnld
+    third_party_settings:
+      ds:
+        ds_limit: ''
+    weight: 3
+    region: content
+  field_document_type:
+    type: entity_reference_label
+    label: hidden
+    settings:
+      link: false
+    third_party_settings: {  }
+    weight: 0
+    region: content
+  links:
+    settings: {  }
+    third_party_settings: {  }
+    weight: 4
+    region: content
+hidden:
+  langcode: true

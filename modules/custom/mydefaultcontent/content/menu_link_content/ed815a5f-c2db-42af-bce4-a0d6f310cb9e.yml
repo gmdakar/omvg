@@ -10,13 +10,13 @@ default:
       value: true
   title:
     -
-      value: 'A venir'
+      value: 'À venir'
   menu_name:
     -
       value: menu-avancement-projets
   link:
     -
-      uri: 'internal:/nosprojets/a-venir'
+      uri: 'internal:/nosprojets/à%20venir'
       title: ''
       options:
         fa_icon: fa-hourglass-1
@@ -38,7 +38,7 @@ default:
       value: true
   weight:
     -
-      value: -48
+      value: -47
   expanded:
     -
       value: false

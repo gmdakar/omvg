@@ -10,7 +10,7 @@ default:
       value: true
   name:
     -
-      value: 'A venir'
+      value: 'À venir'
   weight:
     -
       value: 0

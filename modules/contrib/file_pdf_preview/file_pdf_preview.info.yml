@@ -1,0 +1,12 @@
+name: 'File PDF Preview'
+type: module
+description: 'Provide a Field Widget which generate a preview image from a PDF file.'
+core_version_requirement: ^8.8 || ^9
+package: 'Field'
+dependencies:
+  - drupal:file
+
+# Information added by Drupal.org packaging script on 2021-05-07
+version: '1.0.0-beta2'
+project: 'file_pdf_preview'
+datestamp: 1620428180

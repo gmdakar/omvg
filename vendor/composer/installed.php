@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'ef89592f2900b0660809a596dcecffc8243397a4',
+        'reference' => '2e381255ec8f75a163d5f1abfd90f0bd71513564',
         'name' => 'drupal/legacy-project',
         'dev' => true,
     ),
@@ -667,6 +667,15 @@
             'reference' => '4.1.5',
             'dev_requirement' => false,
         ),
+        'drupal/ds' => array(
+            'pretty_version' => '3.13.0',
+            'version' => '3.13.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/ds',
+            'aliases' => array(),
+            'reference' => '8.x-3.13',
+            'dev_requirement' => false,
+        ),
         'drupal/dynamic_page_cache' => array(
             'dev_requirement' => false,
             'replaced' => array(
@@ -717,6 +726,33 @@
             'replaced' => array(
                 0 => '9.3.7',
             ),
+        ),
+        'drupal/file_download_link' => array(
+            'pretty_version' => '2.0.1',
+            'version' => '2.0.1.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/file_download_link',
+            'aliases' => array(),
+            'reference' => '2.0.1',
+            'dev_requirement' => false,
+        ),
+        'drupal/file_mdm' => array(
+            'pretty_version' => '2.4.0',
+            'version' => '2.4.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/file_mdm',
+            'aliases' => array(),
+            'reference' => '8.x-2.4',
+            'dev_requirement' => false,
+        ),
+        'drupal/file_pdf_preview' => array(
+            'pretty_version' => '1.0.0-beta2',
+            'version' => '1.0.0.0-beta2',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/file_pdf_preview',
+            'aliases' => array(),
+            'reference' => '1.0.0-beta2',
+            'dev_requirement' => false,
         ),
         'drupal/filter' => array(
             'dev_requirement' => false,
@@ -794,6 +830,24 @@
             'install_path' => __DIR__ . '/../../modules/contrib/imagefield_default_alt_and_title',
             'aliases' => array(),
             'reference' => '8.x-1.4',
+            'dev_requirement' => false,
+        ),
+        'drupal/imagefield_tokens' => array(
+            'pretty_version' => '2.23.0',
+            'version' => '2.23.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/imagefield_tokens',
+            'aliases' => array(),
+            'reference' => '8.x-2.23',
+            'dev_requirement' => false,
+        ),
+        'drupal/imagemagick' => array(
+            'pretty_version' => '3.3.0',
+            'version' => '3.3.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/imagemagick',
+            'aliases' => array(),
+            'reference' => '8.x-3.3',
             'dev_requirement' => false,
         ),
         'drupal/inline_form_errors' => array(
@@ -877,7 +931,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'ef89592f2900b0660809a596dcecffc8243397a4',
+            'reference' => '2e381255ec8f75a163d5f1abfd90f0bd71513564',
             'dev_requirement' => false,
         ),
         'drupal/link' => array(
@@ -1027,6 +1081,24 @@
             'reference' => '8.x-1.9',
             'dev_requirement' => false,
         ),
+        'drupal/pdf_preview_image' => array(
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/pdf_preview_image',
+            'aliases' => array(),
+            'reference' => '8.x-1.0',
+            'dev_requirement' => false,
+        ),
+        'drupal/pdfpreview' => array(
+            'pretty_version' => '1.0.0',
+            'version' => '1.0.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/pdfpreview',
+            'aliases' => array(),
+            'reference' => '8.x-1.0',
+            'dev_requirement' => false,
+        ),
         'drupal/quickedit' => array(
             'dev_requirement' => false,
             'replaced' => array(
@@ -1080,6 +1152,15 @@
             'replaced' => array(
                 0 => '9.3.7',
             ),
+        ),
+        'drupal/sophron' => array(
+            'pretty_version' => '1.2.0',
+            'version' => '1.2.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/sophron',
+            'aliases' => array(),
+            'reference' => '8.x-1.2',
+            'dev_requirement' => false,
         ),
         'drupal/standard' => array(
             'dev_requirement' => false,
@@ -1165,6 +1246,15 @@
                 0 => '9.3.7',
             ),
         ),
+        'drupal/transliterate_filenames' => array(
+            'pretty_version' => '2.0.0',
+            'version' => '2.0.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/transliterate_filenames',
+            'aliases' => array(),
+            'reference' => '2.0.0',
+            'dev_requirement' => false,
+        ),
         'drupal/update' => array(
             'dev_requirement' => false,
             'replaced' => array(
@@ -1176,6 +1266,15 @@
             'replaced' => array(
                 0 => '9.3.7',
             ),
+        ),
+        'drupal/vefl' => array(
+            'pretty_version' => '3.0.0',
+            'version' => '3.0.0.0',
+            'type' => 'drupal-module',
+            'install_path' => __DIR__ . '/../../modules/contrib/vefl',
+            'aliases' => array(),
+            'reference' => '8.x-3.0',
+            'dev_requirement' => false,
         ),
         'drupal/views' => array(
             'dev_requirement' => false,
@@ -1235,6 +1334,15 @@
             'install_path' => __DIR__ . '/../enlightn/security-checker',
             'aliases' => array(),
             'reference' => '196bacc76e7a72a63d0e1220926dbb190272db97',
+            'dev_requirement' => false,
+        ),
+        'fileeye/mimemap' => array(
+            'pretty_version' => '1.2.1',
+            'version' => '1.2.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../fileeye/mimemap',
+            'aliases' => array(),
+            'reference' => '4ceb1162e179b2e74683f3229543225db56798f1',
             'dev_requirement' => false,
         ),
         'grasmash/expander' => array(
@@ -1327,6 +1435,15 @@
             'reference' => '84ecbc2dbecc31bd23faf759a0e329ee49abddbd',
             'dev_requirement' => false,
         ),
+        'lsolesen/pel' => array(
+            'pretty_version' => '0.9.12',
+            'version' => '0.9.12.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../lsolesen/pel',
+            'aliases' => array(),
+            'reference' => 'b95fe29cdacf9d36330da277f10910a13648c84c',
+            'dev_requirement' => false,
+        ),
         'masterminds/html5' => array(
             'pretty_version' => '2.7.5',
             'version' => '2.7.5.0',
@@ -1394,6 +1511,15 @@
             'install_path' => __DIR__ . '/../pear/pear_exception',
             'aliases' => array(),
             'reference' => 'b14fbe2ddb0b9f94f5b24cf08783d599f776fff0',
+            'dev_requirement' => false,
+        ),
+        'phenx/php-font-lib' => array(
+            'pretty_version' => '0.5.4',
+            'version' => '0.5.4.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../phenx/php-font-lib',
+            'aliases' => array(),
+            'reference' => 'dd448ad1ce34c63d09baccd05415e361300c35b4',
             'dev_requirement' => false,
         ),
         'psr/cache' => array(
@@ -1507,6 +1633,15 @@
             'replaced' => array(
                 0 => '*',
             ),
+        ),
+        'spatie/pdf-to-image' => array(
+            'pretty_version' => '2.2.0',
+            'version' => '2.2.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../spatie/pdf-to-image',
+            'aliases' => array(),
+            'reference' => '9b8d5bae5b77f6023e87b2401028e52b7addbd48',
+            'dev_requirement' => false,
         ),
         'stack/builder' => array(
             'pretty_version' => 'v1.0.6',

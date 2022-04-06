@@ -1,0 +1,6 @@
+file_pdf_preview:
+  css:
+    theme:
+      css/file_pdf_preview.css: {}
+  js:
+    js/file_pdf_preview.js: {}

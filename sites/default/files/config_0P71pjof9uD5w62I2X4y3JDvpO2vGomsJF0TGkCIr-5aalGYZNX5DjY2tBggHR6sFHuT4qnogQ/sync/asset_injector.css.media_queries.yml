@@ -10,6 +10,35 @@ code: |-
     #block-menuavancementprojets ul li span{
         font-size: .8rem !important;
     }
+    
+    .path-documents .form-item-combine input {
+      padding: 0;
+    }
+    
+    .path-documents .form-item-combine, .path-documents .form-item-field-document-type-target-id {
+      max-width: none;
+    }
+    
+    
+    .path-documents .ds-2col-fluid > .group-left {
+      max-width: none;
+      width: 100%;
+    }
+    
+    .path-documents .ds-2col-fluid > .group-right {
+      min-width: 100%;
+      width: 100%;
+      margin-top: 1rem;
+    }
+    
+    .path-documents .form-submit {
+      margin: 0.5rem !important;
+    }
+    
+    .path-documents article {
+      text-align: center;
+    }
+
   }
 media: all
 preprocess: true

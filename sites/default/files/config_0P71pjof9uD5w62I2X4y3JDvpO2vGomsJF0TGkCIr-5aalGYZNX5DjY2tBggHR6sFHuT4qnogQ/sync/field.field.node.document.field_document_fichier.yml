@@ -1,0 +1,32 @@
+uuid: bd21fc33-895e-4bfc-8827-8d2c7d00385d
+langcode: fr
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_document_fichier
+    - node.type.document
+  module:
+    - file
+    - pdf_to_image_preview
+third_party_settings:
+  pdf_to_image_preview:
+    enable: 0
+    target_field: field_document_apercu_image
+id: node.document.field_document_fichier
+field_name: field_document_fichier
+entity_type: node
+bundle: document
+label: Fichier
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:file'
+  handler_settings: {  }
+  file_directory: 'document/[date:custom:Y]-[date:custom:m]'
+  file_extensions: pdf
+  max_filesize: ''
+  description_field: true
+field_type: file

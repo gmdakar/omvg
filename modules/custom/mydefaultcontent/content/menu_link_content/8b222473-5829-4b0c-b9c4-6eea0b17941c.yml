@@ -18,7 +18,7 @@ default:
       value: main
   link:
     -
-      uri: 'internal:/nosprojets/en-cours'
+      uri: 'internal:/nosprojets/en%20cours'
       title: ''
       options:
         fa_icon: ''

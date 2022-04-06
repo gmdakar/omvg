@@ -5,13 +5,13 @@ dependencies: {  }
 id: breadcrumb_
 label: 'Breadcrumb '
 code: |-
-  .breadcrumb-content-inner .gva-breadcrumb-content .breadcrumb-links nav.breadcrumb li:nth-child(4),
-  .breadcrumb-content-inner .gva-breadcrumb-content .breadcrumb-links nav.breadcrumb li:nth-child(5),
-  .breadcrumb-links .dot{
+  :not(.path-node) .breadcrumb-content-inner .gva-breadcrumb-content .breadcrumb-links nav.breadcrumb li:nth-child(4),
+  :not(.path-node) .breadcrumb-content-inner .gva-breadcrumb-content .breadcrumb-links nav.breadcrumb li:nth-child(5),
+  :not(.path-node) .breadcrumb-links .dot{
     display: none;
   }
 
-  .breadcrumb li:nth-child(1)::after {
+  body:not(.path-node) .breadcrumb li:nth-child(1)::after {
        content: ">";
   }
 

@@ -1,0 +1,15 @@
+uuid: 85c90ff3-88f3-4d16-a549-7889ec98455e
+langcode: fr
+status: true
+dependencies: {  }
+name: format_a4
+label: 'Format A4'
+effects:
+  1e510729-087a-4ae7-9228-f7740db131e9:
+    uuid: 1e510729-087a-4ae7-9228-f7740db131e9
+    id: image_scale_and_crop
+    weight: 1
+    data:
+      width: 257
+      height: 368
+      anchor: center-center

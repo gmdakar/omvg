@@ -1,0 +1,38 @@
+uuid: 994e9ccc-ce7b-4f0f-b0cf-3e06e6d36897
+langcode: fr
+status: true
+dependencies: {  }
+id: force_nolink_effect
+label: 'Force nolink effect'
+code: |
+  (function ($, Drupal) {
+
+    'use strict';
+
+    Drupal.behaviors.no_link = {
+      attach: function (context, settings) {
+  		//mms: le theme krowd semble mal géré l'option nolink fourni par Drupal, donc on force ici le site à pas rendre clickable
+  		//le lien nolink. Quid des mobiles?
+  		 console.log("menu no_link");
+  		$(".gva-navigation li > a").each(function() {
+  		  console.log("menu link a:" + $( this ).attr("href"));
+  			if (!($( this ).attr("href")))
+  				
+  				$( this ).click(function(event){
+            //event.preventDefault();
+            return false;
+          });
+  				
+  		});
+      }
+    };
+
+  })(jQuery, Drupal);
+noscript: ''
+noscriptRegion: {  }
+jquery: true
+header: false
+preprocess: true
+conditions: {  }
+contexts: {  }
+conditions_require_all: true

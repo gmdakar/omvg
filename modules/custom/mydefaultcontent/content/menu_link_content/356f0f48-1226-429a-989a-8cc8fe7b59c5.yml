@@ -12,13 +12,13 @@ default:
       value: true
   title:
     -
-      value: 'A venir'
+      value: 'À venir'
   menu_name:
     -
       value: main
   link:
     -
-      uri: 'internal:/nosprojets/a-venir'
+      uri: 'internal:/nosprojets/à%20venir'
       title: ''
       options:
         fa_icon: ''

@@ -16,7 +16,7 @@ default:
       value: main
   link:
     -
-      uri: 'internal:/nosprojets/termine'
+      uri: 'internal:/nosprojets'
       title: ''
       options:
         fa_icon: ''

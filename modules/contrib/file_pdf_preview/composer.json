@@ -1,0 +1,17 @@
+{
+  "name": "drupal/file_pdf_preview",
+  "type": "drupal-module",
+  "description": "File PDF Preview",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/file_pdf_preview",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/file_pdf_preview",
+    "source": "http://cgit.drupalcode.org/file_pdf_preview"
+  },
+  "require": {
+    "ext-imagick": "*",
+    "spatie/pdf-to-image": "*"
+  }
+}

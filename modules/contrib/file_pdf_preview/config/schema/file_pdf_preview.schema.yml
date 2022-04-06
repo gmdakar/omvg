@@ -1,0 +1,20 @@
+# Schema for the configuration files of the File PDF Preview module.
+field.widget.settings.file_pdf_preview:
+  type: mapping
+  label: 'File PDF Preview widget settings'
+  mapping:
+    progress_indicator:
+      type: string
+      label: 'Progress indicator'
+    preview_image_style:
+      type: string
+      label: 'Preview image style'
+    target_field_name:
+      type: string
+      label: 'Target field name'
+    force_save:
+      type: boolean
+      label: 'Force save'
+    description:
+      type: text
+      label: 'Description'
