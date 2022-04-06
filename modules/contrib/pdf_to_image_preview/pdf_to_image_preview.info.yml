@@ -1,0 +1,9 @@
+name: PDF TO Preview Image
+description: Autogenerates PDF preview into an image field.
+core: '8.x'
+core_version_requirement: ^8 || ^9
+package: Field types
+type: module
+dependencies:
+  - file
+  - image

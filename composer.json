@@ -16,6 +16,7 @@
     ],
     "require": {
         "composer/installers": "^1.9",
+        "cweagans/composer-patches": "^1.7",
         "drupal/animate_any": "^1.4",
         "drupal/asset_injector": "^2.10",
         "drupal/backup_migrate": "^5.0",
@@ -67,6 +68,12 @@
         }
     },
     "extra": {
+		"enable-patching": true,
+		"patches": {
+			"drupal/pdf_preview_image": {
+				"<patch1 information>": "https://www.drupal.org/files/issues/2018-03-16/fix_module_name-2953786-3.patch"
+			}
+		 },
         "drupal-scaffold": {
             "locations": {
                 "web-root": "./"

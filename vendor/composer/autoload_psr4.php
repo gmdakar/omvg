@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'lsolesen\\pel\\' => array($vendorDir . '/lsolesen/pel/src'),
+    'cweagans\\Composer\\' => array($vendorDir . '/cweagans/composer-patches/src'),
     'Webmozart\\PathUtil\\' => array($vendorDir . '/webmozart/path-util/src'),
     'Webmozart\\Assert\\' => array($vendorDir . '/webmozart/assert/src'),
     'Twig\\' => array($vendorDir . '/twig/twig/src'),

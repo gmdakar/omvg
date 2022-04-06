@@ -48,6 +48,10 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
         array (
             'lsolesen\\pel\\' => 13,
         ),
+        'c' => 
+        array (
+            'cweagans\\Composer\\' => 18,
+        ),
         'W' => 
         array (
             'Webmozart\\PathUtil\\' => 19,
@@ -181,6 +185,10 @@ class ComposerStaticInit1ca02a844b8d12612a2aa2a04074ccd1
         'lsolesen\\pel\\' => 
         array (
             0 => __DIR__ . '/..' . '/lsolesen/pel/src',
+        ),
+        'cweagans\\Composer\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/cweagans/composer-patches/src',
         ),
         'Webmozart\\PathUtil\\' => 
         array (
