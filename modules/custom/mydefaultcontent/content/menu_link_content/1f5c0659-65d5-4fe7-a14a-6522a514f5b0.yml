@@ -16,7 +16,7 @@ default:
       value: main
   link:
     -
-      uri: 'internal:#'
+      uri: 'route:<nolink>'
       title: ''
       options:
         fa_icon: ''
@@ -34,7 +34,7 @@ default:
       value: false
   rediscover:
     -
-      value: true
+      value: false
   weight:
     -
       value: -55

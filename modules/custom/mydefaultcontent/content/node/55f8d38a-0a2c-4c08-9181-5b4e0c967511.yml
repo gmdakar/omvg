@@ -1,0 +1,63 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 55f8d38a-0a2c-4c08-9181-5b4e0c967511
+  bundle: document
+  default_langcode: und
+  depends:
+    e57a9b68-1bf1-4ad5-9d21-72126ecc6477: file
+    eac4fbde-659b-46e5-af63-b6579cbc7480: file
+    9554f460-0bba-49e9-95e4-d26a503978d3: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Document 3'
+  created:
+    -
+      value: 1648839220
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: ''
+      langcode: und
+      pathauto: 0
+  body:
+    -
+      value: "<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus</p>\r\n"
+      format: full_html
+      summary: ''
+  field_document_apercu_image:
+    -
+      entity: e57a9b68-1bf1-4ad5-9d21-72126ecc6477
+      alt: njjj
+      title: ''
+      width: 1386
+      height: 833
+  field_document_fichier:
+    -
+      entity: eac4fbde-659b-46e5-af63-b6579cbc7480
+      display: true
+      description: ''
+  field_document_type:
+    -
+      entity: 9554f460-0bba-49e9-95e4-d26a503978d3

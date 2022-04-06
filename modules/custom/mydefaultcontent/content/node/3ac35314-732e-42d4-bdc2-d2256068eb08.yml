@@ -1,0 +1,65 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 3ac35314-732e-42d4-bdc2-d2256068eb08
+  bundle: document
+  default_langcode: und
+  depends:
+    3080851b-68a0-4d23-94c2-4bd6a04cd558: file
+    8c95cfd4-1b58-4b28-9f9c-25ec5af6a983: file
+    8565d9c1-3735-4f66-a272-648fee52c702: file
+    ea2612ef-963c-4a7e-b69a-8dc5af648eed: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Document 5'
+  created:
+    -
+      value: 1648839221
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: ''
+      langcode: und
+      pathauto: 0
+  body:
+    -
+      value: "<p>text&nbsp;Document5&nbsp;ecessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus</p>\r\n"
+      format: full_html
+      summary: ''
+  field_document_fichier:
+    -
+      entity: 3080851b-68a0-4d23-94c2-4bd6a04cd558
+      display: true
+      description: (fr)
+    -
+      entity: 8c95cfd4-1b58-4b28-9f9c-25ec5af6a983
+      display: true
+      description: (en)
+    -
+      entity: 8565d9c1-3735-4f66-a272-648fee52c702
+      display: true
+      description: (pt)
+  field_document_type:
+    -
+      entity: ea2612ef-963c-4a7e-b69a-8dc5af648eed

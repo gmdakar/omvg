@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: c61ea617-0794-4bed-a4c6-a28157d05d93
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: lettre_invitation_modele_ok_8.pdf
+  uri:
+    -
+      value: 'public://document/2022-04/lettre_invitation_modele_ok_8.pdf'
+  filemime:
+    -
+      value: application/pdf
+  filesize:
+    -
+      value: 43195
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1649179635

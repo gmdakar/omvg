@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: db0cde2a-c7a5-445d-bfdd-064fc93e10fd
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: pexels-johannes-strotker-4303919-1.jpg
+  uri:
+    -
+      value: 'public://document/image/2022-04/pexels-johannes-strotker-4303919-1.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 642542
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1649259060

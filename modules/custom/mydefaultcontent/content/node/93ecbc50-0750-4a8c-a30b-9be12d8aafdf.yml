@@ -1,0 +1,55 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: 93ecbc50-0750-4a8c-a30b-9be12d8aafdf
+  bundle: document
+  default_langcode: und
+  depends:
+    c61ea617-0794-4bed-a4c6-a28157d05d93: file
+    ea2612ef-963c-4a7e-b69a-8dc5af648eed: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Document 20'
+  created:
+    -
+      value: 1649158282
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: ''
+      langcode: und
+      pathauto: 0
+  body:
+    -
+      value: "<p>Document 20 ecessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus</p>\r\n"
+      format: full_html
+      summary: ''
+  field_document_fichier:
+    -
+      entity: c61ea617-0794-4bed-a4c6-a28157d05d93
+      display: true
+      description: ''
+  field_document_type:
+    -
+      entity: ea2612ef-963c-4a7e-b69a-8dc5af648eed

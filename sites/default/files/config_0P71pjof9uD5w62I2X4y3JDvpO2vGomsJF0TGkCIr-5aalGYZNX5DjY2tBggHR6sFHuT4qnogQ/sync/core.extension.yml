@@ -93,7 +93,6 @@ module:
   page_cache: 0
   path: 0
   path_alias: 0
-  pdf_preview_image: 0
   profile: 0
   rdf: 0
   search: 0

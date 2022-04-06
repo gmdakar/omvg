@@ -1,0 +1,73 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: fadece73-d24e-4dff-8c5f-beae09fd681d
+  bundle: document
+  default_langcode: und
+  depends:
+    db0cde2a-c7a5-445d-bfdd-064fc93e10fd: file
+    be4fd0d0-f21c-4252-945b-70704af951cd: file
+    f748fe10-632f-473a-97e9-d7bfd7a2a623: file
+    c14504ef-a7b7-4da3-a645-384b52105d07: file
+    cb00447c-c3f2-435d-a110-91080cbafc09: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Document 4'
+  created:
+    -
+      value: 1648839221
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: ''
+      langcode: und
+      pathauto: 0
+  body:
+    -
+      value: "<p>Document 4 At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>\r\n"
+      format: full_html
+      summary: ''
+  field_document_apercu_image:
+    -
+      entity: db0cde2a-c7a5-445d-bfdd-064fc93e10fd
+      alt: jej
+      title: ''
+      width: 1280
+      height: 1599
+  field_document_fichier:
+    -
+      entity: be4fd0d0-f21c-4252-945b-70704af951cd
+      display: true
+      description: ''
+    -
+      entity: f748fe10-632f-473a-97e9-d7bfd7a2a623
+      display: true
+      description: ''
+    -
+      entity: c14504ef-a7b7-4da3-a645-384b52105d07
+      display: true
+      description: ''
+  field_document_type:
+    -
+      entity: cb00447c-c3f2-435d-a110-91080cbafc09

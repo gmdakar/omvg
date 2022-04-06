@@ -1,0 +1,63 @@
+_meta:
+  version: '1.0'
+  entity_type: node
+  uuid: d10b0002-3ef5-4395-8c64-077e25510a8e
+  bundle: document
+  default_langcode: und
+  depends:
+    4c2f39c9-ddbe-4330-93ef-8e150921efa1: file
+    0a23257b-4681-407c-9513-9d2594e5d90f: file
+    ea2612ef-963c-4a7e-b69a-8dc5af648eed: taxonomy_term
+default:
+  revision_uid:
+    -
+      target_id: 1
+  status:
+    -
+      value: true
+  uid:
+    -
+      target_id: 1
+  title:
+    -
+      value: 'Document 1'
+  created:
+    -
+      value: 1648833415
+  promote:
+    -
+      value: false
+  sticky:
+    -
+      value: false
+  revision_translation_affected:
+    -
+      value: true
+  gva_pagebuilder_enable:
+    -
+      value: enable
+  path:
+    -
+      alias: ''
+      langcode: und
+      pathauto: 0
+  body:
+    -
+      value: "<p>text&nbsp;Document 1</p>\r\n"
+      format: full_html
+      summary: ''
+  field_document_apercu_image:
+    -
+      entity: 4c2f39c9-ddbe-4330-93ef-8e150921efa1
+      alt: jh
+      title: ''
+      width: 1184
+      height: 888
+  field_document_fichier:
+    -
+      entity: 0a23257b-4681-407c-9513-9d2594e5d90f
+      display: true
+      description: ''
+  field_document_type:
+    -
+      entity: ea2612ef-963c-4a7e-b69a-8dc5af648eed

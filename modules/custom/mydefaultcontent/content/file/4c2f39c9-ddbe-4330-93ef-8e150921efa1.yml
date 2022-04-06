@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 4c2f39c9-ddbe-4330-93ef-8e150921efa1
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: 'slider-2 - Copie.jpg'
+  uri:
+    -
+      value: 'public://document/image/2022-04/slider-2 - Copie.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 374212
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648839485

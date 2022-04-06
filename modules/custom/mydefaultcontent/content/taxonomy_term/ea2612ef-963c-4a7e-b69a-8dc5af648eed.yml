@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: taxonomy_term
+  uuid: ea2612ef-963c-4a7e-b69a-8dc5af648eed
+  bundle: type_de_document
+  default_langcode: und
+default:
+  status:
+    -
+      value: true
+  name:
+    -
+      value: Convention
+  weight:
+    -
+      value: 0
+  parent:
+    -
+      target_id: 0
+  revision_translation_affected:
+    -
+      value: true
+  path:
+    -
+      alias: ''
+      langcode: und
+      pathauto: 1

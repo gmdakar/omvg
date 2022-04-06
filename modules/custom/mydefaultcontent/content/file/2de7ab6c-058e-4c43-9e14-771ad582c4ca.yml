@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: 2de7ab6c-058e-4c43-9e14-771ad582c4ca
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: image-5.jpg
+  uri:
+    -
+      value: 'public://document/image/2022-04/image-5.jpg'
+  filemime:
+    -
+      value: image/jpeg
+  filesize:
+    -
+      value: 145819
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648839341

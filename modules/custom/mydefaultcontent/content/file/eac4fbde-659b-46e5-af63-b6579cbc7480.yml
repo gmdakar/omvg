@@ -1,0 +1,27 @@
+_meta:
+  version: '1.0'
+  entity_type: file
+  uuid: eac4fbde-659b-46e5-af63-b6579cbc7480
+  default_langcode: fr
+default:
+  uid:
+    -
+      target_id: 1
+  filename:
+    -
+      value: lettre_invitation_modele_last_5.pdf
+  uri:
+    -
+      value: 'public://document/2022-04/lettre_invitation_modele_last_5.pdf'
+  filemime:
+    -
+      value: application/pdf
+  filesize:
+    -
+      value: 41395
+  status:
+    -
+      value: true
+  created:
+    -
+      value: 1648839465
